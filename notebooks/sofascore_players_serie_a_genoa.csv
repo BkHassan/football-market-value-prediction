@@ -1,0 +1,38 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+930191,Lorenzo Colombo,L. Colombo,F,29,24,Italy,10900000,serie_a,genoa
+1093695,Vitinha,Vitinha,F,9,26,Portugal,8400000,serie_a,genoa
+888219,Junior Messias,J. Messias,F,10,35,Brazil,1100000,serie_a,genoa
+1618563,Lorenzo Venturino,L. Venturino,F,76,20,Italy,4600000,serie_a,genoa
+1103911,Elias Havel,E. Havel,F,24,23,Austria,2300000,serie_a,genoa
+1605324,Joi Xheto Nuredini,J. Nuredini,F,86,18,Albania,1100000,serie_a,genoa
+1543212,Alessandro Debenedetti,A. Debenedetti,F,19,22,Italy,635000,serie_a,genoa
+1462347,Gabriele Pessolani,G. Pessolani,F,-,20,Italy,155000,serie_a,genoa
+892924,Hamed Junior Traorè,H. J. Traorè,M,88,26,Côte d'Ivoire,14100000,serie_a,genoa
+1012172,Tommaso Baldanzi,T. Baldanzi,M,35,23,Italy,8000000,serie_a,genoa
+918440,Morten Frendrup,M. Frendrup,M,32,25,Denmark,14400000,serie_a,genoa
+1397355,Hugo Cuenca,H. Cuenca,M,30,21,Paraguay,310000,serie_a,genoa
+797286,Aarón Martín,A. Martín,M,3,29,Spain,4900000,serie_a,genoa
+1511706,Alexsandro Amorim,Amorim,M,4,21,Brazil,8800000,serie_a,genoa
+933203,Mikael Ellertsson,M. Ellertsson,M,77,24,Iceland,5600000,serie_a,genoa
+1819079,Franz-Ethan Meichtry,F. Meichtry,M,77,21,Switzerland,5500000,serie_a,genoa
+970998,Patrizio Masini,P. Masini,M,73,25,Italy,4400000,serie_a,genoa
+184421,Stefano Sabelli,S. Sabelli,M,20,33,Italy,1300000,serie_a,genoa
+1985772,Samuel Wiafe,S. Wiafe,M,71,18,Italy,2300000,serie_a,genoa
+2369254,Chec Bebel Doumbia,C. Doumbia,M,6,18,Italy,425000,serie_a,genoa
+1643838,Jacopo Grossi,J. Grossi,M,80,19,Italy,520000,serie_a,genoa
+889785,Johan Vásquez,J. Vásquez,D,22,27,Mexico,11300000,serie_a,genoa
+879746,Leo Østigård,L. Østigård,D,5,26,Norway,14300000,serie_a,genoa
+1177401,Alan Matturro,A. Matturro,D,33,21,Uruguay,4099999,serie_a,genoa
+1087514,Brooke Norton-Cuffy,B. Norton-Cuffy,D,15,22,England,15500000,serie_a,genoa
+1399888,David Puczka,D. Puczka,D,7,21,Austria,2700000,serie_a,genoa
+1404639,Sebastian Otoa,S. Otoa,D,34,22,Denmark,2700000,serie_a,genoa
+807295,Alessandro Vogliacco,A. Vogliacco,D,4,27,Italy,2400000,serie_a,genoa
+1068885,Alessandro Marcandalli,A. Marcandalli,D,27,23,Italy,14800000,serie_a,genoa
+1526914,Matteo Barbini,M. Barbini,D,-,19,Italy,360000,serie_a,genoa
+1526308,Mamedi Doucoure,M. Doucouré,D,74,19,France,390000,serie_a,genoa
+2249092,Marcelo Vaz,M. Vaz,D,3,18,Guinea-Bissau,410000,serie_a,genoa
+1462342,Tommaso Pittino,T. Pittino,D,-,21,Italy,135000,serie_a,genoa
+556696,Justin Bijlow,J. Bijlow,G,16,28,Netherlands,4099999,serie_a,genoa
+1425153,Ernestas Lysionok,E. Lysionok,G,35,19,Lithuania,635000,serie_a,genoa
+985848,Franz Stolz,F. Stolz,G,99,25,Austria,650000,serie_a,genoa
+1462301,Simone Calvani,S. Calvani,G,-,21,Italy,70000,serie_a,genoa

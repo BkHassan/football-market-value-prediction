@@ -1,0 +1,37 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+840217,Richarlison,Richarlison,F,9,29,Brazil,24000000,premier_league,crystal_palace
+1048888,Mathys Tel,M. Tel,F,11,21,France,23000000,premier_league,crystal_palace
+361420,Dominic Solanke,D. Solanke,F,19,28,England,31000000,premier_league,crystal_palace
+862223,Manor Solomon,M. Solomon,F,27,26,Israel,7800000,premier_league,crystal_palace
+1142679,Wilson Odobert,W. Odobert,F,28,21,France,18500000,premier_league,crystal_palace
+1403192,Mikey Moore,M. Moore,F,47,18,England,18500000,premier_league,crystal_palace
+998772,Dane Scarlett,D. Scarlett,F,44,22,England,1400000,premier_league,crystal_palace
+905163,Mohammed Kudus,M. Kudus,M,20,25,Ghana,54000000,premier_league,crystal_palace
+997183,Xavi Simons,X. Simons,M,7,23,Netherlands,43000000,premier_league,crystal_palace
+1002711,Pape Matar Sarr,P. Sarr,M,29,23,Senegal,28000000,premier_league,crystal_palace
+892673,Sandro Tonali,S. Tonali,M,8,26,Italy,74000000,premier_league,crystal_palace
+904970,Conor Gallagher,C. Gallagher,M,22,26,England,31000000,premier_league,crystal_palace
+356398,James Maddison,J. Maddison,M,10,29,England,19400000,premier_league,crystal_palace
+928124,Dejan Kulusevski,D. Kulusevski,M,21,26,Sweden,16500000,premier_league,crystal_palace
+1391251,Lucas Bergvall,L. Bergvall,M,15,20,Sweden,36000000,premier_league,crystal_palace
+791190,Rodrigo Bentancur,R. Bentancur,M,30,29,Uruguay,19300000,premier_league,crystal_palace
+1142562,Mateus Fernandes,M. Fernandes,M,18,22,Portugal,49000000,premier_league,crystal_palace
+1142335,Archie Gray,A. Gray,M,14,20,England,34000000,premier_league,crystal_palace
+1500794,Yang Min-hyeok,Y. Min-hyeok,M,18,20,South Korea,3300000,premier_league,crystal_palace
+829932,Cristian Romero,C. Romero,D,17,28,Argentina,42000000,premier_league,crystal_palace
+262911,Andy Robertson,A. Robertson,D,26,32,Scotland,7500000,premier_league,crystal_palace
+913654,Pedro Porro,P. Porro,D,23,26,Spain,32000000,premier_league,crystal_palace
+998247,Micky van de Ven,M. van de Ven,D,37,25,Netherlands,49000000,premier_league,crystal_palace
+830659,Marcos Senesi,M. Senesi,D,5,29,Argentina,23000000,premier_league,crystal_palace
+945798,Djed Spence,D. Spence,D,24,25,England,31000000,premier_league,crystal_palace
+962012,Jan Paul van Hecke,J. P. van Hecke,D,6,26,Netherlands,49000000,premier_league,crystal_palace
+983572,Destiny Udogie,D. Udogie,D,13,23,Italy,28000000,premier_league,crystal_palace
+794953,Kevin Danso,K. Danso,D,4,27,Austria,19400000,premier_league,crystal_palace
+1482340,Souza,Souza,D,38,20,Brazil,12400000,premier_league,crystal_palace
+1144143,Kota Takai,K. Takai,D,25,21,Japan,4600000,premier_league,crystal_palace
+94758,Ben Davies,B. Davies,D,33,33,Wales,2800000,premier_league,crystal_palace
+1134744,Ashley Phillips,A. Phillips,D,35,21,England,7500000,premier_league,crystal_palace
+1031251,Antonín Kinský,A. Kinský,G,31,23,Czechia,15700000,premier_league,crystal_palace
+553606,Guglielmo Vicario,G. Vicario,G,1,29,Italy,17300000,premier_league,crystal_palace
+42209,Martin Dúbravka,M. Dúbravka,G,1,37,Slovakia,485000,premier_league,crystal_palace
+859896,Brandon Austin,B. Austin,G,40,27,England,530000,premier_league,crystal_palace

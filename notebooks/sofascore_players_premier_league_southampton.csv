@@ -1,0 +1,35 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+790179,Cyle Larin,C. Larin,F,9,31,Canada,2600000,premier_league,southampton
+993451,Cameron Archer,C. Archer,F,19,24,England,6300000,premier_league,southampton
+1146091,Damion Downs,D. Downs,F,19,22,USA,3900000,premier_league,southampton
+998832,Lewis Dobbin,L. Dobbin,F,33,23,England,7200000,premier_league,southampton
+1440673,Jay Robinson,J. Robinson,F,46,19,England,8199999,premier_league,southampton
+1614475,Nicholas Oyekunle,N. Oyekunle,F,49,19,England,190000,premier_league,southampton
+867583,Ben Brereton Díaz,B. Brereton Díaz,M,25,27,Chile,4800000,premier_league,southampton
+1154637,Kuryu Matsuki,K. Matsuki,M,27,23,Japan,2800000,premier_league,southampton
+1007067,Finn Azaz,F. Azaz,M,10,25,Ireland,18700000,premier_league,southampton
+1386651,Leo Scienza,L. Scienza,M,13,27,Brazil,11500000,premier_league,southampton
+1131449,Shea Charles,S. Charles,M,24,22,Northern Ireland,14500000,premier_league,southampton
+1065214,Samuel Edozie,S. Edozie,M,23,23,England,3800000,premier_league,southampton
+1171234,Caspar Jander,C. Jander,M,20,23,Germany,18500000,premier_league,southampton
+1083026,Tom Fellows,T. Fellows,M,18,23,England,7800000,premier_league,southampton
+328701,Ryan Manning,R. Manning,M,3,30,Ireland,3000000,premier_league,southampton
+879810,Flynn Downes,F. Downes,M,4,27,England,10900000,premier_league,southampton
+1190948,Romeo Akachukwu,R. Akachukwu,M,27,20,Ireland,140000,premier_league,southampton
+1184294,Joe O'Brien Whitmarsh ,J. O. Whitmarsh ,M,37,21,Ireland,210000,premier_league,southampton
+1142342,Cameron Bragg,C. Bragg,M,48,21,Scotland,2100000,premier_league,southampton
+905347,Yukinari Sugawara,Y. Sugawara,D,3,26,Japan,5000000,premier_league,southampton
+980637,Taylor Harwood-Bellis,T. Harwood-Bellis,D,6,24,England,22000000,premier_league,southampton
+1009920,Welington,Welington,D,34,25,Brazil,2900000,premier_league,southampton
+1394676,Joshua Quarshie,J. Quarshie,D,17,21,Germany,4099999,premier_league,southampton
+826057,Mads Roerslev,M. Roerslev,D,30,27,Denmark,4200000,premier_league,southampton
+1426220,Joachim Kayi Sanda,J. K. Sanda,D,27,19,France,1200000,premier_league,southampton
+1134532,Juan Larios,J. Larios,D,27,22,Spain,1200000,premier_league,southampton
+944200,Nathan Wood,N. Wood,D,15,24,England,10300000,premier_league,southampton
+134361,Jack Stephens,J. Stephens,D,5,32,England,910000,premier_league,southampton
+555406,James Bree,J. Bree,D,14,28,England,2600000,premier_league,southampton
+839410,Aaron Ramsdale,A. Ramsdale,G,32,28,England,12600000,premier_league,southampton
+1048265,Daniel Peretz,D. Peretz,G,41,26,Israel,3900000,premier_league,southampton
+936719,Gavin Bazunu,G. Bazunu,G,31,24,Ireland,7200000,premier_league,southampton
+144297,George Long,G. Long,G,12,32,England,160000,premier_league,southampton
+1614472,Josh Jeffries,J. Jeffries,G,30,20,England,Non renseigné,premier_league,southampton

@@ -1,0 +1,43 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+814590,Marcus Rashford,M. Rashford,F,10,28,England,38000000,premier_league,manchester_united
+927083,Bryan Mbeumo,B. Mbeumo,F,19,26,Cameroon,73000000,premier_league,manchester_united
+986397,Benjamin Šeško,B. Šeško,F,30,23,Slovenia,78000000,premier_league,manchester_united
+886363,Matheus Cunha,M. Cunha,F,10,27,Brazil,79000000,premier_league,manchester_united
+836694,Mason Mount,M. Mount,F,7,27,England,23000000,premier_league,manchester_united
+917007,Joshua Zirkzee,J. Zirkzee,F,11,25,Netherlands,21000000,premier_league,manchester_united
+1566204,Chido Obi-Martin,C. O. Martin,F,32,18,Denmark,4600000,premier_league,manchester_united
+1426625,Ethan Wheatley,E. Wheatley,F,36,20,England,260000,premier_league,manchester_united
+288205,Bruno Fernandes,B. Fernandes,M,8,31,Portugal,32000000,premier_league,manchester_united
+971037,Amad Diallo,A. Diallo,M,16,24,Côte d'Ivoire,44000000,premier_league,manchester_united
+1142175,Kobbie Mainoo,K. Mainoo,M,37,21,England,72000000,premier_league,manchester_united
+1105779,Andrey Santos,A. Santos,M,17,22,Brazil,39000000,premier_league,manchester_united
+1397168,Patrick Dorgu,P. Dorgu,M,13,21,Denmark,33000000,premier_league,manchester_united
+846425,Manuel Ugarte,M. Ugarte,M,25,25,Uruguay,24000000,premier_league,manchester_united
+331737,Youri Tielemans,Y. Tielemans,M,18,29,Belgium,33000000,premier_league,manchester_united
+1461595,Harry Amass,H. Amass,M,41,19,England,7200000,premier_league,manchester_united
+1084356,Toby Collyer,T. Collyer,M,43,22,England,5200000,premier_league,manchester_united
+1402726,Jack Fletcher,J. Fletcher,M,38,19,England,1600000,premier_league,manchester_united
+1465865,Shea Lacey,S. Lacey,M,46,19,England,5200000,premier_league,manchester_united
+1475508,Ethan Williams,E. Williams,M,53,20,England,485000,premier_league,manchester_united
+1146145,Daniel Gore,D. Gore,M,44,21,England,960000,premier_league,manchester_united
+1402850,Tyler Fletcher,T. Fletcher,M,39,19,Scotland,1600000,premier_league,manchester_united
+1881884,Jim Thwaites,J. Thwaites,M,63,18,England,Non renseigné,premier_league,manchester_united
+1545162,Jacob Devaney,J. Devaney,M,62,19,Ireland,245000,premier_league,manchester_united
+847030,Noussair Mazraoui,N. Mazraoui,D,3,28,Morocco,17500000,premier_league,manchester_united
+859999,Lisandro Martínez,L. Martínez,D,6,28,Argentina,42000000,premier_league,manchester_united
+803031,Matthijs de Ligt,M. de Ligt,D,4,26,Netherlands,32000000,premier_league,manchester_united
+149380,Harry Maguire,H. Maguire,D,5,33,England,8600000,premier_league,manchester_united
+843200,Diogo Dalot,D. Dalot,D,2,27,Portugal,28000000,premier_league,manchester_united
+1153315,Leny Yoro,L. Yoro,D,15,20,France,46000000,premier_league,manchester_united
+190839,Luke Shaw,L. Shaw,D,23,31,England,7500000,premier_league,manchester_united
+1445799,Ayden Heaven,A. Heaven,D,26,19,England,32000000,premier_league,manchester_united
+1900795,Diego León,D. León,D,35,19,Paraguay,3600000,premier_league,manchester_united
+1142182,Tyler Fredricson,T. Fredricson,D,33,21,England,2800000,premier_league,manchester_united
+1545196,Jaydan Kamason,J. Kamason,D,61,19,England,Non renseigné,premier_league,manchester_united
+1545160,Daniel Armer,D. Armer,D,69,18,Scotland,Non renseigné,premier_league,manchester_united
+964753,Senne Lammens,S. Lammens,G,31,24,Belgium,38000000,premier_league,manchester_united
+815890,Altay Bayındır,A. Bayındır,G,1,28,Türkiye,4900000,premier_league,manchester_united
+18122,Tom Heaton,T. Heaton,G,22,40,England,94000,premier_league,manchester_united
+123689,Karl Darlow,K. Darlow,G,12,35,Wales,210000,premier_league,manchester_united
+1101989,Radek Vitek,R. Vítek,G,40,22,Czechia,5400000,premier_league,manchester_united
+1005664,Dermot Mee,D. Mee,G,45,23,Northern Ireland,210000,premier_league,manchester_united

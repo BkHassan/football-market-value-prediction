@@ -1,0 +1,31 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+826643,Kylian Mbappé,K. Mbappé,F,10,27,France,191000000,la_liga,real_madrid
+868812,Vinícius Júnior,Vinícius Jr.,F,7,26,Brazil,146000000,la_liga,real_madrid
+910536,Rodrygo,Rodrygo,F,11,25,Brazil,48000000,la_liga,real_madrid
+1174937,Endrick,Endrick,F,9,19,Brazil,42000000,la_liga,real_madrid
+1403559,Franco Mastantuono,F. Mastantuono,F,30,18,Argentina,44000000,la_liga,real_madrid
+1402716,Gonzalo García,G. García,F,16,22,Spain,31000000,la_liga,real_madrid
+991011,Jude Bellingham,J. Bellingham,M,5,23,England,123000000,la_liga,real_madrid
+831808,Federico Valverde,F. Valverde,M,8,27,Uruguay,87000000,la_liga,real_madrid
+1091116,Arda Güler,A. Güler,M,15,21,Türkiye,87000000,la_liga,real_madrid
+835485,Brahim Díaz,B. Díaz,M,21,26,Morocco,37000000,la_liga,real_madrid
+973887,Eduardo Camavinga,E. Camavinga,M,6,23,France,48000000,la_liga,real_madrid
+859025,Aurélien Tchouaméni,A. Tchouaméni,M,14,26,France,73000000,la_liga,real_madrid
+331209,Bernardo Silva,B. Silva,M,20,31,Portugal,21000000,la_liga,real_madrid
+2237795,Thiago Pitarch,T. Pitarch,M,8,18,Spain,18200000,la_liga,real_madrid
+759520,Denzel Dumfries,D. Dumfries,M,2,30,Netherlands,26000000,la_liga,real_madrid
+1142683,Manuel Ángel Morán,M. Á. Morán,M,37,22,Spain,4600000,la_liga,real_madrid
+1402688,César Palacios,C. Palacios,M,38,21,Spain,6800000,la_liga,real_madrid
+795064,Trent Alexander-Arnold,T. Alexander-Arnold,D,12,27,England,62000000,la_liga,real_madrid
+142622,Antonio Rüdiger,A. Rüdiger,D,22,33,Germany,6200000,la_liga,real_madrid
+1176744,Dean Huijsen,D. Huijsen,D,24,21,Spain,66000000,la_liga,real_madrid
+822519,Éder Militão,É. Militão,D,3,28,Brazil,21000000,la_liga,real_madrid
+1156645,Raúl Asencio,R. Asencio,D,17,23,Spain,18100000,la_liga,real_madrid
+1085081,Álvaro Carreras,Á. Carreras,D,18,23,Spain,53000000,la_liga,real_madrid
+792073,Ferland Mendy,F. Mendy,D,23,31,France,4200000,la_liga,real_madrid
+794939,Marc Cucurella,M. Cucurella,D,3,27,Spain,52000000,la_liga,real_madrid
+826215,Ibrahima Konaté,I. Konaté,D,5,27,France,46000000,la_liga,real_madrid
+1142689,David Jiménez,D. Jiménez,D,35,22,Spain,5200000,la_liga,real_madrid
+70988,Thibaut Courtois,T. Courtois,G,1,34,Belgium,14500000,la_liga,real_madrid
+857574,Andriy Lunin,A. Lunin,G,13,27,Ukraine,11300000,la_liga,real_madrid
+1493226,Fran González,F. González,G,26,21,Spain,2700000,la_liga,real_madrid

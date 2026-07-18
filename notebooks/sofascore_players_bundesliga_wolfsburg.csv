@@ -1,0 +1,34 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1099296,Mateo Pellegrino,M. Pellegrino,F,9,24,Argentina,14600000,bundesliga,wolfsburg
+928295,Adrian Benedyczak,A. Benedyczak,F,7,25,Poland,4900000,bundesliga,wolfsburg
+1092081,Matija Frigan,M. Frigan,F,20,23,Croatia,7600000,bundesliga,wolfsburg
+1423452,Daniel Mikołajewski,D. Mikołajewski,F,76,20,Poland,1900000,bundesliga,wolfsburg
+1004790,Jacob Ondrejka,J. Ondrejka,F,17,23,Sweden,5800000,bundesliga,wolfsburg
+1486729,Nesta Elphege,N. Elphege,F,23,25,France,3700000,bundesliga,wolfsburg
+856065,Pontus Almqvist,P. Almqvist,F,11,27,Sweden,1700000,bundesliga,wolfsburg
+1463265,Antoine Joujou,A. Joujou,F,21,23,Guadeloupe,2100000,bundesliga,wolfsburg
+1459459,Benjamin Cremaschi,B. Cremaschi,M,25,21,USA,4300000,bundesliga,wolfsburg
+934384,Adrián Bernabé,A. Bernabé,M,10,25,Spain,14100000,bundesliga,wolfsburg
+876259,Hans Nicolussi Caviglia,H. Caviglia,M,41,26,Italy,6200000,bundesliga,wolfsburg
+1110136,Mandela Keita,M. Keita,M,16,24,Belgium,18100000,bundesliga,wolfsburg
+1086199,Franco Carboni,F. Carboni,M,47,23,Argentina,945000,bundesliga,wolfsburg
+891346,Emanuele Valeri,E. Valeri,M,14,27,Italy,2900000,bundesliga,wolfsburg
+1201388,Christian Ordoñez,C. Ordoñez,M,24,22,Argentina,7100000,bundesliga,wolfsburg
+957921,Oliver Sørensen,O. Sørensen,M,22,24,Denmark,6700000,bundesliga,wolfsburg
+1011815,Rachid Kouda,R. Kouda,M,80,23,Italy,2300000,bundesliga,wolfsburg
+1542692,Abdou-Salam Konate,A. Konaté,M,79,19,Senegal,195000,bundesliga,wolfsburg
+1155423,Alessandro Circati,A. Circati,D,3,22,Australia,13000000,bundesliga,wolfsburg
+1516324,Mariano Troilo,M. Troilo,D,37,23,Argentina,9100000,bundesliga,wolfsburg
+984527,Abdoulaye Ndiaye,A. Ndiaye,D,3,24,Senegal,5800000,bundesliga,wolfsburg
+983510,Botond Balogh,B. Balogh,D,4,24,Hungary,2300000,bundesliga,wolfsburg
+928103,Enrico Delprato,E. Delprato,D,15,26,Italy,6600000,bundesliga,wolfsburg
+958517,Lautaro Valenti,L. Valenti,D,5,27,Argentina,2200000,bundesliga,wolfsburg
+1963449,Sascha Britschgi,S. Britschgi,D,27,19,Switzerland,9300000,bundesliga,wolfsburg
+1158079,Peter Amoran,P. Amoran,D,60,22,Sweden,310000,bundesliga,wolfsburg
+1584940,Dominik Drobnic ,D. Drobnic ,D,61,19,Slovenia,880000,bundesliga,wolfsburg
+905351,Zion Suzuki,Z. Suzuki,G,31,23,Japan,21000000,bundesliga,wolfsburg
+1100418,Giovanni Daffara,G. Daffara,G,30,21,Italy,3600000,bundesliga,wolfsburg
+990411,Edoardo Corvi,E. Corvi,G,40,25,Italy,1500000,bundesliga,wolfsburg
+1002428,Filippo Rinaldi,F. Rinaldi,G,66,23,Italy,620000,bundesliga,wolfsburg
+2640014,Gianluca Astaldi,G. Astaldi,G,64,19,Italy,Non renseigné,bundesliga,wolfsburg
+2640015,Alessandro Mazzocchi,A. Mazzocchi,G,60,17,Italy,Non renseigné,bundesliga,wolfsburg

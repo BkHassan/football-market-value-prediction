@@ -1,0 +1,31 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+204336,Patrick Bamford,P. Bamford,F,45,32,England,970000,premier_league,nottingham_forest
+902049,Rabbi Matondo,R. Matondo,F,26,25,Wales,955000,premier_league,nottingham_forest
+1005766,Thomas Cannon,T. Cannon,F,7,23,Ireland,6700000,premier_league,nottingham_forest
+826145,Tyrese Campbell,T. Campbell,F,23,26,England,6300000,premier_league,nottingham_forest
+1586020,Romelle Donovan,R. Donovan,F,45,19,England,3700000,premier_league,nottingham_forest
+1389768,Ryan One,R. One,F,26,20,Scotland,935000,premier_league,nottingham_forest
+1426132,Louie Marsh,L. Marsh,F,34,22,England,140000,premier_league,nottingham_forest
+825845,Tahith Chong,T. Chong,M,24,26,Curacao,3400000,premier_league,nottingham_forest
+285989,Jaïro Riedewald,J. Riedewald,M,-,29,Netherlands,2000000,premier_league,nottingham_forest
+837495,Gustavo Hamer,G. Hamer,M,8,29,Netherlands,14700000,premier_league,nottingham_forest
+1391824,Sydie Peck,S. Peck,M,42,21,England,14900000,premier_league,nottingham_forest
+190853,Joe Rothwell,J. Rothwell,M,48,31,England,580000,premier_league,nottingham_forest
+875085,Callum O'Hare,C. O'Hare,M,10,28,England,5400000,premier_league,nottingham_forest
+1653823,Christian Nwachukwu,C. Nwachukwu,M,40,20,Nigeria,545000,premier_league,nottingham_forest
+1191153,Oliver Arblaster,O. Arblaster,M,4,22,England,1500000,premier_league,nottingham_forest
+1653456,Ehije Ukaki,E. Ukaki,M,7,21,Nigeria,735000,premier_league,nottingham_forest
+836693,Japhet Tanganga,J. Tanganga,D,2,27,England,5600000,premier_league,nottingham_forest
+1435226,Nils Zätterström,N. Zätterström,D,21,21,Sweden,3400000,premier_league,nottingham_forest
+897565,Harrison Burrows,H. Burrows,D,14,24,England,9200000,premier_league,nottingham_forest
+1566233,Harry McGlinchey,H. McGlinchey,D,43,18,Ireland,Non renseigné,premier_league,nottingham_forest
+988343,Mark McGuinness,M. McGuinness,D,25,25,Ireland,6700000,premier_league,nottingham_forest
+943652,Jamie Shackleton,J. Shackleton,D,16,26,England,945000,premier_league,nottingham_forest
+1133697,Sam Curtis,S. Curtis,D,29,20,Ireland,195000,premier_league,nottingham_forest
+966458,Femi Seriki,F. Seriki,D,38,24,England,5400000,premier_league,nottingham_forest
+952461,Sam McCallum,S. McCallum,D,3,25,England,1900000,premier_league,nottingham_forest
+911708,Rhys Norrington-Davies,R. Norrington-Davies,D,33,27,Wales,2300000,premier_league,nottingham_forest
+283847,Ivo Grbić,I. Grbić,G,13,30,Croatia,1000000,premier_league,nottingham_forest
+896209,Michael Cooper,M. Cooper,G,1,26,England,10300000,premier_league,nottingham_forest
+288997,Adam Davies,A. Davies,G,17,34,Wales,195000,premier_league,nottingham_forest
+2639965,Thomas Betts,T. Betts,G,46,,England,Non renseigné,premier_league,nottingham_forest

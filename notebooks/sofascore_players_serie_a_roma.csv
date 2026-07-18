@@ -1,0 +1,29 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+256219,Paulo Dybala,P. Dybala,F,21,32,Argentina,5200000,serie_a,roma
+803039,Donyell Malen,D. Malen,F,14,27,Netherlands,48000000,serie_a,roma
+798820,Artem Dovbyk,A. Dovbyk,F,9,29,Ukraine,13900000,serie_a,roma
+1082406,Matías Soulé,M. Soulé,F,18,23,Argentina,36000000,serie_a,roma
+1514800,Robinio Vaz,R. Vaz,F,78,19,France,18700000,serie_a,roma
+1152834,Luigi Cherubini,L. Cherubini,F,64,22,Italy,2800000,serie_a,roma
+1134200,Wesley,Wesley,M,43,22,Brazil,43000000,serie_a,roma
+1128530,Neil El Aynaoui,N. El Aynaoui,M,8,25,Morocco,22000000,serie_a,roma
+974087,Manu Koné,M. Koné,M,17,25,France,47000000,serie_a,roma
+848355,Angeliño,Angeliño,M,3,29,Spain,4200000,serie_a,roma
+1175821,Niccolò Pisilli,N. Pisilli,M,61,21,Italy,31000000,serie_a,roma
+186855,Bryan Cristante,B. Cristante,M,4,31,Italy,7700000,serie_a,roma
+982778,Devyne Rensch,D. Rensch,M,2,23,Netherlands,7900000,serie_a,roma
+1416583,Mattia Mannini,M. Mannini,M,66,20,Italy,1100000,serie_a,roma
+1105138,Riccardo Pagano,R. Pagano,M,60,21,Italy,1900000,serie_a,roma
+848287,Evan Ndicka,E. Ndicka,D,5,26,Côte d'Ivoire,34000000,serie_a,roma
+961684,Anass Salah-Eddine,A. Salah-Eddine,D,34,24,Morocco,11100000,serie_a,roma
+611210,Gianluca Mancini,G. Mancini,D,23,30,Italy,14600000,serie_a,roma
+1499991,Jan Ziółkowski,J. Ziółkowski,D,24,21,Poland,11600000,serie_a,roma
+353130,Mario Hermoso,M. Hermoso,D,22,31,Spain,6600000,serie_a,roma
+893642,Marash Kumbulla,M. Kumbulla,D,24,26,Albania,2800000,serie_a,roma
+1384847,Daniele Ghilardi,D. Ghilardi,D,87,23,Italy,19700000,serie_a,roma
+1470304,Filippo Reale,F. Reale,D,19,20,Italy,705000,serie_a,roma
+793986,Mile Svilar,M. Svilar,G,99,26,Serbia,33000000,serie_a,roma
+925285,Devis Vásquez,D. Vásquez,G,32,28,Colombia,1400000,serie_a,roma
+329175,Pierluigi Gollini,P. Gollini,G,95,31,Italy,830000,serie_a,roma
+1461428,Radosław Żelezny,R. Żelezny,G,91,19,Poland,215000,serie_a,roma
+1652568,Giorgio De Marzi,G. D. Marzi,G,70,19,USA,93000,serie_a,roma

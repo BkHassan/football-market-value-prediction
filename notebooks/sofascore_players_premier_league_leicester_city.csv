@@ -1,0 +1,32 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+981619,Igor Jesus,I. Jesus,F,19,25,Brazil,26000000,premier_league,leicester_city
+50480,Chris Wood,C. Wood,F,11,34,New Zealand,5200000,premier_league,leicester_city
+359664,Taiwo Awoniyi,T. Awoniyi,F,9,28,Nigeria,7600000,premier_league,leicester_city
+954061,Arnaud Kalimuendo,A. Kalimuendo,F,15,24,France,24000000,premier_league,leicester_city
+1602600,Kalum Thompson,K. Thompson,F,10,17,Northern Ireland,Non renseigné,premier_league,leicester_city
+843754,Ibrahim Sangaré,I. Sangaré,M,6,28,Côte d'Ivoire,21000000,premier_league,leicester_city
+1003334,James McAtee,J. McAtee,M,24,23,England,16200000,premier_league,leicester_city
+867442,Callum Hudson Odoi,C. Hudson Odoi,M,7,25,England,32000000,premier_league,leicester_city
+865912,Morgan Gibbs-White,M. Gibbs-White,M,10,26,England,67000000,premier_league,leicester_city
+944327,Dan Ndoye,D. Ndoye,M,14,25,Switzerland,31000000,premier_league,leicester_city
+1090963,Omari Hutchinson,O. Hutchinson,M,21,22,England,28000000,premier_league,leicester_city
+871765,Nicolás Domínguez,N. Domínguez,M,16,28,Argentina,13800000,premier_league,leicester_city
+963298,Dilane Bakwa,D. Bakwa,M,29,23,France,26000000,premier_league,leicester_city
+846252,Ryan Yates,R. Yates,M,22,28,England,7200000,premier_league,leicester_city
+1567716,Grady McDonnell,G. McDonnell,M,60,18,Ireland,220000,premier_league,leicester_city
+1400429,Jimmy Sinclair,J. Sinclair,M,61,19,England,Non renseigné,premier_league,leicester_city
+1899463,Chinaza Nwosu,C. Nwosu,M,6,18,England,Non renseigné,premier_league,leicester_city
+1199282,Murillo,Murillo,D,5,24,Brazil,49000000,premier_league,leicester_city
+836168,Nikola Milenković,N. Milenković,D,31,28,Serbia,26000000,premier_league,leicester_city
+800417,Ola Aina,O. Aina,D,34,29,Nigeria,16399999,premier_league,leicester_city
+927356,Neco Williams,N. Williams,D,3,25,Wales,26000000,premier_league,leicester_city
+1170722,Jair,Jair,D,23,21,Brazil,15500000,premier_league,leicester_city
+1010220,Nicolò Savona,N. Savona,D,37,23,Italy,14600000,premier_league,leicester_city
+985086,Morato,Morato,D,4,25,Brazil,13600000,premier_league,leicester_city
+1418646,Eric da Silva Moreira,E. d. S. Moreira,D,17,20,Germany,830000,premier_league,leicester_city
+979144,Luca Netz,L. Netz,D,25,23,Germany,7700000,premier_league,leicester_city
+892483,Omar Richards,O. Richards,D,27,28,England,2100000,premier_league,leicester_city
+1390490,Zach Abbott,Z. Abbott,D,44,20,England,3900000,premier_league,leicester_city
+1514870,Tyler Bindon,T. Bindon,D,6,21,New Zealand,3600000,premier_league,leicester_city
+840103,John Victor,J. Victor,G,13,30,Brazil,4900000,premier_league,leicester_city
+78152,Matz Sels,M. Sels,G,26,34,Belgium,3700000,premier_league,leicester_city

@@ -1,0 +1,29 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+855833,Ferran Torres,F. Torres,F,7,26,Spain,54000000,la_liga,barcelona
+1162107,Roony Bardghji,R. Bardghji,F,19,20,Sweden,15500000,la_liga,barcelona
+914902,Anthony Gordon,A. Gordon,F,10,25,England,67000000,la_liga,barcelona
+1402912,Lamine Yamal,L. Yamal,M,10,19,Spain,215000000,la_liga,barcelona
+831005,Raphinha,Raphinha,M,11,29,Brazil,63000000,la_liga,barcelona
+992587,Pedri,Pedri,M,8,23,Spain,164000000,la_liga,barcelona
+1103693,Pablo Gavi,Gavi,M,6,21,Spain,31000000,la_liga,barcelona
+795222,Frenkie de Jong,F. de Jong,M,21,29,Netherlands,32000000,la_liga,barcelona
+789071,Dani Olmo,D. Olmo,M,20,28,Spain,58000000,la_liga,barcelona
+1153270,Fermín López,F. López,M,16,23,Spain,103000000,la_liga,barcelona
+1526618,Marc Bernal,M. Bernal,M,22,19,Spain,29000000,la_liga,barcelona
+1000483,Marc Casadó,M. Casadó,M,17,22,Spain,17400000,la_liga,barcelona
+1590761,Toni Fernández,T. Fernández,M,29,18,Spain,3100000,la_liga,barcelona
+1939137,Tomás Marqués,T. Marqués,M,43,19,Spain,3100000,la_liga,barcelona
+1402913,Pau Cubarsí,P. Cubarsí,D,5,19,Spain,75000000,la_liga,barcelona
+827212,Jules Koundé,J. Koundé,D,23,27,France,64000000,la_liga,barcelona
+997035,Alejandro Balde,A. Balde,D,3,22,Spain,55000000,la_liga,barcelona
+925097,Ronald Araújo,R. Araújo,D,4,27,Uruguay,22000000,la_liga,barcelona
+186795,Andreas Christensen,A. Christensen,D,15,30,Denmark,7700000,la_liga,barcelona
+876214,Eric García,E. García,D,24,25,Spain,39000000,la_liga,barcelona
+1094827,Gerard Martín,G. Martín,D,18,24,Spain,32000000,la_liga,barcelona
+1402908,Hector Fort,H. Fort,D,32,19,Spain,11600000,la_liga,barcelona
+1546073,Xavi Espart,X. Espart,D,42,19,Spain,5300000,la_liga,barcelona
+1464652,Álvaro Cortés,Á. Cortés,D,36,21,Spain,3600000,la_liga,barcelona
+930267,Joan García,J. García,G,13,25,Spain,46000000,la_liga,barcelona
+88625,Marc-André Ter Stegen,M. ter Stegen,G,1,34,Germany,3100000,la_liga,barcelona
+50490,Wojciech Szczęsny,W. Szczęsny,G,25,36,Poland,730000,la_liga,barcelona
+1402902,Áron Yaakobishvili,Á. Yaakobishvili,G,25,20,Hungary,3200000,la_liga,barcelona

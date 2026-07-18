@@ -1,0 +1,38 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1135873,Alejandro Garnacho,A. Garnacho,F,49,22,Argentina,26000000,premier_league,chelsea
+975079,João Pedro,J. Pedro,F,20,24,Brazil,74000000,premier_league,chelsea
+1085381,Nicolas Jackson,N. Jackson,F,15,25,Senegal,39000000,premier_league,chelsea
+1414933,Marc Guiu,M. Guiu,F,38,20,Spain,11200000,premier_league,chelsea
+997087,Liam Delap,L. Delap,F,9,23,England,26000000,premier_league,chelsea
+1048333,Emmanuel Emegha,E. Emegha,F,10,23,Netherlands,26000000,premier_league,chelsea
+1090458,David Datro Fofana,D. D. Fofana,F,99,23,Côte d'Ivoire,4099999,premier_league,chelsea
+982780,Cole Palmer,C. Palmer,M,10,24,England,92000000,premier_league,chelsea
+1597265,Estêvão,Estêvão,M,41,19,Brazil,82000000,premier_league,chelsea
+974505,Enzo Fernández,E. Fernández,M,8,25,Argentina,87000000,premier_league,chelsea
+987650,Moisés Caicedo,M. Caicedo,M,25,24,Ecuador,104000000,premier_league,chelsea
+958966,Mykhailo Mudryk,M. Mudryk,M,10,25,Ukraine,42000000,premier_league,chelsea
+879349,Pedro Neto,P. Neto,M,7,26,Portugal,58000000,premier_league,chelsea
+1140599,Jamie Gittens,J. Gittens,M,11,21,England,29000000,premier_league,chelsea
+1069488,Roméo Lavia,R. Lavia,M,45,22,Belgium,21000000,premier_league,chelsea
+1403165,Geovany Quenda,G. Quenda,M,7,19,Portugal,45000000,premier_league,chelsea
+1110006,Dário Essugo,D. Essugo,M,14,21,Portugal,13900000,premier_league,chelsea
+1397736,Marco Palestra,M. Palestra,M,27,21,Italy,36000000,premier_league,chelsea
+885908,Reece James,R. James,D,24,26,England,63000000,premier_league,chelsea
+1154657,Mamadou Sarr,M. Sarr,D,19,20,Senegal,24000000,premier_league,chelsea
+996958,Malo Gusto,M. Gusto,D,27,23,France,36000000,premier_league,chelsea
+996911,Levi Colwill,L. Colwill,D,6,23,England,55000000,premier_league,chelsea
+1153079,Jorrel Hato,J. Hato,D,21,20,Netherlands,41000000,premier_league,chelsea
+826134,Trevoh Chalobah,T. Chalobah,D,23,27,England,43000000,premier_league,chelsea
+923894,Wesley Fofana,W. Fofana,D,29,25,France,29000000,premier_league,chelsea
+1403050,Josh Acheampong,J. Acheampong,D,34,20,England,24000000,premier_league,chelsea
+1500263,Aarón Anselmino,A. Anselmino,D,30,21,Argentina,10600000,premier_league,chelsea
+352668,Tosin Adarabioyo,T. Adarabioyo,D,4,28,England,16500000,premier_league,chelsea
+904827,Benoît Badiashile,B. Badiashile,D,5,25,France,14500000,premier_league,chelsea
+827243,Axel Disasi,A. Disasi,D,2,28,France,15500000,premier_league,chelsea
+1035645,Caleb Wiley,C. Wiley,D,26,21,USA,7600000,premier_league,chelsea
+1937658,Denner,Denner,D,6,18,Brazil,10500000,premier_league,chelsea
+920546,Robert Sánchez,R. Sánchez,G,1,28,Spain,19900000,premier_league,chelsea
+962053,Filip Jørgensen,F. Jørgensen,G,12,24,Denmark,14600000,premier_league,chelsea
+978787,Gabriel Słonina,G. Słonina,G,44,22,USA,3300000,premier_league,chelsea
+1149148,Mike Penders,M. Penders,G,1,20,Belgium,24000000,premier_league,chelsea
+1009762,Teddy Sharman-Lowe,T. Sharman-Lowe,G,28,23,England,465000,premier_league,chelsea

@@ -1,0 +1,38 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1029748,Nikola Štulić,N. Štulić,F,9,24,Serbia,3200000,serie_a,lecce
+984998,Santiago Pierotti,S. Pierotti,F,50,25,Argentina,4200000,serie_a,lecce
+978327,N'Dri Konan,N. Konan,F,11,25,Niger,1500000,serie_a,lecce
+1136325,Rareș Burnete,R. Burnete,F,7,22,Romania,480000,serie_a,lecce
+1137430,Marco Delle Monache,M. D. Monache,F,7,21,Italy,640000,serie_a,lecce
+1417383,Paco Esteban,P. Esteban,F,19,20,Spain,465000,serie_a,lecce
+1516067,Miloš Jović,M. Jović,F,9,20,Serbia,745000,serie_a,lecce
+911350,Lameck Banda,L. Banda,M,19,25,Zambia,3400000,serie_a,lecce
+804621,Lassana Coulibaly,L. Coulibaly,M,29,30,Mali,2300000,serie_a,lecce
+849274,Youssef Maleh,Y. Maleh,M,29,27,Morocco,1600000,serie_a,lecce
+1142149,Medon Berisha,M. Berisha,M,10,22,Albania,4900000,serie_a,lecce
+1175854,Oumar Ngom,O. Ngom,M,79,22,Mauritania,2700000,serie_a,lecce
+1019125,Omri Gandelman,O. Gandelman,M,16,26,Israel,2800000,serie_a,lecce
+1127590,Mohamed Kaba,M. Kaba,M,21,24,Guinea,2400000,serie_a,lecce
+1130662,Sadik Fofana,S. Fofana,M,8,23,Togo,760000,serie_a,lecce
+1149067,Niko Kovač,N. Kovač,M,80,21,Bosnia & Herzegovina,325000,serie_a,lecce
+1157382,Alex Sala,A. Sala,M,6,25,Spain,1000000,serie_a,lecce
+1403088,Olaf Gorter,O. Gorter,M,28,21,Netherlands,190000,serie_a,lecce
+1134085,Ed McJannet,E. McJannet,M,8,22,Ireland,140000,serie_a,lecce
+1913702,Hjalte Lærke,H. Lærke,M,7,19,Denmark,865000,serie_a,lecce
+1402744,Marlon Ubani,M. Ubani,M,-,21,Germany,190000,serie_a,lecce
+1651825,Tiago Gabriel,T. Gabriel,D,44,21,Portugal,14600000,serie_a,lecce
+1090374,Kialonda Gaspar,K. Gaspar,D,4,28,Angola,2900000,serie_a,lecce
+1801193,Matías Pérez,M. Pérez,D,13,21,Chile,470000,serie_a,lecce
+945616,Antonino Gallo,A. Gallo,D,25,26,Italy,3200000,serie_a,lecce
+1002045,Danilo Veiga,D. Veiga,D,17,23,Portugal,2400000,serie_a,lecce
+1014287,Jamil Siebert,J. Siebert,D,5,24,Germany,4300000,serie_a,lecce
+1910643,Christ-Owen Kouassi,O. Kouassi,D,22,23,Côte d'Ivoire,1200000,serie_a,lecce
+981470,Corrie Ndaba,C. Ndaba,D,3,26,Ireland,955000,serie_a,lecce
+1393594,Sebastian Esposito,S. Esposito,D,15,21,Australia,580000,serie_a,lecce
+1392819,Gaby Jean,G. Jean,D,18,26,France,1400000,serie_a,lecce
+1517676,Vernon Addo,V. Addo,D,42,21,Netherlands,170000,serie_a,lecce
+256667,Wladimiro Falcone,W. Falcone,G,30,31,Italy,3600000,serie_a,lecce
+845024,Christian Früchtl,C. Früchtl,G,1,26,Germany,1000000,serie_a,lecce
+1000347,Alexandru Borbei,A. Borbei,G,-,23,Romania,145000,serie_a,lecce
+999192,Jasper Samooja,J. Samooja,G,32,22,Finland,73000,serie_a,lecce
+1910544,Samba Sakho Dramé,S. S. Dramé,G,-,21,Mauritania,48000,serie_a,lecce

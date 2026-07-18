@@ -1,0 +1,35 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+999231,Evan Ferguson,E. Ferguson,F,28,21,Ireland,21000000,premier_league,brighton
+1416535,Charalampos Kostoulas,C. Kostoulas,F,19,19,Greece,27000000,premier_league,brighton
+33902,Danny Welbeck,D. Welbeck,F,18,35,England,3100000,premier_league,brighton
+1155321,Stefanos Tzimas,S. Tzimas,F,9,20,Greece,18500000,premier_league,brighton
+2189496,Zadok Yohanna,Z. Yohanna,F,36,19,Nigeria,16500000,premier_league,brighton
+1199043,Carlos Baleba,C. Baleba,M,17,22,Cameroon,53000000,premier_league,brighton
+936849,Kaoru Mitoma,K. Mitoma,M,22,29,Japan,20000000,premier_league,brighton
+1117025,Facundo Buonanotte,F. Buonanotte,M,40,21,Argentina,10900000,premier_league,brighton
+1065588,Diego Gómez,D. Gómez,M,25,23,Paraguay,27000000,premier_league,brighton
+1036269,Yasin Ayari,Y. Ayari,M,26,22,Sweden,32000000,premier_league,brighton
+1400106,Yankuba Minteh,Y. Minteh,M,11,21,Gambia,42000000,premier_league,brighton
+48480,Pascal Groß,P. Groß,M,30,35,Germany,2300000,premier_league,brighton
+891829,Matt O'Riley,M. O'Riley,M,33,25,Denmark,16500000,premier_league,brighton
+946695,Georginio Rutter,G. Rutter,M,10,24,France,31000000,premier_league,brighton
+1471095,Ibrahim Osman,I. Osman,M,17,21,Ghana,7400000,premier_league,brighton
+1142315,Jack Hinshelwood,J. Hinshelwood,M,13,21,England,27000000,premier_league,brighton
+1568186,Malick Yalcouyé,M. Yalcouyé,M,36,20,Côte d'Ivoire,12600000,premier_league,brighton
+1138842,Amario Cozier-Duberry,A. Cozier-Duberry,M,33,21,England,4500000,premier_league,brighton
+1167066,Tom Watson,T. Watson,M,14,20,England,7500000,premier_league,brighton
+825844,Ferdi Kadıoğlu,F. Kadıoğlu,D,24,26,Türkiye,36000000,premier_league,brighton
+1405212,Luka Vušković,L. Vušković,D,16,19,Croatia,64000000,premier_league,brighton
+997152,Maxim De Cuyper,M. De Cuyper,D,29,25,Belgium,21000000,premier_league,brighton
+959628,Mats Wieffer,M. Wieffer,D,27,26,Netherlands,24000000,premier_league,brighton
+115365,Lewis Dunk,L. Dunk,D,5,34,England,3600000,premier_league,brighton
+836675,Pascal Struijk,P. Struijk,D,5,26,Netherlands,23000000,premier_league,brighton
+842513,Igor Júlio,I. Júlio,D,3,28,Brazil,9700000,premier_league,brighton
+788784,Olivier Boscagli,O. Boscagli,D,21,28,France,13900000,premier_league,brighton
+988333,Costinha,Costinha,D,20,26,Portugal,6400000,premier_league,brighton
+998928,Eiran Cashin,E. J. Cashin,D,16,24,Ireland,5300000,premier_league,brighton
+888340,Michael Svoboda,M. Svoboda,D,30,27,Austria,3400000,premier_league,brighton
+994363,Bart Verbruggen,B. Verbruggen,G,1,23,Netherlands,37000000,premier_league,brighton
+31867,Jason Steele,J. Steele,G,23,35,England,480000,premier_league,brighton
+1005800,Carl Rushworth,C. Rushworth,G,39,25,England,15500000,premier_league,brighton
+1007073,Tom McGill,T. McGill,G,38,26,Canada,515000,premier_league,brighton

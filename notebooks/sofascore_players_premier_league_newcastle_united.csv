@@ -1,0 +1,25 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+805123,Yoane Wissa,Y. Wissa,F,9,29,DR Congo,23000000,premier_league,newcastle_united
+980623,Nick Woltemade,N. Woltemade,F,27,24,Germany,59000000,premier_league,newcastle_united
+979232,Anthony Elanga,A. Elanga,F,20,24,Sweden,31000000,premier_league,newcastle_united
+1122603,William Osula,W. Osula,F,18,22,Denmark,26000000,premier_league,newcastle_united
+855647,Harvey Barnes,H. Barnes,F,11,28,England,35000000,premier_league,newcastle_united
+372336,Jacob Murphy,J. Murphy,F,23,31,England,11000000,premier_league,newcastle_united
+1511675,Sean Neave,S. Neave,F,62,19,England,Non renseigné,premier_league,newcastle_united
+866469,Bruno Guimarães,B. Guimarães,M,39,28,Brazil,72000000,premier_league,newcastle_united
+560128,Joelinton,Joelinton,M,7,29,Brazil,27000000,premier_league,newcastle_united
+1568123,Bazoumana Touré,B. Touré,M,29,20,Côte d'Ivoire,39000000,premier_league,newcastle_united
+1400650,Lewis Miley,L. Miley,M,67,20,England,27000000,premier_league,newcastle_united
+975937,Jacob Ramsey,J. Ramsey,M,41,25,England,36000000,premier_league,newcastle_united
+888550,Joe Willock,J. Willock,M,28,26,England,14500000,premier_league,newcastle_united
+1859920,Sean Steur,S. Steur,M,8,18,Netherlands,6800000,premier_league,newcastle_united
+1014286,Malick Thiaw,M. Thiaw,D,12,24,Germany,41000000,premier_league,newcastle_united
+99090,Dan Burn,D. Burn,D,33,34,England,4099999,premier_league,newcastle_united
+980634,Tino Livramento,T. Livramento,D,21,23,England,44000000,premier_league,newcastle_united
+1136730,Lewis Hall,L. Hall,D,3,21,England,38000000,premier_league,newcastle_united
+910046,Sven Botman,S. Botman,D,4,26,Netherlands,33000000,premier_league,newcastle_united
+101882,Fabian Schär,F. Schär,D,5,34,Switzerland,3900000,premier_league,newcastle_united
+1125214,Alex Murphy,A. Murphy,D,37,22,Ireland,1600000,premier_league,newcastle_united
+162653,Nick Pope,N. Pope,G,1,34,England,4800000,premier_league,newcastle_united
+1154665,Ewen Jaouen,E. Jaouen,G,29,20,France,12700000,premier_league,newcastle_united
+108508,Mark Gillespie,M. Gillespie,G,29,34,England,105000,premier_league,newcastle_united

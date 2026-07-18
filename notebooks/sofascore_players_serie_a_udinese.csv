@@ -1,0 +1,39 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+864898,Nicolò Zaniolo,N. Zaniolo,F,10,27,Italy,14200000,serie_a,udinese
+1138856,Adam Buksa,A. Buksa,F,18,30,Poland,3400000,serie_a,udinese
+796455,Vakoun Issouf Bayo,V. Bayo,F,15,29,Côte d'Ivoire,2600000,serie_a,udinese
+1155571,Iker Bravo,I. Bravo,F,49,21,Spain,3300000,serie_a,udinese
+1536811,Idrissa Gueye,I. Gueye,F,7,19,Senegal,8800000,serie_a,udinese
+830858,Keinan Davis,K. Davis,F,9,28,England,10300000,serie_a,udinese
+1127789,Luca Kjerrumgaard,L. Kjerrumgaard,F,9,23,Denmark,7200000,serie_a,udinese
+858191,Giorgi Chakvetadze,G. Chakvetadze,M,8,26,Georgia,3300000,serie_a,udinese
+825271,Jakub Piotrowski,J. Piotrowski,M,24,28,Poland,4400000,serie_a,udinese
+1133119,Simone Pafundi,S. Pafundi,M,20,20,Italy,5000000,serie_a,udinese
+1154894,Lennon Miller,L. Miller,M,38,19,Scotland,9300000,serie_a,udinese
+1476922,Juan Arizala,J. Arizala,M,20,20,Colombia,3800000,serie_a,udinese
+904887,Jürgen Ekkelenkamp,J. Ekkelenkamp,M,32,26,Netherlands,10300000,serie_a,udinese
+351434,Hassane Kamara,H. Kamara,M,11,32,Côte d'Ivoire,3200000,serie_a,udinese
+922928,Alessandro Zanoli,A. Zanoli,M,59,25,Italy,4900000,serie_a,udinese
+227894,Jesper Karlström,J. Karlström,M,8,31,Sweden,4099999,serie_a,udinese
+1391375,Unai Gómez,U. Gómez,M,20,23,Spain,5200000,serie_a,udinese
+895592,Martín Payero,M. Payero,M,32,27,Argentina,4800000,serie_a,udinese
+575852,Sandi Lovrić,S. Lovrić,M,4,28,Slovenia,3400000,serie_a,udinese
+964119,Jordan Zemura,J. Zemura,M,33,26,Zimbabwe,4500000,serie_a,udinese
+1068286,Rui Modesto,R. Modesto,M,18,26,Angola,1700000,serie_a,udinese
+1397675,David Pejičić,D. Pejičić,M,79,19,Slovenia,1400000,serie_a,udinese
+1961644,Abdoulaye Camara,A. Camara,M,29,17,France,1500000,serie_a,udinese
+1009661,Oier Zarraga,O. Zarraga,M,6,27,Spain,1400000,serie_a,udinese
+892979,Oumar Solet,O. Solet,D,28,26,France,22000000,serie_a,udinese
+1831525,Branimir Mlačić,B. Mlačić,D,22,19,Croatia,5400000,serie_a,udinese
+1126175,Saba Goglichidze,S. Goglichidze,D,3,22,Georgia,3400000,serie_a,udinese
+798147,Mërgim Vojvoda,M. Vojvoda,D,31,31,Kosovo,2700000,serie_a,udinese
+1063373,Thomas Kristensen,T. Kristensen,D,31,24,Denmark,11600000,serie_a,udinese
+1495719,Matteo Palma,M. Palma,D,13,18,Germany,6800000,serie_a,udinese
+848279,Enzo Ebosse,E. Ebosse,D,77,27,Cameroon,2700000,serie_a,udinese
+58351,Christian Kabasele,C. Kabasele,D,27,35,Belgium,805000,serie_a,udinese
+1136399,Nicolò Bertola,N. Bertola,D,13,23,Italy,7500000,serie_a,udinese
+1127232,James Abankwah,J. Abankwah,D,25,22,Ireland,3200000,serie_a,udinese
+1120038,Leonardo Buta,L. Buta,D,24,24,Portugal,1100000,serie_a,udinese
+891656,Maduka Okoye,M. Okoye,G,40,26,Nigeria,10800000,serie_a,udinese
+2899,Daniele Padelli,D. Padelli,G,93,40,Italy,165000,serie_a,udinese
+1001017,Edoardo Piana,E. Piana,G,22,22,Italy,245000,serie_a,udinese

@@ -1,0 +1,28 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+946381,Akor Adams,A. Adams,F,9,26,Nigeria,14600000,la_liga,sevilla
+875890,Chidera Ejuke,C. Ejuke,F,21,28,Nigeria,3700000,la_liga,sevilla
+825754,Rafa Mir,R. Mir,F,9,29,Spain,4099999,la_liga,sevilla
+1018190,Isaac Romero,I. Romero,F,7,26,Spain,5200000,la_liga,sevilla
+1468090,Alfon González,A. González,F,17,27,Spain,3300000,la_liga,sevilla
+872919,Rubén Vargas,R. Vargas,M,11,27,Switzerland,11100000,la_liga,sevilla
+799054,Djibril Sow,D. Sow,M,20,29,Switzerland,7100000,la_liga,sevilla
+960006,Lucien Agoumé,L. Agoumé,M,18,24,France,15500000,la_liga,sevilla
+1010655,Juanlu Sánchez,J. Sánchez,M,16,22,Spain,9700000,la_liga,sevilla
+997033,Peque Fernández,P. Fernández,M,14,23,Spain,3300000,la_liga,sevilla
+591750,Joan Jordán,J. Jordán,M,8,32,Spain,970000,la_liga,sevilla
+1534422,Oso,Oso,M,36,23,Spain,10500000,la_liga,sevilla
+788141,Jon Guridi,J. Guridi,M,18,31,Spain,1700000,la_liga,sevilla
+1142094,Manu Bueno,M. Bueno,M,28,21,Spain,1500000,la_liga,sevilla
+1545363,Jesús Cruz,J. Cruz,M,-,19,Spain,Non renseigné,la_liga,sevilla
+2423643,Hugo Ortiz,H. Ortiz,M,-,18,Spain,Non renseigné,la_liga,sevilla
+818986,Gabriel Suazo,G. Suazo,D,12,28,Chile,6600000,la_liga,sevilla
+840951,Marcão,Marcão,D,23,30,Brazil,2600000,la_liga,sevilla
+1015240,José Ángel Carmona,J. Á. Carmona,D,2,24,Spain,11100000,la_liga,sevilla
+1097719,Kike Salas,K. Salas,D,4,24,Spain,15400000,la_liga,sevilla
+1035988,Arouna Sangante,A. Sangante,D,93,24,Senegal,7700000,la_liga,sevilla
+928672,Adrià Pedrosa,A. Pedrosa,D,3,28,Spain,2700000,la_liga,sevilla
+949707,Juan Iglesias,J. Iglesias,D,21,28,Spain,4800000,la_liga,sevilla
+941464,Federico Gattoni,F. Gattoni,D,22,27,Argentina,720000,la_liga,sevilla
+252815,Fábio Cardoso,F. Cardoso,D,15,32,Portugal,1400000,la_liga,sevilla
+1428699,Andres Castrin,A. Castrin,D,32,23,Spain,6500000,la_liga,sevilla
+138149,Odysseas Vlachodimos,O. Vlachodimos,G,19,32,Greece,3200000,la_liga,sevilla

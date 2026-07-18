@@ -1,0 +1,31 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+593526,Nicolas Pépé,N. Pépé,F,19,31,Côte d'Ivoire,6600000,la_liga,villarreal
+1009372,Georges Mikautadze,G. Mikautadze,F,9,25,Georgia,32000000,la_liga,villarreal
+146866,Gerard Moreno,G. Moreno,F,7,34,Spain,2400000,la_liga,villarreal
+345195,Ayoze Pérez,A. Pérez,F,22,32,Spain,5400000,la_liga,villarreal
+1172477,Tani Oluwaseyi,T. Oluwaseyi,F,21,26,Canada,7500000,la_liga,villarreal
+1086128,Álex Forés,Á. Forés,F,19,25,Spain,630000,la_liga,villarreal
+1966890,Hugo López,H. Lopez,F,32,19,Spain,970000,la_liga,villarreal
+879694,Pape Gueye,P. Gueye,M,18,27,Senegal,39000000,la_liga,villarreal
+1089108,Ilias Akhomach,I. Akhomach,M,11,22,Morocco,11100000,la_liga,villarreal
+973290,Tajon Buchanan,T. Buchanan,M,17,27,Canada,13000000,la_liga,villarreal
+1012444,Alberto Moleiro,A. Moleiro,M,20,22,Spain,54000000,la_liga,villarreal
+1201412,Thiago Fernández,T. Fernández,M,15,22,Argentina,4700000,la_liga,villarreal
+843678,Santi Comesaña,S. Comesaña,M,14,29,Spain,8400000,la_liga,villarreal
+2238900,Carlos Maciá,C. Macia,M,37,17,Spain,2900000,la_liga,villarreal
+2419210,Nizar El Jmili,N. E. J. B. Hamou,M,36,21,Spain,160000,la_liga,villarreal
+2412453,Cesar Bonafe Ceita,C. B. Ceita,M,11,20,Spain,Non renseigné,la_liga,villarreal
+1087359,Renato Veiga,R. Veiga,D,12,22,Portugal,24000000,la_liga,villarreal
+873189,Juan Foyth,J. Foyth,D,8,28,Argentina,8600000,la_liga,villarreal
+1468046,Santiago Mouriño,S. Mouriño,D,15,24,Uruguay,19400000,la_liga,villarreal
+1136721,Willy Kambwala,W. Kambwala,D,5,21,DR Congo,3100000,la_liga,villarreal
+1184541,Alexander Freeman,A. Freeman,D,3,21,USA,3200000,la_liga,villarreal
+1396048,Carlos Romero,C. Romero,D,37,24,Spain,24000000,la_liga,villarreal
+986245,Sergi Cardona,S. Cardona,D,23,27,Spain,8600000,la_liga,villarreal
+911853,Logan Costa,L. Costa,D,2,25,Cape Verde,14600000,la_liga,villarreal
+1525863,Pau Navarro,P. Navarro,D,6,21,Spain,14600000,la_liga,villarreal
+1466129,Daniel Budesca,D. Budesca,D,30,20,Spain,1100000,la_liga,villarreal
+2270731,Moussa Diallo,M. Diallo,D,15,19,Senegal,Non renseigné,la_liga,villarreal
+908714,Arnau Tenas,A. Tenas,G,25,25,Spain,4400000,la_liga,villarreal
+1066603,Luiz Júnior,L. Júnior,G,1,25,Brazil,12400000,la_liga,villarreal
+951008,Diego Conde,D. Conde,G,13,27,Spain,3200000,la_liga,villarreal

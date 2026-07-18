@@ -1,0 +1,27 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+555386,Ollie Watkins,O. Watkins,F,11,30,England,26000000,premier_league,aston_villa
+610766,Tammy Abraham,T. Abraham,F,18,28,England,16500000,premier_league,aston_villa
+808590,Leon Bailey,L. Bailey,F,31,28,Jamaica,13100000,premier_league,aston_villa
+930245,Evann Guessand,E. Guessand,F,29,25,Côte d'Ivoire,24000000,premier_league,aston_villa
+996919,Samuel Iling Junior,S. I. Junior,F,19,22,England,6300000,premier_league,aston_villa
+948261,Morgan Rogers,M. Rogers,M,27,23,England,86000000,premier_league,aston_villa
+1518931,Johan Manzambi,J. Manzambi,M,44,20,Switzerland,54000000,premier_league,aston_villa
+783126,Emiliano Buendía,E. Buendía,M,10,29,Argentina,14600000,premier_league,aston_villa
+923973,Amadou Onana,A. Onana,M,24,24,Belgium,41000000,premier_league,aston_villa
+250223,John McGinn,J. McGinn,M,7,31,Scotland,12600000,premier_league,aston_villa
+826204,Boubacar Kamara,B. Kamara,M,44,26,France,39000000,premier_league,aston_villa
+98435,Ross Barkley,R. Barkley,M,6,32,England,3600000,premier_league,aston_villa
+1631879,Alysson,Alysson,M,47,20,Brazil,10800000,premier_league,aston_villa
+1089388,Lamare Bogarde,L. Bogarde,M,26,22,Netherlands,17500000,premier_league,aston_villa
+96538,Lucas Digne,L. Digne,D,12,32,France,5500000,premier_league,aston_villa
+833956,Matty Cash,M. Cash,D,2,28,Poland,19800000,premier_league,aston_villa
+143334,Victor Lindelöf,V. Lindelöf,D,3,32,Sweden,4800000,premier_league,aston_villa
+976263,Ian Maatsen,I. Maatsen,D,22,24,Netherlands,28000000,premier_league,aston_villa
+827679,Ezri Konsa,E. Konsa,D,4,28,England,42000000,premier_league,aston_villa
+864169,Pau Torres,P. Torres,D,14,29,Spain,21000000,premier_league,aston_villa
+1152923,Kosta Nedeljković,K. Nedeljković,D,20,20,Serbia,6600000,premier_league,aston_villa
+303638,Tyrone Mings,T. Mings,D,5,33,England,3200000,premier_league,aston_villa
+1944705,Modou Kéba Cissé,M. K. Cissé,D,48,20,Senegal,5400000,premier_league,aston_villa
+158263,Emiliano Martínez,E. Martínez,G,23,33,Argentina,11500000,premier_league,aston_villa
+100390,Marco Bizot,M. Bizot,G,40,35,Netherlands,1400000,premier_league,aston_villa
+966874,Joe Gauci,J. Gauci,G,18,26,Australia,1200000,premier_league,aston_villa

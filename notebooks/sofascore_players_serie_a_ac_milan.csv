@@ -1,0 +1,32 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+851284,Rafael Leão,R. Leão,F,10,27,Portugal,48000000,serie_a,ac_milan
+769333,Christopher Nkunku,C. Nkunku,F,18,28,France,26000000,serie_a,ac_milan
+817957,Christian Pulišić,C. Pulišić,F,11,27,USA,43000000,serie_a,ac_milan
+892141,Santiago Giménez,S. Giménez,F,7,25,Mexico,18600000,serie_a,ac_milan
+934510,Gonçalo Ramos,G. Ramos,F,9,25,Portugal,28000000,serie_a,ac_milan
+822470,Samuel Chukwueze,S. Chukwueze,F,21,27,Nigeria,18500000,serie_a,ac_milan
+1520771,Francesco Camarda,F. Camarda,F,22,18,Italy,15500000,serie_a,ac_milan
+1169409,Alphadjo Cissè,A. Cissè,F,80,19,Italy,7400000,serie_a,ac_milan
+823733,Ismaël Bennacer,I. Bennacer,M,4,28,Algeria,8500000,serie_a,ac_milan
+805465,Pervis Estupiñán,P. Estupiñán,M,2,28,Ecuador,11100000,serie_a,ac_milan
+250737,Adrien Rabiot,A. Rabiot,M,12,31,France,17300000,serie_a,ac_milan
+901891,Alexis Saelemaekers,A. Saelemaekers,M,56,27,Belgium,21000000,serie_a,ac_milan
+284441,Ruben Loftus-Cheek,R. Loftus-Cheek,M,8,30,England,9000000,serie_a,ac_milan
+945062,Youssouf Fofana,Y. Fofana,M,19,27,France,25000000,serie_a,ac_milan
+1390489,Davide Bartesaghi,D. Bartesaghi,M,33,20,Italy,20000000,serie_a,ac_milan
+1034082,Ardon Jashari,A. Jashari,M,30,23,Switzerland,24000000,serie_a,ac_milan
+930189,Samuele Ricci,S. Ricci,M,4,24,Italy,20000000,serie_a,ac_milan
+983815,Yunus Musah,Y. Musah,M,80,23,USA,14500000,serie_a,ac_milan
+1000366,Warren Bondo,W. Bondo,M,38,22,France,5700000,serie_a,ac_milan
+1622149,Christian Comotto,C. Comotto,M,34,18,Italy,5500000,serie_a,ac_milan
+965893,Strahinja Pavlović,S. Pavlović,D,31,25,Serbia,38000000,serie_a,ac_milan
+788255,Fikayo Tomori,F. Tomori,D,23,28,England,15700000,serie_a,ac_milan
+1001828,Koni De Winter,K. De Winter,D,5,24,Belgium,22000000,serie_a,ac_milan
+826195,Matteo Gabbia,M. Gabbia,D,46,26,Italy,17500000,serie_a,ac_milan
+965828,Mario Gila,M. Gila,D,34,25,Spain,31000000,serie_a,ac_milan
+1409700,Zachary Athekame,Z. Athekame,D,24,21,Switzerland,15500000,serie_a,ac_milan
+1034303,Filippo Terracciano,F. Terracciano,D,24,23,Italy,4600000,serie_a,ac_milan
+1424191,David Odogu,D. Odogu,D,27,20,Germany,4600000,serie_a,ac_milan
+191210,Mike Maignan,M. Maignan,G,16,31,France,22000000,serie_a,ac_milan
+1403294,Lorenzo Torriani,L. Torriani,G,96,21,Italy,770000,serie_a,ac_milan
+136856,Pietro Terracciano,P. Terracciano,G,1,36,Italy,960000,serie_a,ac_milan

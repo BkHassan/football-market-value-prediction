@@ -1,0 +1,28 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+108579,Harry Kane,H. Kane,F,9,32,England,65000000,bundesliga,bayern_munich
+1084730,Bryan Zaragoza,B. Zaragoza,F,17,24,Spain,7500000,bundesliga,bayern_munich
+1005834,Armindo Sieb,A. Sieb,F,30,23,Germany,2600000,bundesliga,bayern_munich
+978838,Michael Olise,M. Olise,M,17,24,France,144000000,bundesliga,bayern_munich
+883537,Luis Díaz,L. Díaz,M,14,29,Colombia,76000000,bundesliga,bayern_munich
+1010231,Jamal Musiala,J. Musiala,M,10,23,Germany,97000000,bundesliga,bayern_munich
+1063767,Ismael Saibari,I. Saibari,M,34,25,Morocco,44000000,bundesliga,bayern_munich
+259117,Joshua Kimmich,J. Kimmich,M,6,31,Germany,38000000,bundesliga,bayern_munich
+1861975,Lennart Karl,L. Karl,M,42,18,Germany,63000000,bundesliga,bayern_munich
+187433,Serge Gnabry,S. Gnabry,M,7,31,Germany,18900000,bundesliga,bayern_munich
+1142251,Aleksandar Pavlović,A. Pavlović,M,45,22,Germany,96000000,bundesliga,bayern_munich
+364612,João Palhinha,J. Palhinha,M,16,31,Portugal,13800000,bundesliga,bayern_munich
+1129935,Tom Bischof,T. Bischof,M,20,21,Germany,39000000,bundesliga,bayern_munich
+1142248,Arijon Ibrahimović,A. Ibrahimović,M,20,20,Germany,10500000,bundesliga,bayern_munich
+843665,Alphonso Davies,A. Davies,D,19,25,Canada,39000000,bundesliga,bayern_munich
+798583,Dayot Upamecano,D. Upamecano,D,2,27,France,65000000,bundesliga,bayern_munich
+896569,Kim Min-jae,K. Min-jae,D,3,29,South Korea,21000000,bundesliga,bayern_munich
+980418,Sacha Boey,S. Boey,D,23,25,France,9200000,bundesliga,bayern_munich
+227672,Jonathan Tah,J. Tah,D,4,30,Germany,26000000,bundesliga,bayern_munich
+927407,Josip Stanišić,J. Stanišić,D,44,26,Croatia,39000000,bundesliga,bayern_munich
+355492,Konrad Laimer,K. Laimer,D,27,29,Austria,31000000,bundesliga,bayern_munich
+873106,Hiroki Itō,H. Itō,D,21,27,Japan,19800000,bundesliga,bayern_munich
+1159759,Nathaniel Brown,N. Brown,D,21,23,Germany,37000000,bundesliga,bayern_munich
+1153298,Tarek Buchmann,T. Buchmann,D,28,21,Germany,310000,bundesliga,bayern_munich
+8959,Manuel Neuer,M. Neuer,G,1,40,Germany,4099999,bundesliga,bayern_munich
+1130647,Jonas Urbig,J. Urbig,G,1,22,Germany,19600000,bundesliga,bayern_munich
+26768,Sven Ulreich,S. Ulreich,G,26,37,Germany,515000,bundesliga,bayern_munich

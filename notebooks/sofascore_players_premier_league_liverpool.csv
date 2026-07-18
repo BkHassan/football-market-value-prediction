@@ -1,0 +1,30 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+823941,Alexander Isak,A. Isak,F,9,26,Sweden,88000000,premier_league,liverpool
+1048422,Hugo Ekitiké,H. Ekitiké,F,22,24,France,77000000,premier_league,liverpool
+845386,Federico Chiesa,F. Chiesa,F,14,28,Italy,11900000,premier_league,liverpool
+1881902,Rio Ngumoha,R. Ngumoha,F,73,17,England,29000000,premier_league,liverpool
+1145642,Víctor Muñoz,V. Muñoz,F,21,23,Spain,29000000,premier_league,liverpool
+1019322,Florian Wirtz,F. Wirtz,M,7,23,Germany,95000000,premier_league,liverpool
+869856,Dominik Szoboszlai,D. Szoboszlai,M,8,25,Hungary,91000000,premier_league,liverpool
+895324,Alexis Mac Allister,A. Mac Allister,M,10,27,Argentina,77000000,premier_league,liverpool
+862967,Cody Gakpo,C. Gakpo,M,18,27,Netherlands,58000000,premier_league,liverpool
+904897,Ryan Gravenberch,R. Gravenberch,M,38,24,Netherlands,87000000,premier_league,liverpool
+955245,Harvey Elliott,H. Elliott,M,19,23,England,21000000,premier_league,liverpool
+143040,Wataru Endo,W. Endo,M,3,33,Japan,3700000,premier_league,liverpool
+927353,Curtis Jones,C. Jones,M,17,25,England,33000000,premier_league,liverpool
+1142636,Stefan Bajčetić,S. Bajčetić,M,43,21,Spain,3900000,premier_league,liverpool
+1445945,Trey Nyoni,T. Nyoni,M,42,19,England,8500000,premier_league,liverpool
+151545,Virgil van Dijk,V. van Dijk,D,4,35,Netherlands,15500000,premier_league,liverpool
+970361,Jeremie Frimpong,J. Frimpong,D,30,25,Netherlands,36000000,premier_league,liverpool
+1097425,Miloš Kerkez,M. Kerkez,D,6,22,Hungary,36000000,premier_league,liverpool
+1008402,Conor Bradley,C. Bradley,D,12,23,Northern Ireland,27000000,premier_league,liverpool
+786259,Kostas Tsimikas,K. Tsimikas,D,21,30,Greece,4400000,premier_league,liverpool
+1473137,Giovanni Leoni,G. Leoni,D,15,19,Italy,27000000,premier_league,liverpool
+318927,Joe Gomez,J. Gomez,D,2,29,England,12600000,premier_league,liverpool
+1445625,Jérémy Jacquet,J. Jacquet,D,97,21,France,57000000,premier_league,liverpool
+991227,Calvin Ramsay,C. Ramsay,D,47,22,Scotland,1500000,premier_league,liverpool
+243609,Alisson,Alisson,G,1,33,Brazil,16500000,premier_league,liverpool
+930997,Giorgi Mamardashvili,G. Mamardashvili,G,25,25,Georgia,29000000,premier_league,liverpool
+284417,Freddie Woodman,F. Woodman,G,28,29,England,3100000,premier_league,liverpool
+927359,Vítězslav Jaroš,V. Jaroš,G,56,24,Czechia,5300000,premier_league,liverpool
+1008403,Harvey Davies,H. Davies,G,95,22,England,470000,premier_league,liverpool

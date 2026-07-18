@@ -1,0 +1,40 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+835601,Moise Kean,M. Kean,F,20,26,Italy,33000000,serie_a,fiorentina
+804909,Albert Guðmundsson,A. Guðmundsson,F,10,29,Iceland,10900000,serie_a,fiorentina
+788061,M'bala Nzola,M. Nzola,F,18,29,Angola,3900000,serie_a,fiorentina
+958982,Roberto Piccoli,R. Piccoli,F,91,25,Italy,13300000,serie_a,fiorentina
+893640,Riccardo Sottil,R. Sottil,F,7,27,Italy,3100000,serie_a,fiorentina
+1526932,Riccardo Braschi,R. Braschi,F,61,19,Italy,2100000,serie_a,fiorentina
+1050695,Filippo Distefano,F. Distefano,F,43,22,Italy,1300000,serie_a,fiorentina
+1656634,Jacopo Tarantino,J. Tarantino,F,-,21,Italy,190000,serie_a,fiorentina
+901850,Nicolò Fagioli,N. Fagioli,M,44,25,Italy,14700000,serie_a,fiorentina
+822518,Dodô,Dodô,M,2,27,Brazil,17400000,serie_a,fiorentina
+1114422,Cher Ndour,C. Ndour,M,27,21,Italy,18900000,serie_a,fiorentina
+1444690,Arthur Atta,A. Atta,M,14,23,France,27000000,serie_a,fiorentina
+548178,Rolando Mandragora,R. Mandragora,M,8,29,Italy,8600000,serie_a,fiorentina
+1067204,Giovanni Fabbian,G. Fabbian,M,80,23,Italy,9300000,serie_a,fiorentina
+928800,Marco Brescianini,M. Brescianini,M,4,26,Italy,8300000,serie_a,fiorentina
+909991,Simon Sohm,S. Sohm,M,7,25,Switzerland,7800000,serie_a,fiorentina
+330705,Antonín Barák,A. Barák,M,72,31,Czechia,850000,serie_a,fiorentina
+1101992,Alessandro Bianco,A. Bianco,M,42,23,Italy,3600000,serie_a,fiorentina
+1471050,Lapo Deli,L. Deli,M,64,20,Italy,260000,serie_a,fiorentina
+1397776,Mattia Ievoli,M. Ievoli,M,-,21,Italy,170000,serie_a,fiorentina
+2640009,Antonio Pirro,A. Pirro,M,72,18,Italy,Non renseigné,serie_a,fiorentina
+997103,Radu Drăguşin,R. Drăguşin,D,3,24,Romania,14800000,serie_a,fiorentina
+1184308,Álex Jiménez,A. Jiménez,D,20,21,Spain,19900000,serie_a,fiorentina
+847467,Marin Pongračić,M. Pongračić,D,5,28,Croatia,5900000,serie_a,fiorentina
+1542041,Eman Košpo,E. Kospo,D,23,19,Bosnia & Herzegovina,1600000,serie_a,fiorentina
+1210848,Pietro Comuzzo,P. Comuzzo,D,15,21,Italy,18500000,serie_a,fiorentina
+1496360,Matias Moreno,M. Moreno,D,22,22,Argentina,5800000,serie_a,fiorentina
+1907760,Viery,Viery,D,44,21,Brazil,6600000,serie_a,fiorentina
+1116570,Nicolás Valentini,N. Valentini,D,14,25,Argentina,3100000,serie_a,fiorentina
+893998,Luca Ranieri,L. Ranieri,D,6,27,Italy,6200000,serie_a,fiorentina
+972886,Fabiano Parisi,F. Parisi,D,65,25,Italy,5500000,serie_a,fiorentina
+1499054,Luís Balbo,L. Balbo,D,62,20,Venezuela,3100000,serie_a,fiorentina
+1526934,Niccolò Fortini,N. Fortini,D,29,20,Italy,10900000,serie_a,fiorentina
+1492457,Giulio Scuderi,G. Scuderi,D,-,20,Italy,230000,serie_a,fiorentina
+1177843,Mirko Elia,M. Elia,D,-,20,Italy,190000,serie_a,fiorentina
+69378,David De Gea,D. De Gea,G,43,35,Spain,3300000,serie_a,fiorentina
+860306,Oliver Christensen,O. Christensen,G,53,27,Denmark,1400000,serie_a,fiorentina
+139272,Luca Lezzerini,L. Lezzerini,G,1,31,Italy,365000,serie_a,fiorentina
+1416232,Tommaso Vannucchi,T. Vannucchi,G,40,19,Italy,485000,serie_a,fiorentina

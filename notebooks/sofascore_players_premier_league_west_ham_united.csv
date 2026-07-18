@@ -1,0 +1,34 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+877013,Valentín Castellanos,T. Castellanos,F,11,27,Argentina,29000000,premier_league,west_ham_united
+132645,Niclas Füllkrug,N. Füllkrug,F,11,33,Germany,3700000,premier_league,west_ham_united
+1101174,Pablo Felipe,P. Felipe,F,19,22,Brazil,18500000,premier_league,west_ham_united
+280439,Maxwel Cornet,M. Cornet,F,22,29,Côte d'Ivoire,1800000,premier_league,west_ham_united
+1394099,Callum Marshall,C. Marshall,F,50,21,Northern Ireland,2100000,premier_league,west_ham_united
+1636037,Joshua Ajala,J. Ajala,F,66,19,England,Non renseigné,premier_league,west_ham_united
+2115437,Jett Murphy,J. Murphy,F,-,18,England,Non renseigné,premier_league,west_ham_united
+917005,Crysencio Summerville,C. Summerville,M,7,24,Netherlands,38000000,premier_league,west_ham_united
+847151,Edson Álvarez,E. Álvarez,M,4,28,Mexico,14600000,premier_league,west_ham_united
+552884,Jarrod Bowen,J. Bowen,M,20,29,England,29000000,premier_league,west_ham_united
+161717,James Ward-Prowse,J. Ward-Prowse,M,8,31,England,4500000,premier_league,west_ham_united
+799041,Tomáš Souček,T. Souček,M,28,31,Czechia,9700000,premier_league,west_ham_united
+1190165,Keiber Lamadrid,K. Lamadrid,M,21,22,Venezuela,1300000,premier_league,west_ham_united
+1170560,Soungoutou Magassa,S. Magassa,M,27,22,France,18400000,premier_league,west_ham_united
+1523623,Mohamadou Kanté,M. Kanté,M,55,20,France,905000,premier_league,west_ham_united
+1089582,Freddie Potts,F. Potts,M,32,22,England,10400000,premier_league,west_ham_united
+1212165,George Earthy,G. Earthy,M,40,21,England,1900000,premier_league,west_ham_united
+1414991,Lewis Orford,L. Orford,M,61,20,England,325000,premier_league,west_ham_united
+1899492,Preston Fearon,P. Fearon,M,68,19,England,Non renseigné,premier_league,west_ham_united
+863653,Aaron Wan-Bissaka,A. Wan-Bissaka,D,29,28,DR Congo,14100000,premier_league,west_ham_united
+1471764,El Hadji Malick Diouf,E. H. M. Diouf,D,12,21,Senegal,29000000,premier_league,west_ham_united
+829022,Konstantinos Mavropanos,K. Mavropanos,D,15,28,Greece,19500000,premier_league,west_ham_united
+945217,Jean-Clair Todibo,J. Todibo,D,25,26,France,24000000,premier_league,west_ham_united
+823085,Kyle Walker-Peters,K. Walker-Peters,D,2,29,England,11200000,premier_league,west_ham_united
+894474,Max Kilman,M. Kilman,D,3,29,England,12600000,premier_league,west_ham_united
+1150952,Oliver Scarles,O. Scarles,D,30,20,England,9100000,premier_league,west_ham_united
+1142343,Kaelan Casey,K. Casey,D,42,21,England,930000,premier_league,west_ham_united
+1652590,Ezra Mayers,E. Mayers,D,63,19,England,1800000,premier_league,west_ham_united
+1841368,Airidas Golambeckis,A. Golambeckis,D,58,18,England,Non renseigné,premier_league,west_ham_united
+1479688,Ryan Battrum,R. Battrum,D,8,20,England,Non renseigné,premier_league,west_ham_united
+96531,Alphonse Aréola,A. Aréola,G,23,33,France,3700000,premier_league,west_ham_united
+856640,Mads Hermansen,M. Hermansen,G,1,26,Denmark,15500000,premier_league,west_ham_united
+1410165,Finlay Herrick,F. Herrick,G,49,20,England,Non renseigné,premier_league,west_ham_united

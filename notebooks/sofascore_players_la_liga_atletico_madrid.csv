@@ -1,0 +1,25 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+944656,Julián Alvarez,J. Álvarez,F,19,26,Argentina,97000000,la_liga,atletico_madrid
+824200,Ademola Lookman,A. Lookman,F,22,28,Nigeria,44000000,la_liga,atletico_madrid
+309078,Alexander Sørloth,A. Sørloth,F,9,30,Norway,18600000,la_liga,atletico_madrid
+1131581,Carlos Martín,C. Martín,F,12,24,Spain,1500000,la_liga,atletico_madrid
+944660,Thiago Almada,T. Almada,M,11,25,Argentina,16000000,la_liga,atletico_madrid
+1099352,Giuliano Simeone,G. Simeone,M,20,23,Argentina,44000000,la_liga,atletico_madrid
+910031,Alex Baena,A. Baena,M,10,24,Spain,43000000,la_liga,atletico_madrid
+177177,Alejandro Grimaldo,A. Grimaldo,M,20,30,Spain,19400000,la_liga,atletico_madrid
+1142588,Pablo Barrios,P. Barrios,M,8,23,Spain,60000000,la_liga,atletico_madrid
+990169,Johnny Cardoso,J. Cardoso,M,5,24,USA,18700000,la_liga,atletico_madrid
+1119345,Obed Vargas,O. Vargas,M,21,20,Mexico,9300000,la_liga,atletico_madrid
+191182,Thomas Lemar,T. Lemar,M,11,30,France,1900000,la_liga,atletico_madrid
+84539,Koke,Koke,M,6,34,Spain,4600000,la_liga,atletico_madrid
+859917,Morten Hjulmand,M. Hjulmand,M,42,27,Denmark,48000000,la_liga,atletico_madrid
+1391752,Rodrigo Mendoza,R. Mendoza,M,4,21,Spain,21000000,la_liga,atletico_madrid
+831799,Nahuel Molina,N. Molina,D,16,28,Argentina,14600000,la_liga,atletico_madrid
+353138,Marcos Llorente,M. Llorente,D,14,31,Spain,21000000,la_liga,atletico_madrid
+787751,Robin Le Normand,R. Le Normand,D,24,29,Spain,19100000,la_liga,atletico_madrid
+325355,José María Giménez,J. M. Giménez,D,2,31,Uruguay,8600000,la_liga,atletico_madrid
+1094106,Marc Pubill,Pubill,D,18,23,Spain,33000000,la_liga,atletico_madrid
+807771,Dávid Hancko,D. Hancko,D,17,28,Slovakia,36000000,la_liga,atletico_madrid
+965011,Matteo Ruggeri,M. Ruggeri,D,3,24,Italy,27000000,la_liga,atletico_madrid
+263651,Juan Musso,J. Musso,G,1,32,Argentina,3200000,la_liga,atletico_madrid
+69768,Jan Oblak,J. Oblak,G,13,33,Slovenia,16000000,la_liga,atletico_madrid

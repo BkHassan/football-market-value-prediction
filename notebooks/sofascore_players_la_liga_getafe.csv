@@ -1,0 +1,24 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1884145,Christantus Uche,C. Uche,F,12,23,Nigeria,13200000,la_liga,getafe
+973536,Martín Satriano,M. Satriano,F,10,25,Uruguay,10600000,la_liga,getafe
+604954,Borja Mayoral,B. Mayoral,F,9,29,Spain,6300000,la_liga,getafe
+96369,Juanmi,Juanmi,F,7,33,Spain,910000,la_liga,getafe
+1398518,Álex Sancris,Á. Sancris,F,18,29,Spain,1400000,la_liga,getafe
+1154549,Mario Martín,M. Martín,M,6,22,Spain,10700000,la_liga,getafe
+869931,Yvan Neyou,Y. Neyou,M,4,29,Cameroon,1900000,la_liga,getafe
+1088565,Ramón Terrats,R. Terrats,M,20,25,Spain,3200000,la_liga,getafe
+1392054,Coba Da Costa,C. Da Costa,M,20,23,Guinea-Bissau,1500000,la_liga,getafe
+353154,Javier Muñoz,J. Muñoz,M,14,31,Spain,1100000,la_liga,getafe
+2202902,George Andrews,G. Andrews,M,19,21,Spain,110000,la_liga,getafe
+1101232,Abdel Abqar,A. Abqar,D,3,27,Morocco,3300000,la_liga,getafe
+307702,Djené,Djené,D,2,34,Togo,1500000,la_liga,getafe
+1392092,Sebastián Boselli,S. Boselli,D,15,22,Uruguay,1500000,la_liga,getafe
+1457536,Andrés García,A. García,D,16,23,Spain,6500000,la_liga,getafe
+1108450,Zaid Romero,Z. Romero,D,2,26,Argentina,2400000,la_liga,getafe
+1895964,Ismael Bekhoucha,I. Bekhoucha,D,31,21,Morocco,290000,la_liga,getafe
+1918369,Davinchi,Davinchi,D,26,18,Spain,910000,la_liga,getafe
+53739,Kiko Femenía,K. Femenía,D,17,35,Spain,740000,la_liga,getafe
+1924859,Jean Ives Valou,J. I. Valou,D,27,20,Côte d'Ivoire,550000,la_liga,getafe
+851226,Juan Berrocal,J. Berrocal,D,4,27,Spain,1500000,la_liga,getafe
+604258,David Soria,D. Soria,G,13,33,Spain,2700000,la_liga,getafe
+826047,Jiří Letáček,J. Letáček,G,1,27,Czechia,1900000,la_liga,getafe

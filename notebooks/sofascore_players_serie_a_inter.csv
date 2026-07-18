@@ -1,0 +1,26 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+823984,Lautaro Martínez,L. Martínez,F,10,28,Argentina,80000000,serie_a,inter
+791702,Marcus Thuram,M. Thuram,F,9,28,France,52000000,serie_a,inter
+1086223,Ange-Yoan Bonny,A. Bonny,F,14,22,Côte d'Ivoire,34000000,serie_a,inter
+1156616,Francesco Pio Esposito,F. P. Esposito,F,94,21,Italy,47000000,serie_a,inter
+135700,Hakan Çalhanoğlu,H. Çalhanoğlu,M,20,32,Türkiye,16700000,serie_a,inter
+363856,Nicolò Barella,N. Barella,M,23,29,Italy,54000000,serie_a,inter
+138605,Piotr Zieliński,P. Zieliński,M,7,32,Poland,10300000,serie_a,inter
+284361,Federico Dimarco,F. Dimarco,M,32,28,Italy,48000000,serie_a,inter
+1091303,Petar Sučić,P. Sučić,M,8,22,Croatia,44000000,serie_a,inter
+37151,Henrikh Mkhitaryan,H. Mkhitaryan,M,22,37,Armenia,2900000,serie_a,inter
+977679,Luís Henrique,L. Henrique,M,11,24,Brazil,24000000,serie_a,inter
+996820,Kristjan Asllani,K. Asllani,M,21,24,Albania,12400000,serie_a,inter
+835600,Davide Frattesi,D. Frattesi,M,16,26,Italy,20000000,serie_a,inter
+1048889,Andy Diouf,A. Diouf,M,17,23,France,22000000,serie_a,inter
+1153957,Aleksandar Stanković,A. Stanković,M,25,20,Serbia,31000000,serie_a,inter
+1525367,Ebenezer Akinsanmiro,E. Akinsanmiro,M,41,21,Nigeria,6700000,serie_a,inter
+1384651,Yanis Massolin,Y. Massolin,M,17,23,France,4300000,serie_a,inter
+383560,Manuel Akanji,M. Akanji,D,25,31,Switzerland,15500000,serie_a,inter
+826188,Alessandro Bastoni,A. Bastoni,D,95,27,Italy,61000000,serie_a,inter
+787505,Benjamin Pavard,B. Pavard,D,5,30,France,12700000,serie_a,inter
+929199,Carlos Augusto,C. Augusto,D,30,27,Brazil,22000000,serie_a,inter
+906275,Yann Bisseck,Y. Bisseck,D,31,25,Germany,47000000,serie_a,inter
+845291,Josep Martínez,J. Martínez,G,13,28,Spain,10500000,serie_a,inter
+308182,Ivan Provedel,I. Provedel,G,94,32,Italy,2800000,serie_a,inter
+301162,Raffaele Di Gennaro,R. Di Gennaro,G,12,32,Italy,325000,serie_a,inter

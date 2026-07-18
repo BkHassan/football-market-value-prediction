@@ -1,0 +1,46 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1086417,Rasmus Højlund,R. Højlund,F,19,23,Denmark,66000000,serie_a,napoli
+78893,Romelu Lukaku,R. Lukaku,F,9,33,Belgium,5800000,serie_a,napoli
+875136,Noa Lang,N. Lang,F,77,27,Netherlands,24000000,serie_a,napoli
+850993,David Neres,D. Neres,F,7,29,Brazil,22000000,serie_a,napoli
+1122835,Alisson Santos,A. Santos,F,27,23,Brazil,29000000,serie_a,napoli
+1170773,Giovane,Giovane,F,23,22,Brazil,12600000,serie_a,napoli
+962364,Lorenzo Lucca,L. Lucca,F,20,25,Italy,22000000,serie_a,napoli
+917485,Walid Cheddira,W. Cheddira,F,99,28,Morocco,1900000,serie_a,napoli
+1069560,Antonio Vergara,A. Vergara,F,26,23,Italy,13600000,serie_a,napoli
+877037,Cyril Ngonge,C. Ngonge,F,16,26,Belgium,6800000,serie_a,napoli
+1163083,Giuseppe Ambrosino,G. Ambrosino,F,10,22,Italy,2100000,serie_a,napoli
+1416532,Emanuele Rao,E. Rao,F,17,20,Italy,6600000,serie_a,napoli
+907475,Lorenzo Sgarbi,L. Sgarbi,F,18,25,Italy,360000,serie_a,napoli
+996829,Antonio Cioffi,A. Cioffi,F,-,23,Italy,190000,serie_a,napoli
+1489170,Gianluca Vigliotti,G. Vigliotti,F,-,21,Italy,145000,serie_a,napoli
+70996,Kevin De Bruyne,K. De Bruyne,M,11,35,Belgium,8300000,serie_a,napoli
+879346,Scott McTominay,S. McTominay,M,8,29,Scotland,38000000,serie_a,napoli
+787941,Frank Anguissa,F. Anguissa,M,99,30,Cameroon,14600000,serie_a,napoli
+150383,Stanislav Lobotka,S. Lobotka,M,68,31,Slovakia,10300000,serie_a,napoli
+235672,Matteo Politano,M. Politano,M,21,32,Italy,5300000,serie_a,napoli
+907668,Billy Gilmour,B. Gilmour,M,6,25,Scotland,18800000,serie_a,napoli
+947929,Jesper Lindstrøm,J. Lindstrøm,M,19,26,Denmark,4300000,serie_a,napoli
+869795,Michael Folorunsho,M. Folorunsho,M,90,28,Italy,4600000,serie_a,napoli
+377512,Pasquale Mazzocchi,P. Mazzocchi,M,30,30,Italy,1400000,serie_a,napoli
+857671,Jens-Lys Cajuste,J. Cajuste,M,12,26,Sweden,6600000,serie_a,napoli
+1082407,Luis Hasa,L. Hasa,M,70,22,Albania,4400000,serie_a,napoli
+869888,Alessio Zerbin,A. Zerbin,M,7,27,Italy,2200000,serie_a,napoli
+1402148,Coli Saco,C. Saco,M,99,24,Mali,195000,serie_a,napoli
+996834,Gennaro Iaccarino,G. Iaccarino,M,-,23,Italy,185000,serie_a,napoli
+1397174,Lorenzo Russo,L. Russo,M,-,21,Italy,53000,serie_a,napoli
+153257,Giovanni Di Lorenzo,G. Di Lorenzo,D,22,32,Italy,6800000,serie_a,napoli
+908716,Miguel Gutiérrez,M. Gutiérrez,D,3,24,Spain,24000000,serie_a,napoli
+870263,Alessandro Buongiorno,A. Buongiorno,D,4,27,Italy,32000000,serie_a,napoli
+805078,Mathías Olivera,M. Olivera,D,17,28,Uruguay,14500000,serie_a,napoli
+148899,Leonardo Spinazzola,L. Spinazzola,D,37,33,Italy,3400000,serie_a,napoli
+332155,Amir Rrahmani,A. Rrahmani,D,13,32,Kosovo,10600000,serie_a,napoli
+984623,Rafa Marín,R. Marín,D,4,24,Spain,11600000,serie_a,napoli
+898815,Sam Beukema,S. Beukema,D,31,27,Netherlands,24000000,serie_a,napoli
+1165371,Luca Marianucci,L. Marianucci,D,35,21,Italy,7500000,serie_a,napoli
+1068241,Nosa Edward Obaretin,N. E. Obaretin,D,5,23,Italy,1400000,serie_a,napoli
+1154899,Luigi D'Avino,L. D'Avino,D,15,20,Italy,275000,serie_a,napoli
+356160,Vanja Milinković-Savić,V. Milinković-Savić,G,32,29,Serbia,18600000,serie_a,napoli
+592794,Alex Meret,A. Meret,G,1,29,Italy,7200000,serie_a,napoli
+352728,Nikita Contini,N. Contini,G,14,30,Italy,390000,serie_a,napoli
+1175874,Claudio Turi,C. Turi,G,-,21,Italy,145000,serie_a,napoli

@@ -1,0 +1,35 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+965008,Sebastiano Esposito,S. Esposito,F,70,24,Italy,13700000,serie_a,cagliari
+2049928,Paul Mendy,P. Mendy,F,31,19,Senegal,6700000,serie_a,cagliari
+1012179,Jacopo Fazzini,J. Fazzini,F,22,23,Italy,8199999,serie_a,cagliari
+1471569,Kingstone Mutandwa,K. Mutandwa,F,80,23,Zambia,3700000,serie_a,cagliari
+979479,Gennaro Borrelli,G. Borrelli,F,29,26,Italy,2900000,serie_a,cagliari
+975811,Mattia Felici,M. Felici,F,17,25,Italy,2600000,serie_a,cagliari
+1615784,Yael Trepy,Y. Trepy,F,37,20,France,1900000,serie_a,cagliari
+545780,Harry Winks,H. Winks,M,8,30,England,2300000,serie_a,cagliari
+1111640,Matteo Prati,M. Prati,M,16,22,Italy,5000000,serie_a,cagliari
+928777,Michel Adopo,M. N. Adopo,M,8,25,France,6800000,serie_a,cagliari
+1910527,Joseph Liteta,J. Liteta,M,27,20,Zambia,3800000,serie_a,cagliari
+1417034,Alessandro Romano,A. Romano,M,60,20,Switzerland,1900000,serie_a,cagliari
+328109,Alessandro Deiola,A. Deiola,M,14,30,Italy,1400000,serie_a,cagliari
+1464187,Agustín Albarracín,A. Albarracín,M,20,20,Uruguay,2400000,serie_a,cagliari
+1013041,Nicolò Cavuoti,N. Cavuoti,M,21,23,Italy,360000,serie_a,cagliari
+1151647,Ivan Sulev,I. Sulev,M,38,20,Bulgaria,205000,serie_a,cagliari
+1899742,Demi Akarakiri,D. Akarakiri,M,-,17,England,Non renseigné,serie_a,cagliari
+1613661,Sebastiano Di Paolo,S. D. Paolo,M,77,19,Italy,410000,serie_a,cagliari
+360396,Yerry Mina,Y. Mina,D,26,31,Colombia,2300000,serie_a,cagliari
+286087,Mateusz Wieteska,M. Wieteska,D,23,29,Poland,1100000,serie_a,cagliari
+1485391,Juan Rodríguez,J. Rodríguez,D,15,21,Uruguay,9400000,serie_a,cagliari
+964153,Adam Obert,A. Obert,D,33,23,Slovakia,6400000,serie_a,cagliari
+945448,Zé Pedro,Z. Pedro,D,32,29,Portugal,3200000,serie_a,cagliari
+927304,Gabriele Zappa,G. Zappa,D,28,26,Italy,2900000,serie_a,cagliari
+1123175,Riyad Idrissi,R. Idrissi,D,3,21,Italy,4099999,serie_a,cagliari
+1469998,Othniël Raterink,O. Raterink,D,18,20,Netherlands,1000000,serie_a,cagliari
+1068357,Davide Veroli,D. Veroli,D,92,23,Italy,720000,serie_a,cagliari
+1137733,Nicola Pintus,N. Pintus,D,23,21,Italy,360000,serie_a,cagliari
+1482912,Francesco Gallea Beidi,F. G. Beidi,D,29,21,Mali,220000,serie_a,cagliari
+1798927,Nicola Grandu,N. Grandu,D,36,20,Italy,280000,serie_a,cagliari
+947954,Elia Caprile,E. Caprile,G,1,24,Italy,14100000,serie_a,cagliari
+363380,Alen Sherri,A. Sherri,G,12,28,Albania,775000,serie_a,cagliari
+992605,Giuseppe Ciocci,G. Ciocci,G,24,24,Italy,105000,serie_a,cagliari
+795926,Boris Radunović,B. Radunović,G,31,30,Serbia,485000,serie_a,cagliari

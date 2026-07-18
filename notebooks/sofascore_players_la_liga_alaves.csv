@@ -1,0 +1,29 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+175753,Mariano Díaz,M. Díaz,F,9,32,Dominican Republic,285000,la_liga,alaves
+831253,Toni Martínez,T. Martínez,F,11,29,Spain,7300000,la_liga,alaves
+814385,Lucas Boyé,L. Boyé,F,15,30,Argentina,5300000,la_liga,alaves
+1639543,Aitor Mañas,A. Mañas,F,34,23,Spain,570000,la_liga,alaves
+2398123,Izei Hernandez,I. Hernandez,F,32,19,Spain,205000,la_liga,alaves
+1082968,Abderrahman Rebbach,A. Rebbach,M,21,27,Algeria,2400000,la_liga,alaves
+855832,Antonio Blanco,A. Blanco,M,8,25,Spain,9700000,la_liga,alaves
+794937,Carles Aleñá,C. Aleñá,M,10,28,Spain,2800000,la_liga,alaves
+138383,Denis Suárez,D. Suárez,M,4,32,Spain,1100000,la_liga,alaves
+873717,Carlos Benavídez,C. Benavídez,M,23,28,Uruguay,960000,la_liga,alaves
+1084381,Pablo Ibáñez,P. Ibáñez,M,19,28,Spain,4099999,la_liga,alaves
+891931,Ander Guevara,A. Guevara,M,6,29,Spain,2700000,la_liga,alaves
+1513222,Ángel Pérez,Á. Pérez,M,7,23,Spain,2800000,la_liga,alaves
+1522234,Selu Diallo,S. Diallo,M,28,22,Guinea,365000,la_liga,alaves
+788142,Mikel Rodriguez,M. Rodriguez,M,8,24,Spain,720000,la_liga,alaves
+1119693,Tomás Mendes,T. Mendes,M,30,21,Guinea-Bissau,520000,la_liga,alaves
+1403364,Youssef Enriquez,Y. Enriquez,D,3,20,Morocco,4300000,la_liga,alaves
+879875,Facundo Garcés,F. Garcés,D,2,26,Argentina,1300000,la_liga,alaves
+896073,Nahuel Tenaglia,N. Tenaglia,D,14,30,Argentina,3200000,la_liga,alaves
+985262,Moussa Diarra,M. Diarra,D,22,25,Mali,1800000,la_liga,alaves
+235648,Jonny Otto,J. Otto,D,17,32,Spain,2100000,la_liga,alaves
+999178,Ville Koski,V. Koski,D,16,24,Finland,1600000,la_liga,alaves
+1001967,Hugo Novoa,H. N. Ramos,D,16,23,Spain,725000,la_liga,alaves
+101156,Nikola Maraš,N. Maraš,D,12,30,Serbia,620000,la_liga,alaves
+1606695,Xanet Olaiz,X. Olaiz,D,35,21,Spain,210000,la_liga,alaves
+369004,Antonio Sivera,A. Sivera,G,1,29,Spain,5600000,la_liga,alaves
+990659,Jesús Owono,J. Owono,G,13,25,Equatorial Guinea,935000,la_liga,alaves
+965822,Adrián Rodríguez,A. Rodríguez,G,31,25,Argentina,185000,la_liga,alaves

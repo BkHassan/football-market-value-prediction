@@ -1,0 +1,27 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+795044,Patrick Cutrone,P. Cutrone,F,10,28,Italy,3800000,serie_a,monza
+317699,Keita Baldé,K. Baldé,F,17,31,Senegal,860000,serie_a,monza
+1153434,Omari Forson,O. Forson,F,11,21,England,1100000,serie_a,monza
+928122,Andrea Colpani,A. Colpani,F,28,27,Italy,3800000,serie_a,monza
+838907,Dany Mota,D. Mota,F,47,28,Portugal,3100000,serie_a,monza
+295973,Andrea Petagna,A. Petagna,F,37,31,Italy,680000,serie_a,monza
+346676,Patrick Ciurria,P. Ciurria,F,26,31,Italy,1000000,serie_a,monza
+350210,Matteo Pessina,M. Pessina,M,32,29,Italy,4800000,serie_a,monza
+46799,Pedro Obiang,P. Obiang,M,14,34,Equatorial Guinea,360000,serie_a,monza
+856729,Samuele Birindelli,S. Birindelli,M,19,27,Italy,2400000,serie_a,monza
+1547260,Kevin Martins,K. Martins,M,70,21,Italy,390000,serie_a,monza
+1424560,Leonardo Colombo,L. Colombo,M,21,21,Italy,4200000,serie_a,monza
+967747,Nicolas Galazzi,N. Galazzi,M,23,25,Italy,710000,serie_a,monza
+1596636,Manga Foe Ondoa,M. F. Ondoa,M,8,20,France,680000,serie_a,monza
+1462314,Alessandro Berretta,A. Berretta,M,5,20,Italy,415000,serie_a,monza
+1912462,Solomon Loubao,S. Loubao,M,9,20,France,Non renseigné,serie_a,monza
+827640,Valentin Antov,V. Antov,D,6,25,Bulgaria,1600000,serie_a,monza
+1397353,Adam Bakoune,A. Bakoune,D,24,20,Italy,1200000,serie_a,monza
+1526933,Eddy Kouadio,E. Kouadio,D,60,20,Italy,2700000,serie_a,monza
+970978,Andrea Carboni,A. Carboni,D,44,25,Italy,2800000,serie_a,monza
+972567,Lorenzo Lucchesi,L. Lucchesi,D,3,23,Italy,3200000,serie_a,monza
+859741,Arvid Brorsson,A. Brorsson,D,2,27,Sweden,415000,serie_a,monza
+862475,Filippo Delli Carri,F. Delli Carri,D,15,27,Italy,1400000,serie_a,monza
+861818,Demba Thiam,D. Thiam,G,20,28,Senegal,1900000,serie_a,monza
+923820,Semuel Pizzignacco,S. Pizzignacco,G,1,24,Italy,560000,serie_a,monza
+1405684,Aljaz Strajnar,A. Strajnar,G,43,18,Slovenia,220000,serie_a,monza

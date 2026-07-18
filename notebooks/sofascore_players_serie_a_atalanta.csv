@@ -1,0 +1,36 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1116577,Santiago Castro,S. Castro,F,9,21,Argentina,29000000,serie_a,atalanta
+294597,Federico Bernardeschi,F. Bernardeschi,F,10,32,Italy,3600000,serie_a,atalanta
+1065261,Jonathan Rowe,J. Rowe,F,11,23,England,29000000,serie_a,atalanta
+905381,Thijs Dallinga,T. Dallinga,F,24,25,Netherlands,9800000,serie_a,atalanta
+834597,Jesper Karlsson,J. Karlsson,F,23,27,Sweden,2800000,serie_a,atalanta
+971005,Nicolò Cambiaghi,N. Cambiaghi,F,28,25,Italy,12600000,serie_a,atalanta
+1189284,Gennaro Anatriello,G. Anatriello,F,-,22,Italy,185000,serie_a,atalanta
+1127191,Oussama El Azzouzi,O. E. Azzouzi,M,17,25,Morocco,1900000,serie_a,atalanta
+793645,Riccardo Orsolini,R. Orsolini,M,7,29,Italy,15800000,serie_a,atalanta
+907152,Lewis Ferguson,L. Ferguson,M,19,26,Scotland,13000000,serie_a,atalanta
+1162611,Benjamín Domínguez,B. Domínguez,M,30,22,Argentina,9400000,serie_a,atalanta
+814882,Nikola Moro,N. Moro,M,6,28,Croatia,7200000,serie_a,atalanta
+826064,Jens Odgaard,J. Odgaard,M,21,27,Denmark,11400000,serie_a,atalanta
+928796,Tommaso Pobega,T. Pobega,M,4,27,Italy,8199999,serie_a,atalanta
+1986578,Marco Libra,M. Libra,M,22,18,Venezuela,Non renseigné,serie_a,atalanta
+1929813,Kwesi Badori,K. Badori,M,10,18,Ghana,110000,serie_a,atalanta
+1494551,Elia Barbaro,E. Barbaro,M,-,19,Italy,49000,serie_a,atalanta
+818481,Jhon Lucumí,J. Lucumí,D,26,28,Colombia,23000000,serie_a,atalanta
+855829,Juan Miranda,J. Miranda,D,33,26,Spain,15700000,serie_a,atalanta
+965264,Emil Holm,E. Holm,D,2,26,Sweden,9000000,serie_a,atalanta
+933264,Torbjørn Heggem,T. Heggem,D,14,27,Norway,12200000,serie_a,atalanta
+1085913,Martin Vitík,M. Vitík,D,41,23,Czechia,13400000,serie_a,atalanta
+928104,Nadir Zortea,N. Zortea,D,20,27,Italy,6600000,serie_a,atalanta
+1486808,Eivind Helland,E. Helland,D,5,21,Norway,7400000,serie_a,atalanta
+1193085,Mihajlo Ilić,M. Ilić,D,5,23,Serbia,2100000,serie_a,atalanta
+862697,Nicolò Casale,N. Casale,D,16,28,Italy,4099999,serie_a,atalanta
+14718,Lorenzo De Silvestri,L. De Silvestri,D,-,38,Italy,540000,serie_a,atalanta
+1960695,Ali Jaber,A. Jaber,D,3,17,Tunisia,Non renseigné,serie_a,atalanta
+1476684,Dimitar Papazov,D. Papazov,D,15,20,Bulgaria,245000,serie_a,atalanta
+44906,Łukasz Skorupski,Ł. Skorupski,G,1,35,Poland,1900000,serie_a,atalanta
+850952,Federico Ravaglia,F. Ravaglia,G,13,26,Italy,1600000,serie_a,atalanta
+1530540,Massimo Pessina,M. Pessina,G,25,18,Italy,3800000,serie_a,atalanta
+1526395,Ukko Happonen,U. Happonen,G,72,19,Finland,46000,serie_a,atalanta
+2223023,Matteo Franceschelli,M. Franceschelli,G,82,17,Italy,Non renseigné,serie_a,atalanta
+1397469,Francesco Raffaelli,F. Raffaelli,G,-,21,Italy,81000,serie_a,atalanta

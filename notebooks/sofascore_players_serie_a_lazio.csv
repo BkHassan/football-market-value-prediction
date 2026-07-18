@@ -1,0 +1,36 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+960080,Boulaye Dia,B. Dia,F,19,29,Senegal,4900000,serie_a,lazio
+293581,Mattia Zaccagni,M. Zaccagni,F,10,31,Italy,6800000,serie_a,lazio
+976381,Gustav Isaksen,G. Isaksen,F,18,25,Denmark,16399999,serie_a,lazio
+1101942,Petar Ratkov,P. Ratkov,F,20,22,Serbia,8400000,serie_a,lazio
+1017649,Matteo Cancellieri,M. Cancellieri,F,22,24,Italy,7200000,serie_a,lazio
+1069244,Tijjani Noslin,T. Noslin,F,14,27,Netherlands,7200000,serie_a,lazio
+1009516,Gabriele Artistico,G. Artistico,F,9,24,Italy,1800000,serie_a,lazio
+1525567,Federico Serra,F. Serra,F,63,20,Italy,410000,serie_a,lazio
+1389689,Reda Belahyane,R. Belahyane,M,21,22,Morocco,6600000,serie_a,lazio
+959806,Kenneth Taylor,K. Taylor,M,24,24,Netherlands,26000000,serie_a,lazio
+910121,Fisayo Dele-Bashiru,F. Dele-Bashiru,M,7,25,Nigeria,6500000,serie_a,lazio
+937324,Nicolò Rovella,N. Rovella,M,6,24,Italy,25000000,serie_a,lazio
+1100354,Romano Floriani Mussolini,R. F. Mussolini,M,22,23,Italy,2600000,serie_a,lazio
+1466806,Adrian Przyborek,A. Przyborek,M,28,19,Poland,6200000,serie_a,lazio
+317301,Danilo Cataldi,D. Cataldi,M,32,31,Italy,3700000,serie_a,lazio
+2216006,Bruno Galassi,B. Galassi,M,5,19,Argentina,92000,serie_a,lazio
+1547464,Valerio Farcomeni,V. Farcomeni,M,71,20,Italy,92000,serie_a,lazio
+1525556,Leonardo Di Tommaso,L. D. Tommaso,M,-,21,Italy,215000,serie_a,lazio
+944973,Nuno Tavares,N. Tavares,D,17,26,Portugal,12600000,serie_a,lazio
+227864,Alessio Romagnoli,A. Romagnoli,D,13,31,Italy,6200000,serie_a,lazio
+826186,Luca Pellegrini,L. Pellegrini,D,3,27,Italy,4400000,serie_a,lazio
+556960,Mohamed Fares,M. Fares,D,93,30,Algeria,620000,serie_a,lazio
+267619,Adam Marušić,A. Marušić,D,77,33,Montenegro,2700000,serie_a,lazio
+339231,Samuel Gigot,S. Gigot,D,2,32,France,1100000,serie_a,lazio
+830803,Danilho Doekhi,D. Doekhi,D,-,28,Netherlands,13900000,serie_a,lazio
+273405,Manuel Lazzari,M. Lazzari,D,29,32,Italy,2200000,serie_a,lazio
+1160559,Oliver Provstgaard,O. Provstgaard,D,25,23,Denmark,16500000,serie_a,lazio
+1154853,Alessandro Milani,A. Milani,D,78,21,Venezuela,625000,serie_a,lazio
+797290,Alfonso Pedraza,A. Pedraza,D,24,30,Spain,2400000,serie_a,lazio
+217784,Patric,Patric,D,4,33,Spain,1400000,serie_a,lazio
+1470920,Filipe Bordon,F. Bordon,D,3,21,Brazil,730000,serie_a,lazio
+913762,Christos Mandas,C. Mandas,G,29,24,Greece,8199999,serie_a,lazio
+1518983,Edoardo Motta,E. Motta,G,40,21,Italy,8300000,serie_a,lazio
+984095,Alessio Furlanetto,A. Furlanetto,G,55,24,Italy,365000,serie_a,lazio
+1472205,Davide Renzetti,D. Renzetti,G,22,20,Italy,140000,serie_a,lazio

@@ -1,0 +1,26 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+827064,Arnaut Danjuma,A. Danjuma,F,7,29,Netherlands,2800000,la_liga,valencia
+754710,Umar Sadiq,U. Sadiq,F,6,29,Nigeria,3900000,la_liga,valencia
+909119,Hugo Duro,H. Duro,F,9,26,Spain,11600000,la_liga,valencia
+873947,Dani Raba,D. Raba,F,19,30,Spain,1200000,la_liga,valencia
+990232,Alberto Mari,A. Marí,F,19,25,Spain,660000,la_liga,valencia
+933780,Aliou Dieng,A. Dieng,M,-,28,Mali,3100000,la_liga,valencia
+609752,Guido Rodríguez,G. Rodríguez,M,2,32,Argentina,4200000,la_liga,valencia
+1122610,Javier Guerra,J. Guerra,M,8,23,Spain,26000000,la_liga,valencia
+826948,Pepelu,Pepelu,M,18,27,Spain,7300000,la_liga,valencia
+998950,Diego López,D. López,M,16,24,Spain,9600000,la_liga,valencia
+1476200,Ryunosuke Sato,R. Sato,M,23,19,Japan,2100000,la_liga,valencia
+845693,André Almeida,A. Almeida,M,10,26,Portugal,6200000,la_liga,valencia
+900433,Luis Rioja,L. Rioja,M,11,32,Spain,1900000,la_liga,valencia
+857482,Filip Ugrinić,F. Ugrinić,M,23,27,Switzerland,5700000,la_liga,valencia
+790833,Sergi Canós,S. Canós,M,7,29,Spain,630000,la_liga,valencia
+797306,Mouctar Diakhaby,M. Diakhaby,D,4,29,Guinea,1500000,la_liga,valencia
+227922,José Luis Gayà,J. L. Gayà,D,14,31,Spain,4300000,la_liga,valencia
+996928,César Tárrega,C. Tárrega,D,5,24,Spain,9300000,la_liga,valencia
+151138,Dimitri Foulquier,D. Foulquier,D,20,33,Guadeloupe,980000,la_liga,valencia
+996929,Jesús Vázquez,J. Vázquez,D,21,23,Spain,4200000,la_liga,valencia
+913695,José Copete,J. Copete,D,3,26,Spain,4500000,la_liga,valencia
+876255,Justin De Haas,J. De Haas,D,16,26,Netherlands,7700000,la_liga,valencia
+1563953,Iker Cordoba,I. Córdoba,D,38,20,Spain,485000,la_liga,valencia
+97951,Stole Dimitrievski,S. Dimitrievski,G,1,32,North Macedonia,2100000,la_liga,valencia
+914744,Cristian Rivero,C. Rivero,G,13,28,Spain,94000,la_liga,valencia

@@ -1,0 +1,35 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+341143,Giovanni Simeone,G. Simeone,F,18,31,Argentina,7200000,serie_a,torino
+856737,Zakaria Aboukhlal,Z. Aboukhlal,F,7,26,Morocco,6500000,serie_a,torino
+38162,Duván Zapata,D. Zapata,F,91,35,Colombia,2600000,serie_a,torino
+773409,Che Adams,C. Adams,F,19,30,Scotland,4800000,serie_a,torino
+826026,Sandro Kulenović,S. Kulenović,F,17,26,Croatia,3400000,serie_a,torino
+839226,Pietro Pellegri,P. Pellegri,F,11,25,Italy,520000,serie_a,torino
+1493157,Alieu Njie,A. Njie,F,92,21,Sweden,2900000,serie_a,torino
+1526925,Tommaso Gabellini,T. Gabellini,F,84,19,Italy,825000,serie_a,torino
+1163857,Cristian Padula,C. Padula,F,-,21,Italy,180000,serie_a,torino
+1016788,Cesare Casadei,C. Casadei,M,22,23,Italy,15600000,serie_a,torino
+357596,Nikola Vlašić,N. Vlašić,M,10,28,Croatia,10300000,serie_a,torino
+877371,Ivan Ilić,I. Ilić,M,8,25,Serbia,6800000,serie_a,torino
+1030829,Gvidas Gineitis,G. Gineitis,M,66,22,Lithuania,5000000,serie_a,torino
+934409,Marcus Pedersen,M. Pedersen,M,16,26,Norway,3300000,serie_a,torino
+907667,Tino Anjorin,T. Anjorin,M,14,24,England,4099999,serie_a,torino
+1142612,Emirhan İlkhan,E. İlkhan,M,6,22,Türkiye,6300000,serie_a,torino
+965009,Gaetano Oristanio,G. Oristanio,M,11,23,Italy,4500000,serie_a,torino
+1868036,Alessio Cacciamani,A. Cacciamani,M,77,19,Italy,4800000,serie_a,torino
+1114354,Aaron Ciammaglichella,A. Ciammaglichella,M,72,21,Italy,525000,serie_a,torino
+1397354,Marco Dalla Vecchia,M. D. Vecchia,M,84,21,Italy,470000,serie_a,torino
+1462316,Côme Bianay Balcot,C. B. Balcot,M,-,21,France,205000,serie_a,torino
+2114920,Wisdom Acquah,W. Acquah,M,94,19,Italy,390000,serie_a,torino
+1407431,Tommaso Di Marco,T. Di Marco,M,-,23,Italy,285000,serie_a,torino
+122848,Cristiano Biraghi,C. Biraghi,D,34,33,Italy,860000,serie_a,torino
+1089453,Saúl Coco,S. Coco,D,23,27,Equatorial Guinea,7700000,serie_a,torino
+840414,Ardian Ismajli,A. Ismajli,D,44,29,Albania,4700000,serie_a,torino
+1397347,Ali Dembélé,A. Dembélé,D,21,22,France,1300000,serie_a,torino
+1141167,Alessandro Dellavalle,A. Dellavalle,D,25,22,Italy,2300000,serie_a,torino
+1466132,Fabio Desole,F. Desole,D,-,20,Italy,135000,serie_a,torino
+1084846,Franco Israel,F. Israel,G,81,26,Uruguay,2400000,serie_a,torino
+259281,Alberto Paleari,A. Paleari,G,1,33,Italy,1300000,serie_a,torino
+1471046,Diego Mascardi,D. Mascardi,G,12,19,Italy,1400000,serie_a,torino
+1519010,Lapo Siviero,L. Siviero,G,99,19,Italy,460000,serie_a,torino
+1397349,Matteo Brezzo,M. Brezzo,G,-,21,Italy,23000,serie_a,torino

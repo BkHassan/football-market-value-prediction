@@ -1,0 +1,28 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1392592,Roberto Fernández,R. Fernández,F,9,24,Spain,10300000,la_liga,espanyol
+84972,Kike García,K. García,F,19,36,Spain,725000,la_liga,espanyol
+1183542,Marcos Fernández,M. Fernández,F,9,23,Spain,1500000,la_liga,espanyol
+1485309,Gabriel Moscardo,G. Moscardo,M,20,20,Brazil,7500000,la_liga,espanyol
+891511,Javi Puado,J. Puado,M,7,28,Spain,7000000,la_liga,espanyol
+877262,Edu Expósito,E. Expósito,M,8,29,Spain,4500000,la_liga,espanyol
+1063015,Tyrhys Dolan,T. Dolan,M,24,24,England,10800000,la_liga,espanyol
+175185,Pere Milla,P. Milla,M,11,33,Spain,965000,la_liga,espanyol
+826010,Pol Lozano,P. Lozano,M,10,26,Spain,5800000,la_liga,espanyol
+1064009,Urko González,U. González,M,4,25,Spain,11600000,la_liga,espanyol
+1136863,Álex Calatrava,Á. Calatrava,M,21,26,Spain,3900000,la_liga,espanyol
+1019236,Jofre Carreras,J. Carreras,M,17,25,Spain,2800000,la_liga,espanyol
+1514913,Javier Hernández,J. Hernández,M,27,22,Spain,1600000,la_liga,espanyol
+1099344,Antoniu Roca,A. Roca,M,20,23,Spain,1600000,la_liga,espanyol
+966940,José Gragera,J. Gragera,M,15,26,Spain,1300000,la_liga,espanyol
+1841365,Rafael Bauzà,R. Bauza,M,28,21,Spain,1100000,la_liga,espanyol
+1064026,Omar El Hilali,O. E. Hilali,D,23,22,Morocco,15900000,la_liga,espanyol
+1392044,Quilindschy Hartman,Q. Hartman,D,3,24,Netherlands,15500000,la_liga,espanyol
+81992,Leandro Cabrera,L. Cabrera,D,6,35,Uruguay,930000,la_liga,espanyol
+962381,Pablo Ramón,P. Ramón,D,4,25,Spain,1500000,la_liga,espanyol
+1129360,Clemens Riedel,C. Riedel,D,38,23,Germany,3900000,la_liga,espanyol
+1068891,Jose Salinas,J. Salinas,D,12,25,Spain,1800000,la_liga,espanyol
+934351,Miguel Rubio,M. Rubio,D,15,28,Spain,1400000,la_liga,espanyol
+2065347,Roger Hinojo,R. Hinojo,D,31,21,Spain,1000000,la_liga,espanyol
+94527,Marko Dmitrović,M. Dmitrović,G,13,34,Serbia,650000,la_liga,espanyol
+1082734,Angel Fortuno,A. Fortuno,G,1,25,Spain,290000,la_liga,espanyol
+962624,Pol Tristan,P. Tristan,G,30,24,Spain,52000,la_liga,espanyol

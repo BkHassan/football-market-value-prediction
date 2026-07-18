@@ -1,0 +1,45 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+879802,John Yeboah,J. Yeboah,F,10,26,Ecuador,5800000,serie_a,bologna
+1124624,Albion Rrahmani,A. Rrahmani,F,9,25,Kosovo,7200000,serie_a,bologna
+928921,Andrea Adorante,A. Adorante,F,9,26,Italy,4099999,serie_a,bologna
+1088870,Daniel Fila,D. Fila,F,7,23,Czechia,1600000,serie_a,bologna
+886171,Lion Lauberbach,L. Lauberbach,F,29,28,Germany,2300000,serie_a,bologna
+1084728,Antonio Casas,A. Casas,F,80,26,Spain,695000,serie_a,bologna
+1898935,Alvin Obinna Okoro,A. O. Okoro,F,90,21,Italy,1900000,serie_a,bologna
+1026519,Marko Farji,M. Farji,M,11,22,Iraq,1800000,serie_a,bologna
+1887618,Saad El Haddad,S. E. Haddad,M,27,20,Morocco,290000,serie_a,bologna
+798002,Toma Bašić,T. Bašić,M,26,29,Croatia,3100000,serie_a,bologna
+896180,Gianluca Busio,G. Busio,M,6,24,USA,7300000,serie_a,bologna
+232224,Alfred Duncan,A. Duncan,M,32,33,Ghana,775000,serie_a,bologna
+1137526,Matteo Dagasso,M. Dagasso,M,28,22,Italy,3700000,serie_a,bologna
+250501,Ridgeciano Haps,R. Haps,M,-,33,Suriname,650000,serie_a,bologna
+857178,Kike Pérez,K. Pérez,M,71,29,Spain,2300000,serie_a,bologna
+1435035,Lamine Fanne,L. Dabo,M,18,22,Spain,1600000,serie_a,bologna
+1513549,Kornel Lisman,K. Lisman,M,56,20,Poland,580000,serie_a,bologna
+886628,Þórir Jóhann Helgason,T. Helgason,M,-,25,Iceland,1700000,serie_a,bologna
+1198069,Richie Sagrado,R. Sagrado,M,20,22,Belgium,1400000,serie_a,bologna
+824584,Emil Bohinen,E. Bohinen,M,37,27,Norway,1000000,serie_a,bologna
+1394202,Antoine Hainaut,A. Hainaut,M,18,24,France,4300000,serie_a,bologna
+933207,Bjarki Bjarkason,B. Bjarkason,M,19,26,Iceland,730000,serie_a,bologna
+970901,Mattia Compagnon,M. Compagnon,M,21,24,Italy,970000,serie_a,bologna
+881068,Nunzio Lella,N. Lella,M,24,25,Italy,625000,serie_a,bologna
+965005,Simone Panada,S. Panada,M,5,24,Italy,775000,serie_a,bologna
+2127923,Edoardo Mariani,E. Mariani,M,55,18,Italy,465000,serie_a,bologna
+2066755,Lorenzo Berardi,L. Berardi,M,36,20,Italy,430000,serie_a,bologna
+1887619,Simone Ascione,S. Ascione,M,-,21,Italy,52000,serie_a,bologna
+2207785,Nicolò Berengo,N. Berengo,M,-,21,Italy,195000,serie_a,bologna
+976025,Armel Bella-Kotchap,A. Bella-Kotchap,D,37,24,Germany,6700000,serie_a,bologna
+851282,Thierry Correia,T. Correia,D,12,27,Portugal,2600000,serie_a,bologna
+880742,Bartol Franjić,B. Franjić,D,4,26,Croatia,1100000,serie_a,bologna
+1388438,Joel Schingtienne,J. Schingtienne,D,3,23,Belgium,5400000,serie_a,bologna
+822485,Marin Šverko,M. Šverko,D,33,28,Croatia,1600000,serie_a,bologna
+1150094,Junior Ligue,J. Ligue,D,20,21,Switzerland,2700000,serie_a,bologna
+882004,Giorgio Altare,G. Altare,D,15,27,Italy,575000,serie_a,bologna
+2144390,Ale Gomes,A. Gomes,D,36,18,Spain,515000,serie_a,bologna
+1920327,Franck Ahmed Sidibé,F. A. Sidibé,D,48,24,France,650000,serie_a,bologna
+916355,Michael Venturi,M. Venturi,D,16,27,Italy,340000,serie_a,bologna
+1111310,Giovanni Di Renzo,G. D. Renzo,D,6,24,Italy,96000,serie_a,bologna
+986355,Filip Stanković,F. Stanković,G,1,24,Serbia,7800000,serie_a,bologna
+125807,Matteo Grandi,M. Grandi,G,23,33,Italy,55000,serie_a,bologna
+977078,Filippo Neri,F. Neri,G,-,23,Italy,73000,serie_a,bologna
+899301,Alessio Pozzi,A. Pozzi,G,1,25,Italy,430000,serie_a,bologna

@@ -1,0 +1,31 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1019321,Igor Matanović,I. Matanović,F,31,23,Croatia,21000000,bundesliga,freiburg
+1391315,Keisuke Goto,K. Goto,F,42,21,Japan,9300000,bundesliga,freiburg
+1067120,Eren Dinkçi,E. Dinkçi,F,18,24,Türkiye,5400000,bundesliga,freiburg
+280009,Lucas Höler,L. Höler,F,9,32,Germany,2900000,bundesliga,freiburg
+1131002,Derry Scherhant,D. Scherhant,F,7,23,Germany,7300000,bundesliga,freiburg
+1508537,Cyriaque Irié,C. Irié,M,22,21,Burkina Faso,8199999,bundesliga,freiburg
+1020422,Yuito Suzuki,Y. Suzuki,M,14,24,Japan,25000000,bundesliga,freiburg
+171961,Vincenzo Grifo,V. Grifo,M,32,33,Italy,3700000,bundesliga,freiburg
+836711,Jan-Niklas Beste,J. Beste,M,19,27,Germany,10800000,bundesliga,freiburg
+882019,Florent Muslija,F. Muslija,M,24,28,Kosovo,1900000,bundesliga,freiburg
+1030211,Rihito Yamamoto,R. Yamamoto,M,6,24,Japan,7400000,bundesliga,freiburg
+569784,Maximilian Eggestein,M. Eggestein,M,8,29,Germany,10500000,bundesliga,freiburg
+990209,Yannick Engelhardt,Y. Engelhardt,M,26,25,Germany,6500000,bundesliga,freiburg
+914755,Patrick Osterhage,P. Osterhage,M,6,26,Germany,11600000,bundesliga,freiburg
+2217897,Rouven Tarnutzer,R. Tarnutzer,M,69,18,Switzerland,380000,bundesliga,freiburg
+142259,Matthias Ginter,M. Ginter,D,28,32,Germany,4800000,bundesliga,freiburg
+576266,Philipp Lienhart,P. Lienhart,D,3,30,Austria,9600000,bundesliga,freiburg
+1195724,Berkay Yılmaz,B. Yılmaz,D,39,21,Türkiye,6300000,bundesliga,freiburg
+1131339,Jordy Makengo,J. Makengo,D,33,24,France,5800000,bundesliga,freiburg
+142231,Christian Günter,C. Günter,D,30,33,Germany,1900000,bundesliga,freiburg
+1596573,Bruno Ogbus,B. Ogbus,D,43,20,Switzerland,14000000,bundesliga,freiburg
+142525,Lukas Kübler,L. Kübler,D,17,33,Germany,1500000,bundesliga,freiburg
+1131337,Maximilian Rosenfelder,M. Rosenfelder,D,37,23,Germany,6300000,bundesliga,freiburg
+979820,Philipp Treu,P. Treu,D,29,25,Germany,15900000,bundesliga,freiburg
+103442,Anthony Jung,A. Jung,D,5,34,Germany,580000,bundesliga,freiburg
+1864722,Karl Steinmann,K. Steinmann,D,65,20,Germany,160000,bundesliga,freiburg
+980626,Noah Atubolu,N. Atubolu,G,1,24,Germany,24000000,bundesliga,freiburg
+1083390,Mio Backhaus,M. Backhaus,G,30,22,Germany,14400000,bundesliga,freiburg
+842858,Florian Müller,F. Müller,G,21,28,Germany,1200000,bundesliga,freiburg
+174341,Jannik Huth,J. Huth,G,24,32,Germany,435000,bundesliga,freiburg

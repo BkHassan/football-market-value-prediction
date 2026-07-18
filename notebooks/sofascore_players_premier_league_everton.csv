@@ -1,0 +1,31 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1403061,Tyrique George,T. George,F,32,20,England,21000000,premier_league,everton
+1395746,Thierno Barry,T. Barry,F,11,23,France,31000000,premier_league,everton
+987489,Beto,Beto,F,9,28,Guinea-Bissau,19300000,premier_league,everton
+1481988,Braiden Graham,B. Graham,F,11,18,Northern Ireland,205000,premier_league,everton
+1881885,Joel Catesby,J. Catesby,F,80,19,England,Non renseigné,premier_league,everton
+914309,Iliman Ndiaye,I. Ndiaye,M,10,26,Senegal,53000000,premier_league,everton
+861970,Kiernan Dewsbury-Hall,K. Dewsbury-Hall,M,22,27,England,38000000,premier_league,everton
+1017392,Carlos Alcaraz,C. Alcaraz,M,24,23,Argentina,14600000,premier_league,everton
+927361,James Garner,J. Garner,M,37,25,England,48000000,premier_league,everton
+1174472,Tyler Dibling,T. Dibling,M,20,20,England,15700000,premier_league,everton
+935543,Dwight McNeil,D. McNeil,M,7,26,England,18800000,premier_league,everton
+1008471,Hayden Hackney,H. Hackney,M,7,24,England,35000000,premier_league,everton
+1064082,Merlin Röhl,M. Röhl,M,34,24,Germany,14700000,premier_league,everton
+1085950,Tim Iroegbunam,T. Iroegbunam,M,42,23,England,18500000,premier_league,everton
+1627560,Harrison Armstrong,H. Armstrong,M,45,19,England,12400000,premier_league,everton
+1861705,Malik Olayiwola,M. Olayiwola,M,76,17,England,Non renseigné,premier_league,everton
+1899746,Harvey Foster,H. Foster,M,6,19,England,Non renseigné,premier_league,everton
+1466124,Adam Aznou,A. Aznou,D,39,20,Morocco,6200000,premier_league,everton
+876643,Vitaliy Mykolenko,V. Mykolenko,D,16,27,Ukraine,26000000,premier_league,everton
+979563,Jarrad Branthwaite,J. Branthwaite,D,32,24,England,41000000,premier_league,everton
+145188,James Tarkowski,J. Tarkowski,D,6,33,England,5200000,premier_league,everton
+998253,Jake O'Brien,J. O'Brien,D,15,25,Ireland,16500000,premier_league,everton
+110846,Michael Keane,M. Keane,D,5,33,England,2800000,premier_league,everton
+1020141,Nathan Patterson,N. Patterson,D,2,24,Scotland,16300000,premier_league,everton
+1144949,Elijah Campbell,E. Campbell,D,73,21,England,260000,premier_league,everton
+1936080,George Finney,G. Finney,D,55,19,England,Non renseigné,premier_league,everton
+1461759,William Tamen,W. Tamen,D,15,20,England,Non renseigné,premier_league,everton
+138530,Jordan Pickford,J. Pickford,G,1,32,England,13900000,premier_league,everton
+856720,Mark Travers,M. Travers,G,12,27,Ireland,2800000,premier_league,everton
+603922,Tom King,T. King,G,31,31,Wales,96000,premier_league,everton

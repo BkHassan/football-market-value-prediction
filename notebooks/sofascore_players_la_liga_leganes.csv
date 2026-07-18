@@ -1,0 +1,34 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1534014,Andrés Campos,A. Campos,F,21,24,Spain,93000,la_liga,leganes
+1520752,Benjamin Pauwels,B. Pauwels,F,29,21,Belgium,840000,la_liga,leganes
+1586925,Alfred Gøthler,A. Gøthler,F,20,19,Denmark,630000,la_liga,leganes
+1010550,Álex Millán,Á. Millán,F,23,26,Spain,825000,la_liga,leganes
+2507464,Yuri Menac,Y. Menac,F,44,,Inconnu,Non renseigné,la_liga,leganes
+1000442,Yassine Kechta,Y. Kechta,M,-,24,Morocco,3900000,la_liga,leganes
+788895,Amadou Diawara,A. Diawara,M,24,29,Guinea,720000,la_liga,leganes
+936234,Juan Cruz,J. Cruz,M,10,26,Spain,1700000,la_liga,leganes
+349526,Dani Rodríguez,D. Rodríguez,M,9,38,Spain,105000,la_liga,leganes
+958018,Roberto López,R. López,M,14,26,Spain,775000,la_liga,leganes
+1050828,Zico Buurmeester,Z. Buurmeester,M,28,24,Netherlands,1300000,la_liga,leganes
+1134395,Naim García,N. García,M,17,24,Spain,825000,la_liga,leganes
+789886,Gonzalo Melero,G. Melero,M,16,32,Spain,485000,la_liga,leganes
+1632259,Carlos Guirao,C. Guirao,M,26,23,Spain,275000,la_liga,leganes
+913684,Miguel Atienza,M. Atienza,M,5,27,Spain,1000000,la_liga,leganes
+2539882,Modou Ndiaye,M. Ndiaye,M,47,21,Senegal,Non renseigné,la_liga,leganes
+2207608,Alvaro Gonzalez Garcia,A. Garcia,M,29,20,Spain,Non renseigné,la_liga,leganes
+2539883,Guillermo Burcio,G. Burcio,M,48,20,Spain,Non renseigné,la_liga,leganes
+1142691,Marvel,Marvel,D,2,23,Spain,825000,la_liga,leganes
+1031658,Javier Hernández,J. Hernández,D,26,28,Spain,1900000,la_liga,leganes
+826679,Álvaro Tejero,Á. Tejero,D,15,29,Spain,1900000,la_liga,leganes
+885259,Enric Franquesa,E. Franquesa,D,15,29,Spain,570000,la_liga,leganes
+255973,Rubén Peña,R. Peña,D,7,35,Spain,440000,la_liga,leganes
+144606,Ignasi Miquel,I. Miquel,D,5,33,Spain,435000,la_liga,leganes
+1391437,Lalo Aguilar,L. Aguilar,D,6,24,Spain,835000,la_liga,leganes
+1177661,Sebastián Figueredo,S. Figueredo,D,22,24,Uruguay,365000,la_liga,leganes
+957597,Rubén Pulido,R. Pulido,D,4,25,Spain,410000,la_liga,leganes
+2310913,Marcos Leiva,M. Leiva,D,36,21,Spain,94000,la_liga,leganes
+2310931,Beltrán Auguste Paolucci,B. A. Paolucci,D,37,19,Spain,Non renseigné,la_liga,leganes
+2543367,Samuel Almarza,S. Almarza,D,46,19,Spain,Non renseigné,la_liga,leganes
+547246,Juan Soriano,J. Soriano,G,1,28,Spain,870000,la_liga,leganes
+31828,Raúl Fernández,R. Fernández,G,-,38,Spain,97000,la_liga,leganes
+2659757,Nicolas Lozano,N. Lozano,G,-,20,Spain,Non renseigné,la_liga,leganes

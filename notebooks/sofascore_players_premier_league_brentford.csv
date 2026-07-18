@@ -1,0 +1,35 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1016907,Igor Thiago,I. Thiago,F,9,25,Brazil,68000000,premier_league,brentford
+991604,Fabio Carvalho,F. Carvalho,F,14,23,Portugal,7800000,premier_league,brentford
+113956,Callum Wilson,C. Wilson,F,9,34,England,4300000,premier_league,brentford
+1514747,Gustavo Nunes,Gustavo Nunes,F,39,20,Brazil,8199999,premier_league,brentford
+1403098,Kaye Furo,K. I. Furo,F,47,19,Belgium,7600000,premier_league,brentford
+1106451,Dango Ouattara,D. Ouattara,M,19,24,Burkina Faso,36000000,premier_league,brentford
+42694,Jordan Henderson,J. Henderson,M,6,36,England,1300000,premier_league,brentford
+907072,Mikkel Damsgaard,M. Damsgaard,M,24,26,Denmark,29000000,premier_league,brentford
+1006387,Kevin Schade,K. Schade,M,7,24,Germany,36000000,premier_league,brentford
+1031258,Yehor Yarmoliuk,Y. Yarmoliuk,M,18,22,Ukraine,30000000,premier_league,brentford
+1126692,Antoni Milambo,A. Milambo,M,17,21,Netherlands,15500000,premier_league,brentford
+1020680,Jaidon Anthony,J. Anthony,M,11,26,England,19400000,premier_league,brentford
+799251,Mathias Jensen,M. Jensen,M,8,30,Denmark,10400000,premier_league,brentford
+814873,Vitaly Janelt,V. Janelt,M,27,28,Germany,16600000,premier_league,brentford
+1518589,Yunus Konak,Y. Konak,M,26,20,Türkiye,3300000,premier_league,brentford
+856260,Josh Dasilva,J. Dasilva,M,10,27,England,1500000,premier_league,brentford
+1137431,Michael Kayode,M. Kayode,D,33,22,Italy,39000000,premier_league,brentford
+576384,Kristoffer Ajer,K. Ajer,D,20,28,Norway,19500000,premier_league,brentford
+924378,Sepp van den Berg,S. van den Berg,D,4,24,Netherlands,33000000,premier_league,brentford
+958916,Nathan Collins,N. Collins,D,22,25,Ireland,29000000,premier_league,brentford
+1185061,Kim Ji-Soo,K. Ji-Soo,D,36,21,South Korea,1900000,premier_league,brentford
+855864,Ethan Pinnock,E. Pinnock,D,5,33,Jamaica,2800000,premier_league,brentford
+972421,Keane Lewis-Potter,K. Lewis-Potter,D,23,25,England,24000000,premier_league,brentford
+966869,Aaron Hickey,A. Hickey,D,2,24,Scotland,16500000,premier_league,brentford
+1470532,Benjamin Fredrick,B. Fredrick,D,44,21,Nigeria,560000,premier_league,brentford
+599128,Rico Henry,R. Henry,D,3,29,Jamaica,13800000,premier_league,brentford
+1410201,Jayden Meghoma,J. Meghoma,D,21,20,England,1900000,premier_league,brentford
+1474198,Jannik Schuster,J. Schuster,D,4,20,Austria,16500000,premier_league,brentford
+1500529,Benjamin Arthur,B. Arthur,D,43,20,England,97000,premier_league,brentford
+827362,Caoimhin Kelleher,C. Kelleher,G,1,27,Ireland,25000000,premier_league,brentford
+1005959,Hákon Rafn Valdimarsson,H. R. Valdimarsson,G,12,24,Iceland,2600000,premier_league,brentford
+1065525,Matthew Cox,M. Cox,G,1,23,England,665000,premier_league,brentford
+1411132,Julian Eyestone,J. Eyestone,G,41,20,USA,Non renseigné,premier_league,brentford
+860205,Ellery Balcombe,E. Balcombe,G,31,26,England,410000,premier_league,brentford

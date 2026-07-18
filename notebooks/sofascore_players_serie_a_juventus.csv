@@ -1,0 +1,37 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1149011,Kenan Yıldız,K. Yıldız,F,10,21,Türkiye,72000000,serie_a,juventus
+935564,Jonathan David,J. David,F,30,26,Canada,29000000,serie_a,juventus
+979222,Francisco Conceição,F. Conceição,F,7,23,Portugal,28000000,serie_a,juventus
+835480,Loïs Openda,L. Openda,F,20,26,Belgium,27000000,serie_a,juventus
+161325,Arkadiusz Milik,A. Milik,F,14,32,Poland,1600000,serie_a,juventus
+887766,Edon Zhegrova,E. Zhegrova,F,11,27,Kosovo,9500000,serie_a,juventus
+367056,Jérémie Boga,J. Boga,F,13,29,Côte d'Ivoire,7700000,serie_a,juventus
+1613917,Jeff Ekhator,J. Ekhator,F,18,19,Italy,19200000,serie_a,juventus
+1534044,Adin Licina,A. Ličina,F,46,19,Germany,1700000,serie_a,juventus
+1400670,Justin Oboavwoduo,J. Oboavwoduo,F,45,19,England,515000,serie_a,juventus
+2139376,Arman Durmiši,A. Durmiši,F,47,18,Albania,1000000,serie_a,juventus
+901325,Nicolás González,N. González,M,11,28,Argentina,23000000,serie_a,juventus
+904832,Khéphren Thuram,K. Thuram,M,19,25,France,36000000,serie_a,juventus
+867887,Douglas Luiz,D. Luiz,M,12,28,Brazil,19200000,serie_a,juventus
+363860,Manuel Locatelli,M. Locatelli,M,5,28,Italy,24000000,serie_a,juventus
+881931,Weston McKennie,W. McKennie,M,22,27,USA,31000000,serie_a,juventus
+794927,Arthur,Arthur,M,29,29,Brazil,4200000,serie_a,juventus
+803033,Teun Koopmeiners,T. Koopmeiners,M,8,28,Netherlands,13200000,serie_a,juventus
+917048,Andrea Cambiaso,A. Cambiaso,M,27,26,Italy,21000000,serie_a,juventus
+1149288,Vasilije Adžić,V. Adžić,M,17,20,Montenegro,8800000,serie_a,juventus
+1010223,Fabio Miretti,F. Miretti,M,21,22,Italy,14600000,serie_a,juventus
+1526401,Augusto Owusu,A. Owusu,M,41,21,Italy,580000,serie_a,juventus
+885197,Bremer,Bremer,D,3,29,Brazil,33000000,serie_a,juventus
+965330,Pierre Kalulu,P. Kalulu,D,15,26,France,31000000,serie_a,juventus
+1128063,Federico Gatti,F. Gatti,D,4,28,Italy,13200000,serie_a,juventus
+988037,Juan Cabal,J. Cabal,D,32,25,Colombia,7200000,serie_a,juventus
+865167,Lloyd Kelly,L. Kelly,D,6,27,England,24000000,serie_a,juventus
+893008,Zeki Çelik,Z. Çelik,D,-,29,Türkiye,14500000,serie_a,juventus
+902031,João Mário,J. Mário,D,25,26,Portugal,8600000,serie_a,juventus
+139273,Daniele Rugani,D. Rugani,D,24,31,Italy,2100000,serie_a,juventus
+1087749,Jonas Rouhi,J. Rouhi,D,40,22,Sweden,2100000,serie_a,juventus
+1526397,Javier Gil,J. Gil,D,43,20,Spain,1400000,serie_a,juventus
+1647692,Shane van Aarle,S. v. Aarle,D,49,20,Netherlands,315000,serie_a,juventus
+844609,Michele Di Gregorio,M. Di Gregorio,G,16,28,Italy,9600000,serie_a,juventus
+79645,Mattia Perin,M. Perin,G,1,33,Italy,1900000,serie_a,juventus
+46420,Carlo Pinsoglio,C. Pinsoglio,G,23,36,Italy,195000,serie_a,juventus

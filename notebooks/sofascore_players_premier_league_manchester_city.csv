@@ -1,0 +1,33 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+839956,Erling Haaland,E. Haaland,F,9,25,Norway,218000000,premier_league,manchester_city
+873554,Omar Marmoush,O. Marmoush,F,7,27,Egypt,55000000,premier_league,manchester_city
+859765,Phil Foden,P. Foden,M,47,26,England,66000000,premier_league,manchester_city
+934354,Antoine Semenyo,A. Semenyo,M,42,26,Ghana,85000000,premier_league,manchester_city
+979128,Rayan Cherki,R. Cherki,M,10,22,France,98000000,premier_league,manchester_city
+827606,Rodri,Rodri,M,16,30,Spain,45000000,premier_league,manchester_city
+934386,Jérémy Doku,J. Doku,M,11,24,Belgium,70000000,premier_league,manchester_city
+189061,Jack Grealish,J. Grealish,M,10,30,England,21000000,premier_league,manchester_city
+1046795,Savinho,Savinho,M,26,22,Brazil,37000000,premier_league,manchester_city
+893549,Tijjani Reijnders,T. Reijnders,M,4,27,Netherlands,48000000,premier_league,manchester_city
+1482424,Claudio Echeverri,C. Echeverri,M,30,20,Argentina,14300000,premier_league,manchester_city
+136710,Mateo Kovačić,M. Kovačić,M,8,32,Croatia,9700000,premier_league,manchester_city
+994546,Elliot Anderson,E. Anderson,M,8,23,England,68000000,premier_league,manchester_city
+954056,Nico González,N. González,M,14,24,Spain,43000000,premier_league,manchester_city
+1006189,Issa Kaboré,I. Kaboré,M,78,25,Burkina Faso,4099999,premier_league,manchester_city
+786028,Kalvin Phillips,K. Phillips,M,44,30,England,2400000,premier_league,manchester_city
+1861707,Jeremy Monga,J. Monga,M,66,17,England,15500000,premier_league,manchester_city
+1194333,Abdukodir Khusanov,A. Khusanov,D,45,22,Uzbekistan,47000000,premier_league,manchester_city
+964994,Joško Gvardiol,J. Gvardiol,D,24,24,Croatia,64000000,premier_league,manchester_city
+931278,Rayan Aït-Nouri,R. Aït-Nouri,D,21,25,Algeria,39000000,premier_league,manchester_city
+318941,Rúben Dias,R. Dias,D,3,29,Portugal,60000000,premier_league,manchester_city
+1142703,Nico O'Reilly,N. O’Reilly,D,33,21,England,76000000,premier_league,manchester_city
+877994,Marc Guéhi,M. Guéhi,D,15,26,England,66000000,premier_league,manchester_city
+945122,Matheus Nunes,M. Nunes,D,27,27,Portugal,48000000,premier_league,manchester_city
+1136731,Rico Lewis,R. Lewis,D,82,21,England,26000000,premier_league,manchester_city
+1485300,Vitor Reis,V. Reis,D,22,20,Brazil,31000000,premier_league,manchester_city
+1168513,Max Alleyne,M. Alleyne,D,68,20,England,7800000,premier_league,manchester_city
+1606792,Abdulay Juma Bah,A. J. Bah,D,28,20,Sierra Leone,10400000,premier_league,manchester_city
+1017915,Josh Wilson-Esbrand,J. Wilson-Esbrand,D,97,23,England,2400000,premier_league,manchester_city
+824509,Gianluigi Donnarumma,G. Donnarumma,G,25,27,Italy,46000000,premier_league,manchester_city
+980643,James Trafford,J. Trafford,G,1,23,England,27000000,premier_league,manchester_city
+257993,Marcus Bettinelli,M. Bettinelli,G,13,34,England,320000,premier_league,manchester_city

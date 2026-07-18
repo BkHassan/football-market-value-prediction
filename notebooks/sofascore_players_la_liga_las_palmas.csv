@@ -1,0 +1,26 @@
+player_id,name,short_name,position,jersey_number,age,country,market_value_raw,league,club
+1000150,Zito Luvumbo,Z. Luvumbo,F,77,24,Angola,3100000,la_liga,las_palmas
+146852,Abdón Prats,A. Prats,F,9,33,Spain,860000,la_liga,las_palmas
+1914318,Marc Domenech,M. Domenech,F,27,20,Spain,1100000,la_liga,las_palmas
+941238,Adrian Fuentes,A. Fuentes,F,18,30,Spain,965000,la_liga,las_palmas
+1082981,Pablo Torre,P. Torre,M,20,23,Spain,4900000,la_liga,las_palmas
+1939173,Jan Virgili,J. Virgili,M,17,19,Spain,13800000,la_liga,las_palmas
+988351,Samú Costa,S. Costa,M,12,25,Portugal,14600000,la_liga,las_palmas
+110783,Sergi Darder,S. Darder,M,10,32,Spain,2800000,la_liga,las_palmas
+255999,Omar Mascarell,O. Mascarell,M,5,33,Equatorial Guinea,730000,la_liga,las_palmas
+826004,Manu Morlanes,M. Morlanes,M,8,27,Spain,2200000,la_liga,las_palmas
+1018516,Daniel Luna,D. Luna,M,29,23,Colombia,570000,la_liga,las_palmas
+1484974,Justin-Noel Kalumba,J. Kalumba,M,30,21,France,775000,la_liga,las_palmas
+949722,Antonio Sánchez,A. Sánchez,M,6,29,Spain,Non renseigné,la_liga,las_palmas
+910023,Arnau Puigmal,A. Puigmal,M,2,25,Spain,1400000,la_liga,las_palmas
+1905699,Jan Salas,J. Salas,M,28,20,Spain,485000,la_liga,las_palmas
+344847,Johan Mojica,J. Mojica,D,22,33,Colombia,1400000,la_liga,las_palmas
+300522,Martin Valjent,M. Valjent,D,24,30,Slovakia,3200000,la_liga,las_palmas
+807116,Antonio Raíllo,A. Raíllo,D,21,34,Spain,1100000,la_liga,las_palmas
+879543,Mateu Morey,M. Morey,D,2,26,Spain,1400000,la_liga,las_palmas
+828239,Toni Lato,T. Lato,D,3,28,Spain,1300000,la_liga,las_palmas
+1605225,Aboubaka Soumahoro,A. Soumahoro,D,22,21,France,1300000,la_liga,las_palmas
+1513896,David López,D. López,D,27,23,Spain,1300000,la_liga,las_palmas
+2543346,Leonardo Lucas Sanchez Escobar,L. L. S. Escobar,D,32,20,Spain,Non renseigné,la_liga,las_palmas
+996903,Lucas Bergström,L. Bergström,G,13,23,Finland,1500000,la_liga,las_palmas
+19013,Iván Cuéllar,I. Cuéllar,G,-,42,Spain,110000,la_liga,las_palmas
