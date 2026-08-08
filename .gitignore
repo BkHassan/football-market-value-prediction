@@ -6,4 +6,12 @@ backup_*/
 data/raw/
 env/
 venv/
+.venv/
 /.vscode/
+
+# Local secrets / environment
+.env
+
+# OS / editor noise
+.DS_Store
+Thumbs.db

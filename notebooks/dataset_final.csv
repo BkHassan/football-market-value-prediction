@@ -1,0 +1,1467 @@
+﻿player_id,name,position,age,country,Buts,xG,Succ_dribbles,Tacles,Assists,Passes_Reussies_Pct,club,league,market_value_raw,short_name,jersey_number
+108579,Harry Kane,F,32.0,England,36,26.87,32,19,5,81.02,bayern_munich,bundesliga,65000000,H. Kane,9
+1084730,Bryan Zaragoza,F,24.0,Spain,0,0.05,6,1,1,83.05,bayern_munich,bundesliga,7500000,B. Zaragoza,17
+1084730,Bryan Zaragoza,F,24.0,Spain,1,2.01,27,10,1,77.54,bayern_munich,bundesliga,7500000,B. Zaragoza,17
+1005834,Armindo Sieb,F,23.0,Germany,2,2.22,6,7,0,69.39,bayern_munich,bundesliga,2600000,A. Sieb,30
+978838,Michael Olise,M,24.0,France,15,11.46,65,24,19,84.14,bayern_munich,bundesliga,144000000,M. Olise,17
+883537,Luis Díaz,M,29.0,Colombia,15,15.1,61,21,14,85.81,bayern_munich,bundesliga,76000000,L. Díaz,14
+1010231,Jamal Musiala,M,23.0,Germany,3,4.81,21,11,4,84.93,bayern_munich,bundesliga,97000000,J. Musiala,10
+259117,Joshua Kimmich,M,31.0,Germany,2,2.65,11,32,8,92.38,bayern_munich,bundesliga,38000000,J. Kimmich,6
+1861975,Lennart Karl,M,18.0,Germany,5,7.59,22,25,5,85.91,bayern_munich,bundesliga,63000000,L. Karl,42
+187433,Serge Gnabry,M,31.0,Germany,8,6.26,16,18,6,89.83,bayern_munich,bundesliga,18900000,S. Gnabry,7
+1142251,Aleksandar Pavlović,M,22.0,Germany,3,1.6,4,26,1,94.55,bayern_munich,bundesliga,96000000,A. Pavlović,45
+364612,João Palhinha,M,31.0,Portugal,5,2.7,10,110,2,81.99,bayern_munich,bundesliga,13800000,J. Palhinha,16
+1129935,Tom Bischof,M,21.0,Germany,3,1.83,7,26,3,92.6,bayern_munich,bundesliga,39000000,T. Bischof,20
+1142248,Arijon Ibrahimović,M,20.0,Germany,2,6.31,23,34,4,72.08,bayern_munich,bundesliga,10500000,A. Ibrahimović,20
+843665,Alphonso Davies,D,25.0,Canada,1,0.35,13,9,3,93.61,bayern_munich,bundesliga,39000000,A. Davies,19
+798583,Dayot Upamecano,D,27.0,France,1,1.03,4,44,1,92.6,bayern_munich,bundesliga,65000000,D. Upamecano,2
+896569,Kim Min-jae,D,29.0,South Korea,1,0.62,1,22,1,94.94,bayern_munich,bundesliga,21000000,K. Min-jae,3
+980418,Sacha Boey,D,25.0,France,0,0.28,1,6,0,86.35,bayern_munich,bundesliga,9200000,S. Boey,23
+227672,Jonathan Tah,D,30.0,Germany,2,0.71,3,24,1,96.31,bayern_munich,bundesliga,26000000,J. Tah,4
+927407,Josip Stanišić,D,26.0,Croatia,2,1.36,10,28,3,89.75,bayern_munich,bundesliga,39000000,J. Stanišić,44
+355492,Konrad Laimer,D,29.0,Austria,3,2.42,14,46,9,90.06,bayern_munich,bundesliga,31000000,K. Laimer,27
+873106,Hiroki Itō,D,27.0,Japan,1,0.85,4,4,2,91.09,bayern_munich,bundesliga,19800000,H. Itō,21
+1159759,Nathaniel Brown,D,23.0,Germany,4,2.52,17,81,4,84.74,bayern_munich,bundesliga,37000000,N. Brown,21
+8959,Manuel Neuer,G,40.0,Germany,0,0.0,0,0,0,81.28,bayern_munich,bundesliga,4099999,M. Neuer,1
+1130647,Jonas Urbig,G,22.0,Germany,0,0.0,0,0,0,83.41,bayern_munich,bundesliga,19600000,J. Urbig,1
+26768,Sven Ulreich,G,37.0,Germany,0,0.0,0,0,0,47.37,bayern_munich,bundesliga,515000,S. Ulreich,26
+1407524,Ibrahim Maza,F,20.0,Algeria,3,5.34,48,41,4,83.05,bayer_leverkusen,bundesliga,41000000,I. Maza,30
+978521,Victor Okoh Boniface,F,25.0,Nigeria,0,1.08,5,2,2,68.81,bayer_leverkusen,bundesliga,5500000,V. O. Boniface,22
+1394353,Eliesse Ben Seghir,F,21.0,Morocco,0,0.14,9,4,0,85.82,bayer_leverkusen,bundesliga,21000000,E. Ben Seghir,17
+1394353,Eliesse Ben Seghir,F,21.0,Morocco,0,0.06,1,2,0,76.0,bayer_leverkusen,bundesliga,21000000,E. Ben Seghir,17
+280609,Patrik Schick,F,30.0,Czechia,16,17.18,10,9,3,80.54,bayer_leverkusen,bundesliga,16600000,P. Schick,14
+2029648,Christian Kofane,F,19.0,Cameroon,5,6.8,7,13,4,82.76,bayer_leverkusen,bundesliga,41000000,C. Kofane,35
+1119502,Ernest Poku,F,22.0,Netherlands,5,3.05,28,13,5,83.15,bayer_leverkusen,bundesliga,24000000,E. Poku,19
+1215906,Afonso Moreira,F,21.0,Portugal,4,2.69,24,33,7,80.85,bayer_leverkusen,bundesliga,18400000,A. Moreira,17
+920379,Nathan Tella,F,27.0,Nigeria,1,2.8,13,12,4,85.17,bayer_leverkusen,bundesliga,15800000,N. Tella,23
+1482433,Alejo Sarco,F,20.0,Argentina,0,0.29,1,1,0,69.57,bayer_leverkusen,bundesliga,1800000,A. Sarco,18
+846445,Martin Terrier,F,29.0,France,4,2.55,5,11,1,85.02,bayer_leverkusen,bundesliga,7400000,M. Terrier,11
+142390,Jonas Hofmann,F,34.0,Germany,2,1.63,7,13,2,83.55,bayer_leverkusen,bundesliga,1600000,J. Hofmann,7
+255239,Lucas Vázquez,M,35.0,Spain,1,0.5,1,6,2,87.12,bayer_leverkusen,bundesliga,1600000,L. Vázquez,21
+822600,Exequiel Palacios,M,27.0,Argentina,0,0.6,4,21,1,90.67,bayer_leverkusen,bundesliga,26000000,E. Palacios,25
+975798,Malik Tillman,M,24.0,USA,6,4.62,11,38,0,83.52,bayer_leverkusen,bundesliga,27000000,M. Tillman,10
+1003012,Ezequiel Fernández,M,23.0,Argentina,0,0.68,9,31,1,89.47,bayer_leverkusen,bundesliga,21000000,E. Fernández,6
+796047,Aleix García,M,29.0,Spain,3,2.29,4,26,8,92.88,bayer_leverkusen,bundesliga,21000000,A. García,24
+1174761,Arthur,M,23.0,Brazil,1,0.92,14,20,3,83.7,bayer_leverkusen,bundesliga,7400000,Arthur,13
+1568522,Montrell Culbreath,M,18.0,Germany,1,1.83,5,27,0,84.58,bayer_leverkusen,bundesliga,15600000,M. Culbreath,42
+883262,Edmond Tapsoba,D,27.0,Burkina Faso,5,2.5,8,31,3,90.95,bayer_leverkusen,bundesliga,37000000,E. Tapsoba,12
+1003339,Jarell Quansah,D,23.0,England,4,2.84,14,28,0,90.29,bayer_leverkusen,bundesliga,48000000,J. Quansah,4
+168903,Robert Andrich,D,31.0,Germany,2,0.72,1,43,0,90.1,bayer_leverkusen,bundesliga,6200000,R. Andrich,8
+1006489,Loïc Badé,D,26.0,France,0,1.29,3,33,0,92.12,bayer_leverkusen,bundesliga,19400000,L. Badé,5
+1529051,Abdoulaye Faye,D,21.0,Senegal,0,0.59,7,32,0,87.65,bayer_leverkusen,bundesliga,4200000,A. Faye,25
+1937795,Axel Tape,D,18.0,France,0,0.22,7,1,0,96.05,bayer_leverkusen,bundesliga,8700000,A. Tape,16
+1173172,Jeanuël Belocian,D,21.0,France,0,0.47,7,35,1,89.46,bayer_leverkusen,bundesliga,12900000,J. Belocian,44
+1138778,Tim Oermann,D,22.0,Germany,0,0.0,0,1,0,55.56,bayer_leverkusen,bundesliga,4099999,T. Oermann,15
+171919,Mark Flekken,G,33.0,Netherlands,0,0.0,1,0,0,72.97,bayer_leverkusen,bundesliga,6400000,M. Flekken,1
+96832,Janis Blaswich,G,35.0,Germany,0,0.0,0,0,0,74.19,bayer_leverkusen,bundesliga,650000,J. Blaswich,28
+328027,Serhou Guirassy,F,30.0,Guinea,17,17.56,12,2,1,75.57,borussia_dortmund,bundesliga,34000000,S. Guirassy,9
+940054,Karim Adeyemi,F,24.0,Germany,7,4.87,27,5,4,71.67,borussia_dortmund,bundesliga,41000000,K. Adeyemi,27
+980628,Maximilian Beier,F,23.0,Germany,9,7.35,18,26,6,70.41,borussia_dortmund,bundesliga,43000000,M. Beier,14
+954076,Fábio Silva,F,23.0,Portugal,2,2.64,12,7,6,72.39,borussia_dortmund,bundesliga,21000000,F. Silva,21
+1937835,Mathis Albert,F,17.0,USA,0,0.0,0,1,0,66.67,borussia_dortmund,bundesliga,310000,M. Albert,41
+1134083,Jobe Bellingham,M,20.0,England,0,1.08,15,44,1,87.4,borussia_dortmund,bundesliga,38000000,J. Bellingham,7
+994556,Carney Chukwuemeka,M,22.0,Austria,2,1.93,22,21,0,85.12,borussia_dortmund,bundesliga,18100000,C. Chukwuemeka,17
+907463,Felix Nmecha,M,25.0,Germany,2,3.62,31,37,3,87.16,borussia_dortmund,bundesliga,48000000,F. Nmecha,8
+133908,Marcel Sabitzer,M,32.0,Austria,1,1.15,3,30,2,83.84,borussia_dortmund,bundesliga,6200000,M. Sabitzer,20
+1002813,Yan Couto,M,24.0,Brazil,2,1.01,13,20,2,81.7,borussia_dortmund,bundesliga,17500000,Y. Couto,2
+800951,Julian Ryerson,M,28.0,Norway,0,0.93,24,34,15,82.58,borussia_dortmund,bundesliga,24000000,J. Ryerson,26
+1861666,Samuele Inacio,M,18.0,Italy,1,1.76,5,6,0,84.68,borussia_dortmund,bundesliga,15900000,S. Inacio,40
+1021272,Daniel Svensson,M,24.0,Sweden,2,1.79,12,38,2,83.45,borussia_dortmund,bundesliga,20000000,D. Svensson,24
+577726,Ramy Bensebaini,D,31.0,Algeria,5,3.11,4,28,2,87.41,borussia_dortmund,bundesliga,7400000,R. Bensebaini,5
+940871,Nico Schlotterbeck,D,26.0,Germany,5,3.72,15,50,1,88.26,borussia_dortmund,bundesliga,57000000,N. Schlotterbeck,4
+138156,Emre Can,D,32.0,Germany,3,2.45,3,12,0,86.22,borussia_dortmund,bundesliga,3200000,E. Can,23
+799046,Waldemar Anton,D,29.0,Germany,2,1.74,13,73,0,89.85,borussia_dortmund,bundesliga,19700000,W. Anton,3
+1137131,Filippo Mané,D,21.0,Italy,0,0.0,0,1,0,86.27,borussia_dortmund,bundesliga,2400000,F. Mané,39
+1937833,Luca Reggiani,D,18.0,Italy,1,0.43,4,14,0,88.1,borussia_dortmund,bundesliga,9700000,L. Reggiani,49
+1418620,Almugera Kabar,D,20.0,Germany,0,0.1,0,1,0,50.0,borussia_dortmund,bundesliga,3100000,A. Kabar,42
+556866,Gregor Kobel,G,28.0,Switzerland,0,0.0,0,0,0,72.13,borussia_dortmund,bundesliga,41000000,G. Kobel,1
+981562,Diant Ramaj,G,24.0,Germany,0,0.0,0,1,1,65.12,borussia_dortmund,bundesliga,6300000,D. Ramaj,41
+1898148,Ayoube Amaimouni Echghouyab,F,21.0,Morocco,2,0.52,20,6,3,76.98,eintracht_frankfurt,bundesliga,10900000,A. Amaimouni Echghouyab,29
+147745,Michy Batshuayi,F,32.0,Belgium,1,1.13,1,1,0,73.68,eintracht_frankfurt,bundesliga,2200000,M. Batshuayi,30
+979315,Elye Wahi,F,23.0,Côte d'Ivoire,0,0.8,1,2,1,83.54,eintracht_frankfurt,bundesliga,19400000,E. Wahi,17
+979315,Elye Wahi,F,23.0,Côte d'Ivoire,5,3.61,6,5,1,68.09,eintracht_frankfurt,bundesliga,19400000,E. Wahi,17
+939830,Jonathan Burkardt,F,26.0,Germany,13,12.0,6,8,1,73.3,eintracht_frankfurt,bundesliga,29000000,J. Burkardt,9
+1146148,Jean-Mattéo Bahoya,F,21.0,France,3,2.04,41,31,4,80.45,eintracht_frankfurt,bundesliga,24000000,J. Bahoya,19
+997012,Ansgar Knauff,F,24.0,Germany,4,3.78,11,13,1,70.62,eintracht_frankfurt,bundesliga,15500000,A. Knauff,7
+1474296,Younes Ebnoutalib,F,22.0,Germany,1,0.65,1,0,0,76.19,eintracht_frankfurt,bundesliga,8800000,Y. Ebnoutalib,11
+906276,Jessic Ngankam,F,25.0,Germany,0,0.0,1,0,0,88.24,eintracht_frankfurt,bundesliga,720000,J. Ngankam,32
+1192318,Farès Chaïbi,M,23.0,Algeria,2,2.83,11,31,9,78.88,eintracht_frankfurt,bundesliga,14500000,F. Chaïbi,8
+1440948,Can Uzun,M,20.0,Türkiye,8,3.93,16,15,4,81.62,eintracht_frankfurt,bundesliga,44000000,C. Uzun,42
+790965,Ritsu Doan,M,28.0,Japan,5,3.36,34,43,5,77.65,eintracht_frankfurt,bundesliga,15600000,R. Doan,20
+66518,Mario Götze,M,34.0,Germany,0,0.57,5,14,0,83.2,eintracht_frankfurt,bundesliga,3100000,M. Götze,27
+591706,Ellyes Skhiri,M,31.0,Tunisia,0,0.64,7,20,0,88.02,eintracht_frankfurt,bundesliga,5200000,E. Skhiri,15
+1142211,Hugo Larsson,M,22.0,Sweden,2,1.47,4,19,2,86.78,eintracht_frankfurt,bundesliga,30000000,H. Larsson,16
+904994,Eric Ebimbe,M,25.0,Cameroon,5,3.6,3,25,0,76.81,eintracht_frankfurt,bundesliga,6500000,E. Ebimbe,26
+1149113,Oscar Højlund,M,21.0,Denmark,1,0.54,5,29,1,89.72,eintracht_frankfurt,bundesliga,14600000,O. Højlund,6
+1977245,Love Arrhov,M,18.0,Sweden,0,0.0,1,2,0,73.91,eintracht_frankfurt,bundesliga,5200000,L. Arrhov,31
+40239,Timothy Chandler,M,36.0,USA,0,0.0,0,0,0,80.0,eintracht_frankfurt,bundesliga,375000,T. Chandler,22
+965778,Arthur Theate,D,26.0,Belgium,1,1.1,4,35,0,89.92,eintracht_frankfurt,bundesliga,16500000,A. Theate,3
+581302,Robin Koch,D,29.0,Germany,3,1.38,2,42,1,91.77,eintracht_frankfurt,bundesliga,10800000,R. Koch,4
+1048569,Nnamdi Collins,D,22.0,Germany,1,0.45,11,49,2,87.64,eintracht_frankfurt,bundesliga,18500000,N. Collins,34
+1403018,Elias Baum,D,20.0,Germany,0,0.0,0,1,0,90.77,eintracht_frankfurt,bundesliga,3900000,E. Baum,2
+941179,Niels Nkounkou,D,25.0,France,0,0.19,8,16,1,80.34,eintracht_frankfurt,bundesliga,2800000,N. Nkounkou,29
+1134203,Kauã Santos,G,23.0,Brazil,0,0.0,1,1,0,63.0,eintracht_frankfurt,bundesliga,6500000,Kauã,40
+190161,Michael Zetterer,G,31.0,Germany,0,0.0,0,0,0,71.86,eintracht_frankfurt,bundesliga,4099999,M. Zetterer,23
+1019321,Igor Matanović,F,23.0,Croatia,11,9.24,12,23,2,62.58,freiburg,bundesliga,21000000,I. Matanović,31
+1067120,Eren Dinkçi,F,24.0,Türkiye,3,3.97,11,25,1,70.62,freiburg,bundesliga,5400000,E. Dinkçi,18
+280009,Lucas Höler,F,32.0,Germany,3,4.5,10,25,1,68.93,freiburg,bundesliga,2900000,L. Höler,9
+1131002,Derry Scherhant,F,23.0,Germany,5,2.58,30,20,1,75.66,freiburg,bundesliga,7300000,D. Scherhant,7
+1518931,Johan Manzambi,M,20.0,Switzerland,5,3.85,33,35,4,84.45,freiburg,bundesliga,54000000,J. Manzambi,44
+1508537,Cyriaque Irié,M,21.0,Burkina Faso,0,0.73,12,9,0,83.64,freiburg,bundesliga,8199999,C. Irié,22
+1020422,Yuito Suzuki,M,24.0,Japan,4,3.86,18,20,2,77.53,freiburg,bundesliga,25000000,Y. Suzuki,14
+171961,Vincenzo Grifo,M,33.0,Italy,7,5.74,10,10,4,82.11,freiburg,bundesliga,3700000,V. Grifo,32
+836711,Jan-Niklas Beste,M,27.0,Germany,2,3.44,15,40,2,75.46,freiburg,bundesliga,10800000,J. Beste,19
+569784,Maximilian Eggestein,M,29.0,Germany,3,3.8,15,64,1,82.66,freiburg,bundesliga,10500000,M. Eggestein,8
+914755,Patrick Osterhage,M,26.0,Germany,1,0.95,6,14,0,86.65,freiburg,bundesliga,11600000,P. Osterhage,6
+2217897,Rouven Tarnutzer,M,18.0,Switzerland,0,0.0,0,0,0,100.0,freiburg,bundesliga,380000,R. Tarnutzer,69
+142259,Matthias Ginter,D,32.0,Germany,3,2.3,3,22,4,87.47,freiburg,bundesliga,4800000,M. Ginter,28
+576266,Philipp Lienhart,D,30.0,Austria,1,1.06,3,18,0,90.28,freiburg,bundesliga,9600000,P. Lienhart,3
+1131339,Jordy Makengo,D,24.0,France,0,0.0,7,22,1,84.04,freiburg,bundesliga,5800000,J. Makengo,33
+142231,Christian Günter,D,33.0,Germany,0,0.38,2,19,3,78.79,freiburg,bundesliga,1900000,C. Günter,30
+1596573,Bruno Ogbus,D,20.0,Switzerland,0,0.37,3,23,0,91.6,freiburg,bundesliga,14000000,B. Ogbus,43
+142525,Lukas Kübler,D,33.0,Germany,2,3.18,2,40,2,81.26,freiburg,bundesliga,1500000,L. Kübler,17
+1131337,Maximilian Rosenfelder,D,23.0,Germany,0,0.02,2,8,0,89.12,freiburg,bundesliga,6300000,M. Rosenfelder,37
+979820,Philipp Treu,D,25.0,Germany,1,1.19,15,45,2,85.63,freiburg,bundesliga,15900000,P. Treu,29
+103442,Anthony Jung,D,34.0,Germany,0,0.03,1,4,0,82.72,freiburg,bundesliga,580000,A. Jung,5
+980626,Noah Atubolu,G,24.0,Germany,0,0.0,0,0,0,67.01,freiburg,bundesliga,24000000,N. Atubolu,1
+1083390,Mio Backhaus,G,22.0,Germany,0,0.0,0,0,0,78.9,freiburg,bundesliga,14400000,M. Backhaus,30
+67647,Andrej Kramarić,F,35.0,Croatia,14,11.89,19,8,6,85.28,hoffenheim,bundesliga,2700000,A. Kramarić,27
+1010117,Fisnik Asllani,F,23.0,Kosovo,10,8.28,17,17,7,68.56,hoffenheim,bundesliga,36000000,F. Asllani,11
+1217613,Gift Orban,F,23.0,Nigeria,7,10.55,19,4,2,71.81,hoffenheim,bundesliga,7300000,G. Orban,14
+963801,Adam Hložek,F,23.0,Czechia,0,0.46,0,0,0,81.82,hoffenheim,bundesliga,10300000,A. Hložek,23
+1418703,Max Moerstedt,F,20.0,Germany,2,0.83,4,7,0,73.33,hoffenheim,bundesliga,7600000,M. Moerstedt,33
+1014290,Tim Lemperle,F,24.0,Germany,8,8.4,15,21,2,70.23,hoffenheim,bundesliga,15300000,T. Lemperle,19
+1440627,Yannick Eduardo,F,20.0,Czechia,0,0.0,0,0,0,0.0,hoffenheim,bundesliga,2600000,Y. Eduardo,31
+987504,Patrick Wimmer,M,25.0,Austria,4,3.12,38,47,3,65.18,hoffenheim,bundesliga,11100000,P. Wimmer,39
+1493305,Leon Avdullahu,M,22.0,Kosovo,0,0.59,8,47,1,89.97,hoffenheim,bundesliga,33000000,L. Avdullahu,7
+916946,Wouter Burger,M,25.0,Netherlands,4,3.46,4,72,5,77.52,hoffenheim,bundesliga,21000000,W. Burger,18
+978062,Alexander Prass,M,25.0,Austria,3,1.19,16,32,2,76.25,hoffenheim,bundesliga,8700000,A. Prass,22
+1128638,Muhammed Damar,M,22.0,Germany,0,1.24,2,5,0,81.6,hoffenheim,bundesliga,4600000,M. Damar,10
+1083410,Umut Tohumcu,M,21.0,Germany,0,0.09,1,3,0,84.78,hoffenheim,bundesliga,3200000,U. Tohumcu,17
+857740,Ozan Kabak,D,26.0,Türkiye,4,4.33,6,20,0,84.72,hoffenheim,bundesliga,14600000,O. Kabak,5
+138024,Vladimír Coufal,D,33.0,Czechia,1,0.88,31,60,8,78.21,hoffenheim,bundesliga,2400000,V. Coufal,34
+790977,Koki Machida,D,28.0,Japan,0,0.0,0,1,0,88.89,hoffenheim,bundesliga,5800000,K. Machida,28
+1000269,Albian Hajdari,D,23.0,Kosovo,1,1.73,2,58,2,82.8,hoffenheim,bundesliga,24000000,A. Hajdari,21
+828571,Bernardo,D,31.0,Brazil,0,0.52,6,68,0,79.36,hoffenheim,bundesliga,3700000,Bernardo,13
+1122806,Arthur Chaves,D,25.0,Brazil,2,1.07,2,26,0,82.04,hoffenheim,bundesliga,4900000,A. Chaves,35
+957615,Robin Hranáč,D,26.0,Czechia,1,2.14,2,25,0,86.32,hoffenheim,bundesliga,10900000,R. Hranáč,2
+944899,Valentin Gendrey,D,26.0,France,1,0.28,0,1,1,96.15,hoffenheim,bundesliga,6300000,V. Gendrey,15
+40244,Oliver Baumann,G,36.0,Germany,0,0.0,2,0,0,71.11,hoffenheim,bundesliga,2700000,O. Baumann,1
+1462742,Ilyas Ansah,F,21.0,Germany,5,3.25,25,17,1,74.92,union_berlin,bundesliga,12900000,I. Ansah,10
+1090010,Marin Ljubičić,F,24.0,Croatia,2,1.35,1,0,0,40.0,union_berlin,bundesliga,1800000,M. Ljubičić,20
+927405,Woo-Yeong Jeong,F,26.0,South Korea,4,2.63,7,18,1,75.68,union_berlin,bundesliga,3700000,W. Jeong,11
+953767,Andrej Ilić,F,26.0,Serbia,5,11.26,7,4,9,54.76,union_berlin,bundesliga,8300000,A. Ilić,23
+608362,Oliver Burke,F,29.0,Scotland,6,5.18,11,12,2,72.13,union_berlin,bundesliga,2900000,O. Burke,7
+1513469,Livan Burcu,F,21.0,Türkiye,1,1.61,15,12,1,79.81,union_berlin,bundesliga,4200000,L. Burcu,9
+1568506,Dmytro Bogdanov,F,19.0,Ukraine,0,0.97,0,0,0,100.0,union_berlin,bundesliga,770000,D. Bogdanov,30
+2311163,Linus Guther,F,16.0,Germany,0,0.0,0,0,0,0.0,union_berlin,bundesliga,1000000,L. Güther,49
+791642,Josip Juranović,M,30.0,Croatia,1,0.69,0,7,1,74.81,union_berlin,bundesliga,2200000,J. Juranović,18
+877302,András Schäfer,M,27.0,Hungary,2,1.97,9,41,1,76.32,union_berlin,bundesliga,4099999,A. Schäfer,13
+886737,Derrick Köhn,M,27.0,Ghana,1,2.15,11,34,2,76.3,union_berlin,bundesliga,4200000,D. Köhn,39
+149479,Rani Khedira,M,32.0,Tunisia,5,2.04,3,59,1,66.62,union_berlin,bundesliga,2100000,R. Khedira,-
+327863,Robert Skov,M,30.0,Denmark,0,0.02,3,6,0,67.74,union_berlin,bundesliga,1900000,R. Skov,24
+1198074,Aljoscha Kemlein,M,21.0,Germany,0,1.18,17,40,2,76.79,union_berlin,bundesliga,11000000,A. Kemlein,6
+48557,Christopher Trimmel,M,39.0,Austria,0,0.09,1,38,3,68.04,union_berlin,bundesliga,555000,C. Trimmel,28
+800252,Tim Skarke,M,29.0,Germany,1,0.89,5,7,1,70.13,union_berlin,bundesliga,1500000,T. Skarke,21
+168985,Janik Haberer,M,32.0,Germany,0,0.58,6,35,1,76.28,union_berlin,bundesliga,2100000,J. Haberer,19
+1086547,Leopold Querfeld,D,22.0,Austria,3,3.69,4,52,0,79.95,union_berlin,bundesliga,18900000,L. Querfeld,14
+1210666,Tom Alexander Rothe,D,21.0,Germany,2,1.15,7,20,0,72.82,union_berlin,bundesliga,10300000,T. Rothe,15
+904991,Stanley Nsoki,D,27.0,France,1,0.16,4,13,2,69.97,union_berlin,bundesliga,1800000,S. Nsoki,34
+254449,Marvin Friedrich,D,30.0,Germany,0,0.0,0,6,0,82.35,union_berlin,bundesliga,1900000,M. Friedrich,5
+137692,Frederik Rønnow,G,33.0,Denmark,0,0.0,0,1,0,55.82,union_berlin,bundesliga,2100000,F. Rønnow,1
+842718,Matheo Raab,G,27.0,Germany,0,0.0,0,0,0,53.13,union_berlin,bundesliga,560000,M. Raab,31
+148167,Carl Klaus,G,32.0,Germany,0,0.0,0,0,0,61.47,union_berlin,bundesliga,335000,C. Klaus,25
+794298,Deniz Undav,F,29.0,Germany,19,16.4,9,18,6,72.64,vfb_stuttgart,bundesliga,20000000,D. Undav,26
+878081,Ermedin Demirović,F,28.0,Bosnia & Herzegovina,12,7.55,7,14,3,73.2,vfb_stuttgart,bundesliga,20000000,E. Demirović,9
+1464642,Jeremy Arevalo,F,21.0,Ecuador,0,0.13,1,0,1,73.68,vfb_stuttgart,bundesliga,7200000,J. Arévalo,25
+1154491,Jovan Milošević,F,20.0,Serbia,3,2.01,5,4,1,74.53,vfb_stuttgart,bundesliga,7200000,J. Milošević,19
+983540,Tiago Tomás,F,24.0,Portugal,5,5.97,13,15,3,79.07,vfb_stuttgart,bundesliga,14600000,T. Tomás,8
+1126569,Bilal El Khannouss,M,22.0,Morocco,4,3.17,18,28,5,79.34,vfb_stuttgart,bundesliga,32000000,B. E. Khannouss,11
+1153265,Badredine Bouanani,M,21.0,Algeria,0,0.97,4,4,0,77.72,vfb_stuttgart,bundesliga,10500000,B. Bouanani,27
+1153265,Badredine Bouanani,M,21.0,Algeria,0,0.07,1,0,0,78.72,vfb_stuttgart,bundesliga,10500000,B. Bouanani,27
+901882,Angelo Stiller,M,25.0,Germany,2,3.08,14,49,5,88.12,vfb_stuttgart,bundesliga,46000000,A. Stiller,6
+1464641,Chema Andrés,M,21.0,Spain,3,1.4,2,30,0,84.87,vfb_stuttgart,bundesliga,19400000,C. Andrés,30
+990201,Jamie Leweling,M,25.0,Germany,7,4.31,31,22,9,77.38,vfb_stuttgart,bundesliga,37000000,J. Leweling,18
+891510,Chris Führich,M,28.0,Germany,7,4.26,28,15,7,82.97,vfb_stuttgart,bundesliga,11600000,C. Führich,10
+801030,Atakan Karazor,M,29.0,Türkiye,0,0.73,8,42,1,85.01,vfb_stuttgart,bundesliga,8800000,A. Karazor,16
+1427148,Lazar Jovanović,M,19.0,Serbia,0,0.07,1,0,0,61.54,vfb_stuttgart,bundesliga,3800000,L. Jovanović,45
+861981,Nikolas Nartey,M,26.0,Denmark,4,2.52,18,14,3,83.3,vfb_stuttgart,bundesliga,10300000,N. Nartey,28
+253993,Grischa Prömel,M,31.0,Germany,7,5.09,6,36,2,82.0,vfb_stuttgart,bundesliga,3600000,G. Prömel,6
+788949,Maximilian Mittelstädt,D,29.0,Germany,6,4.4,14,67,4,86.17,vfb_stuttgart,bundesliga,19800000,M. Mittelstädt,7
+1418649,Finn Jeltsch,D,19.0,Germany,0,0.15,5,24,1,90.8,vfb_stuttgart,bundesliga,32000000,F. Jeltsch,29
+826205,Dan Zagadou,D,27.0,France,0,0.34,1,5,0,86.38,vfb_stuttgart,bundesliga,1900000,D. Zagadou,23
+863271,Jeff Chabot,D,28.0,Germany,0,1.13,4,34,0,88.82,vfb_stuttgart,bundesliga,15500000,J. Chabot,24
+1127823,Luca Jaquez,D,23.0,Switzerland,0,0.12,2,8,1,90.78,vfb_stuttgart,bundesliga,10700000,L. Jaquez,14
+1979970,Ameen Al-Dakhil,D,24.0,Belgium,0,0.06,2,8,0,88.58,vfb_stuttgart,bundesliga,3100000,A. Al-Dakhil,2
+906278,Josha Vagnoman,D,25.0,Germany,1,2.89,6,30,3,81.8,vfb_stuttgart,bundesliga,10300000,J. Vagnoman,4
+1009334,Lorenz Assignon,D,26.0,France,0,0.57,11,22,0,83.75,vfb_stuttgart,bundesliga,8700000,L. Assignon,22
+962898,Leonidas Stergiou,D,24.0,Switzerland,0,0.09,1,8,0,77.63,vfb_stuttgart,bundesliga,2700000,L. Stergiou,20
+916943,Ramon Hendriks,D,24.0,Netherlands,0,0.31,8,35,3,90.42,vfb_stuttgart,bundesliga,24000000,R. Hendriks,3
+135264,Yussuf Poulsen,F,32.0,Denmark,1,0.76,3,4,0,58.56,vfl_bochum,bundesliga,935000,Y. Poulsen,15
+1568535,Otto Stange,F,19.0,Germany,0,0.96,5,3,0,71.43,vfl_bochum,bundesliga,4300000,O. Stange,49
+789192,Jean-Luc Dompé,F,30.0,France,3,2.08,21,5,0,80.84,vfl_bochum,bundesliga,2400000,J. Dompé,7
+991824,Rayan Philippe,F,25.0,France,5,5.2,12,20,0,69.61,vfl_bochum,bundesliga,4099999,R. Philippe,14
+1862226,Alexander Røssing-Lelesiit,F,19.0,Norway,0,0.08,6,9,1,80.88,vfl_bochum,bundesliga,4700000,A. Røssing-Lelesiit,38
+1546267,Fabio Baldé,F,20.0,Portugal,1,0.91,10,14,1,73.58,vfl_bochum,bundesliga,4600000,F. Baldé,45
+901892,Albert Sambi Lokonga,M,26.0,Belgium,5,2.05,8,31,0,87.7,vfl_bochum,bundesliga,12400000,A. Sambi Lokonga,6
+1000263,Albert Grønbæk,M,25.0,Denmark,0,0.03,2,4,0,76.47,vfl_bochum,bundesliga,5300000,A. Grønbæk,23
+1000263,Albert Grønbæk,M,25.0,Denmark,1,0.49,5,15,2,74.64,vfl_bochum,bundesliga,5300000,A. Grønbæk,23
+841985,Emir Sahiti,M,27.0,Kosovo,0,0.0,4,0,0,70.97,vfl_bochum,bundesliga,1500000,E. Sahiti,29
+798303,Miro Muheim,M,28.0,Switzerland,0,1.19,21,62,4,75.63,vfl_bochum,bundesliga,5300000,M. Muheim,28
+842526,Bakery Jatta,M,28.0,Gambia,1,0.84,3,15,1,81.61,vfl_bochum,bundesliga,1000000,B. Jatta,18
+989203,Immanuel Pherai,M,25.0,Suriname,0,0.05,1,2,0,78.26,vfl_bochum,bundesliga,1600000,I. Pherai,10
+1064305,Nicolai Remberg,M,26.0,Germany,0,1.03,14,60,2,89.04,vfl_bochum,bundesliga,8400000,N. Remberg,21
+973564,Nicolás Capaldo,D,27.0,Argentina,1,1.93,10,68,3,77.73,vfl_bochum,bundesliga,8400000,N. Capaldo,24
+801003,Jordan Torunarigha,D,28.0,Nigeria,0,0.37,6,37,0,85.4,vfl_bochum,bundesliga,4099999,J. Torunarigha,25
+999030,Warmed Omari,D,26.0,Comoros,0,0.12,6,22,1,85.77,vfl_bochum,bundesliga,3900000,W. Omari,17
+945532,Daniel Elfadli,D,29.0,Libya,0,0.41,3,22,0,93.39,vfl_bochum,bundesliga,3300000,D. Elfadli,8
+2204961,Shafiq Nandja,D,19.0,Germany,0,0.0,0,0,0,80.0,vfl_bochum,bundesliga,530000,S. Nandja,43
+1030355,Sander Tangvik,G,23.0,Norway,0,0.0,0,0,0,66.67,vfl_bochum,bundesliga,2700000,S. Tangvik,12
+113442,Daniel Fernandes,G,33.0,Portugal,0,0.26,1,0,0,74.16,vfl_bochum,bundesliga,1300000,D. Fernandes,1
+1099296,Mateo Pellegrino,F,24.0,Argentina,9,8.59,25,17,1,62.71,wolfsburg,bundesliga,14600000,M. Pellegrino,9
+928295,Adrian Benedyczak,F,25.0,Poland,1,1.44,0,6,1,73.96,wolfsburg,bundesliga,4900000,A. Benedyczak,7
+1423452,Daniel Mikołajewski,F,20.0,Poland,0,0.22,0,1,0,100.0,wolfsburg,bundesliga,1900000,D. Mikołajewski,76
+1004790,Jacob Ondrejka,F,23.0,Sweden,0,1.16,10,7,0,79.51,wolfsburg,bundesliga,5800000,J. Ondrejka,17
+1486729,Nesta Elphege,F,25.0,France,2,1.91,4,2,1,66.13,wolfsburg,bundesliga,3700000,N. Elphege,23
+856065,Pontus Almqvist,F,27.0,Sweden,0,0.39,6,9,1,78.3,wolfsburg,bundesliga,1700000,P. Almqvist,11
+1459459,Benjamin Cremaschi,M,21.0,USA,0,0.02,2,2,0,72.55,wolfsburg,bundesliga,4300000,B. Cremaschi,25
+934384,Adrián Bernabé,M,25.0,Spain,3,2.25,15,39,1,84.78,wolfsburg,bundesliga,14100000,A. Bernabé,10
+876259,Hans Nicolussi Caviglia,M,26.0,Italy,0,0.91,11,27,4,84.51,wolfsburg,bundesliga,6200000,H. Caviglia,41
+1110136,Mandela Keita,M,24.0,Belgium,1,0.7,29,74,1,88.43,wolfsburg,bundesliga,18100000,M. Keita,16
+1086199,Franco Carboni,M,23.0,Argentina,0,0.0,1,2,0,80.0,wolfsburg,bundesliga,945000,F. Carboni,47
+891346,Emanuele Valeri,M,27.0,Italy,0,0.68,15,46,2,73.14,wolfsburg,bundesliga,2900000,E. Valeri,14
+1201388,Christian Ordoñez,M,22.0,Argentina,1,0.48,5,25,0,82.2,wolfsburg,bundesliga,7100000,C. Ordoñez,24
+957921,Oliver Sørensen,M,24.0,Denmark,1,1.59,7,18,1,82.88,wolfsburg,bundesliga,6700000,O. Sørensen,22
+1155423,Alessandro Circati,D,22.0,Australia,1,1.01,4,43,0,87.62,wolfsburg,bundesliga,13000000,A. Circati,3
+1516324,Mariano Troilo,D,23.0,Argentina,1,0.75,5,28,0,89.31,wolfsburg,bundesliga,9100000,M. Troilo,37
+984527,Abdoulaye Ndiaye,D,24.0,Senegal,0,0.63,2,16,0,83.96,wolfsburg,bundesliga,5800000,A. Ndiaye,3
+928103,Enrico Delprato,D,26.0,Italy,2,2.12,5,36,0,86.14,wolfsburg,bundesliga,6600000,E. Delprato,15
+958517,Lautaro Valenti,D,27.0,Argentina,0,0.56,8,49,0,78.16,wolfsburg,bundesliga,2200000,L. Valenti,5
+1963449,Sascha Britschgi,D,19.0,Switzerland,0,0.42,9,33,2,76.1,wolfsburg,bundesliga,9300000,S. Britschgi,27
+905351,Zion Suzuki,G,23.0,Japan,0,0.0,0,0,0,61.95,wolfsburg,bundesliga,21000000,Z. Suzuki,31
+990411,Edoardo Corvi,G,25.0,Italy,0,0.0,0,1,0,74.61,wolfsburg,bundesliga,1500000,E. Corvi,40
+1002428,Filippo Rinaldi,G,23.0,Italy,0,0.0,0,0,0,47.73,wolfsburg,bundesliga,620000,F. Rinaldi,66
+175753,Mariano Díaz,F,32.0,Dominican Republic,0,0.24,1,4,0,65.12,alaves,la_liga,285000,M. Díaz,9
+831253,Toni Martínez,F,29.0,Spain,14,11.23,17,28,3,58.51,alaves,la_liga,7300000,T. Martínez,11
+814385,Lucas Boyé,F,30.0,Argentina,11,9.48,37,36,1,73.14,alaves,la_liga,5300000,L. Boyé,15
+1639543,Aitor Mañas,F,23.0,Spain,0,0.68,2,3,0,85.71,alaves,la_liga,570000,A. Mañas,34
+1082968,Abderrahman Rebbach,M,27.0,Algeria,1,2.31,18,42,4,79.61,alaves,la_liga,2400000,A. Rebbach,21
+855832,Antonio Blanco,M,25.0,Spain,2,1.37,24,94,3,85.51,alaves,la_liga,9700000,A. Blanco,8
+794937,Carles Aleñá,M,28.0,Spain,0,2.71,13,37,4,85.29,alaves,la_liga,2800000,C. Aleñá,10
+138383,Denis Suárez,M,32.0,Spain,1,0.98,25,23,2,85.82,alaves,la_liga,1100000,D. Suárez,4
+873717,Carlos Benavídez,M,28.0,Uruguay,0,0.23,0,11,0,82.35,alaves,la_liga,960000,C. Benavídez,23
+1084381,Pablo Ibáñez,M,28.0,Spain,1,4.39,31,57,1,85.76,alaves,la_liga,4099999,P. Ibáñez,19
+891931,Ander Guevara,M,29.0,Spain,1,0.24,5,12,1,82.64,alaves,la_liga,2700000,A. Guevara,6
+1513222,Ángel Pérez,M,23.0,Spain,1,0.98,20,15,3,74.84,alaves,la_liga,2800000,Á. Pérez,7
+1403364,Youssef Enriquez,D,20.0,Morocco,0,0.79,8,17,1,79.25,alaves,la_liga,4300000,Y. Enriquez,3
+879875,Facundo Garcés,D,26.0,Argentina,0,0.35,0,13,0,84.46,alaves,la_liga,1300000,F. Garcés,2
+896073,Nahuel Tenaglia,D,30.0,Argentina,2,1.59,10,66,0,86.42,alaves,la_liga,3200000,N. Tenaglia,14
+985262,Moussa Diarra,D,25.0,Mali,0,0.0,1,6,0,64.06,alaves,la_liga,1800000,M. Diarra,22
+235648,Jonny Otto,D,32.0,Spain,0,0.55,25,66,0,86.62,alaves,la_liga,2100000,J. Otto,17
+999178,Ville Koski,D,24.0,Finland,0,0.02,0,6,0,81.54,alaves,la_liga,1600000,V. Koski,16
+369004,Antonio Sivera,G,29.0,Spain,0,0.0,0,2,0,50.24,alaves,la_liga,5600000,A. Sivera,1
+1520799,Maroan Sannadi,F,25.0,Morocco,1,1.1,1,1,0,71.43,athletic_bilbao,la_liga,2800000,M. Sannadi,21
+605672,Gorka Guruzeta,F,29.0,Spain,10,10.46,7,19,3,67.24,athletic_bilbao,la_liga,4600000,G. Guruzeta,11
+1085400,Nico Williams,M,24.0,Spain,6,5.37,67,15,3,77.43,athletic_bilbao,la_liga,44000000,N. Williams,10
+783374,Iñaki Williams,M,32.0,Ghana,3,6.39,12,12,6,69.35,athletic_bilbao,la_liga,7300000,I. Williams,9
+966801,Oihan Sancet,M,26.0,Spain,4,6.47,16,25,0,81.34,athletic_bilbao,la_liga,24000000,O. Sancet,8
+592012,Álex Berenguer,M,31.0,Spain,2,4.47,23,28,3,76.95,athletic_bilbao,la_liga,4099999,Á. Berenguer,7
+1495844,Mikel Jauregizar,M,22.0,Spain,2,1.79,10,68,0,80.43,athletic_bilbao,la_liga,31000000,M. Jauregizar,18
+96365,Iñigo Ruiz de Galarreta,M,32.0,Spain,1,0.71,34,60,2,82.5,athletic_bilbao,la_liga,1800000,I. R. d. Galarreta,16
+944165,Robert Navarro,M,24.0,Spain,6,3.94,23,16,1,80.77,athletic_bilbao,la_liga,6500000,R. Navarro,23
+2110897,Alejandro Rego Mora,M,23.0,Spain,1,0.58,9,42,1,82.19,athletic_bilbao,la_liga,5500000,A. Rego Mora,30
+1012409,Beñat Prados,M,25.0,Spain,0,0.03,1,3,0,75.51,athletic_bilbao,la_liga,15500000,B. Prados,24
+1953923,Selton Sanchez,M,19.0,Spain,0,0.27,1,3,1,66.67,athletic_bilbao,la_liga,2900000,S. Sánchez,44
+359742,Mikel Vesga,M,33.0,Spain,0,0.15,7,18,0,76.68,athletic_bilbao,la_liga,1200000,M. Vesga,6
+1019318,Nico Serrano,M,23.0,Spain,1,0.67,7,6,0,80.49,athletic_bilbao,la_liga,1600000,N. Serrano,22
+966802,Unai Vencedor,M,25.0,Spain,0,0.0,4,22,0,81.49,athletic_bilbao,la_liga,1500000,U. Vencedor,13
+149734,Aymeric Laporte,D,32.0,Spain,0,1.62,2,27,1,89.17,athletic_bilbao,la_liga,8400000,A. Laporte,14
+910978,Dani Vivian,D,27.0,Spain,1,1.23,5,55,0,85.54,athletic_bilbao,la_liga,18200000,D. Vivian,3
+1398511,Adama Boiro,D,24.0,Spain,0,0.04,8,18,0,87.06,athletic_bilbao,la_liga,2300000,A. Boiro,19
+84531,Yuri Berchiche,D,36.0,Spain,0,0.56,10,43,6,87.53,athletic_bilbao,la_liga,910000,Y. Berchiche,17
+959872,Aitor Paredes,D,26.0,Spain,2,1.11,3,21,0,87.59,athletic_bilbao,la_liga,7100000,A. Paredes,4
+807648,Yeray Álvarez,D,31.0,Spain,0,0.12,0,1,0,83.16,athletic_bilbao,la_liga,930000,Y. Álvarez,-
+910267,Jesús Areso,D,27.0,Spain,0,0.12,14,22,1,83.48,athletic_bilbao,la_liga,5500000,J. Areso,12
+866810,Andoni Gorosabel,D,29.0,Spain,0,0.25,12,37,1,85.59,athletic_bilbao,la_liga,2900000,A. Gorosabel,2
+1632454,Hugo Rincón,D,23.0,Spain,1,0.86,9,47,1,82.56,athletic_bilbao,la_liga,3400000,H. Rincón,34
+797291,Unai Simón,G,29.0,Spain,0,0.0,0,1,0,58.01,athletic_bilbao,la_liga,21000000,U. Simón,1
+1155116,Alex Padilla,G,22.0,Mexico,0,0.0,0,0,0,35.48,athletic_bilbao,la_liga,3100000,Á. Padilla,27
+1014412,Julen Agirrezabala,G,25.0,Spain,0,0.0,0,2,0,69.64,athletic_bilbao,la_liga,9800000,J. Agirrezabala,13
+944656,Julián Alvarez,F,26.0,Argentina,8,7.7,26,21,4,83.45,atletico_madrid,la_liga,97000000,J. Álvarez,19
+824200,Ademola Lookman,F,28.0,Nigeria,2,2.68,16,5,0,79.58,atletico_madrid,la_liga,44000000,A. Lookman,22
+824200,Ademola Lookman,F,28.0,Nigeria,4,4.17,7,5,0,83.06,atletico_madrid,la_liga,44000000,A. Lookman,22
+309078,Alexander Sørloth,F,30.0,Norway,13,10.16,10,14,0,68.0,atletico_madrid,la_liga,18600000,A. Sørloth,9
+1131581,Carlos Martín,F,24.0,Spain,0,1.3,4,11,0,82.73,atletico_madrid,la_liga,1500000,C. Martín,12
+944660,Thiago Almada,M,25.0,Argentina,3,3.72,21,29,1,86.65,atletico_madrid,la_liga,16000000,T. Almada,11
+1099352,Giuliano Simeone,M,23.0,Argentina,4,5.17,29,45,6,81.82,atletico_madrid,la_liga,44000000,G. Simeone,20
+910031,Alex Baena,M,24.0,Spain,2,2.0,14,18,3,81.04,atletico_madrid,la_liga,43000000,A. Baena,10
+177177,Alejandro Grimaldo,M,30.0,Spain,8,6.65,25,49,8,87.4,atletico_madrid,la_liga,19400000,A. Grimaldo,20
+1142588,Pablo Barrios,M,23.0,Spain,1,1.79,33,30,1,88.97,atletico_madrid,la_liga,60000000,P. Barrios,8
+990169,Johnny Cardoso,M,24.0,USA,0,0.08,5,37,0,88.38,atletico_madrid,la_liga,18700000,J. Cardoso,5
+1119345,Obed Vargas,M,20.0,Mexico,0,0.18,10,26,1,82.28,atletico_madrid,la_liga,9300000,O. Vargas,21
+191182,Thomas Lemar,M,30.0,France,3,1.93,20,27,1,88.15,atletico_madrid,la_liga,1900000,T. Lemar,11
+84539,Koke,M,34.0,Spain,2,0.72,3,50,2,91.92,atletico_madrid,la_liga,4600000,Koke,6
+1391752,Rodrigo Mendoza,M,21.0,Spain,1,1.62,20,16,1,85.38,atletico_madrid,la_liga,21000000,R. Mendoza,4
+831799,Nahuel Molina,D,28.0,Argentina,2,0.48,15,40,2,80.54,atletico_madrid,la_liga,14600000,N. Molina,16
+353138,Marcos Llorente,D,31.0,Spain,0,1.98,13,59,4,89.46,atletico_madrid,la_liga,21000000,M. Llorente,14
+787751,Robin Le Normand,D,29.0,Spain,1,0.62,1,35,1,89.49,atletico_madrid,la_liga,19100000,R. Le Normand,24
+325355,José María Giménez,D,31.0,Uruguay,0,1.74,2,25,1,90.15,atletico_madrid,la_liga,8600000,J. M. Giménez,2
+1094106,Marc Pubill,D,23.0,Spain,1,0.92,4,25,1,88.07,atletico_madrid,la_liga,33000000,Pubill,18
+807771,Dávid Hancko,D,28.0,Slovakia,0,1.33,8,43,2,87.65,atletico_madrid,la_liga,36000000,D. Hancko,17
+965011,Matteo Ruggeri,D,24.0,Italy,0,0.14,5,36,3,86.76,atletico_madrid,la_liga,27000000,M. Ruggeri,3
+263651,Juan Musso,G,32.0,Argentina,0,0.0,0,0,0,77.42,atletico_madrid,la_liga,3200000,J. Musso,1
+69768,Jan Oblak,G,33.0,Slovenia,0,0.0,0,0,0,73.36,atletico_madrid,la_liga,16000000,J. Oblak,13
+855833,Ferran Torres,F,26.0,Spain,16,13.16,9,7,2,75.8,barcelona,la_liga,54000000,F. Torres,7
+1162107,Roony Bardghji,F,20.0,Sweden,1,1.43,22,6,1,88.69,barcelona,la_liga,15500000,R. Bardghji,19
+914902,Anthony Gordon,F,25.0,England,6,8.83,33,19,2,81.82,barcelona,la_liga,67000000,A. Gordon,10
+1402912,Lamine Yamal,M,19.0,Spain,16,12.81,133,35,11,81.1,barcelona,la_liga,215000000,L. Yamal,10
+831005,Raphinha,M,29.0,Brazil,13,10.36,21,15,3,81.22,barcelona,la_liga,63000000,Raphinha,11
+992587,Pedri,M,23.0,Spain,2,1.57,38,50,9,91.58,barcelona,la_liga,164000000,Pedri,8
+1103693,Pablo Gavi,M,21.0,Spain,0,0.0,1,17,1,92.44,barcelona,la_liga,31000000,Gavi,6
+795222,Frenkie de Jong,M,29.0,Netherlands,1,1.17,5,45,5,94.21,barcelona,la_liga,32000000,F. de Jong,21
+789071,Dani Olmo,M,28.0,Spain,7,7.66,16,33,8,85.27,barcelona,la_liga,58000000,D. Olmo,20
+1153270,Fermín López,M,23.0,Spain,6,6.99,44,48,9,87.42,barcelona,la_liga,103000000,F. López,16
+1526618,Marc Bernal,M,19.0,Spain,2,1.04,11,26,1,92.03,barcelona,la_liga,29000000,M. Bernal,22
+1000483,Marc Casadó,M,22.0,Spain,0,0.96,2,18,1,90.98,barcelona,la_liga,17400000,M. Casadó,17
+1590761,Toni Fernández,M,18.0,Spain,0,0.0,0,0,0,77.78,barcelona,la_liga,3100000,T. Fernández,29
+1939137,Tomás Marqués,M,19.0,Spain,0,0.0,0,0,0,83.33,barcelona,la_liga,3100000,T. Marqués,43
+1402913,Pau Cubarsí,D,19.0,Spain,1,0.54,1,42,0,94.94,barcelona,la_liga,75000000,P. Cubarsí,5
+827212,Jules Koundé,D,27.0,France,1,1.66,21,47,3,91.57,barcelona,la_liga,64000000,J. Koundé,23
+997035,Alejandro Balde,D,22.0,Spain,0,0.62,23,35,2,91.79,barcelona,la_liga,55000000,A. Balde,3
+925097,Ronald Araújo,D,27.0,Uruguay,3,1.43,0,21,0,92.0,barcelona,la_liga,22000000,R. Araújo,4
+186795,Andreas Christensen,D,30.0,Denmark,0,0.25,0,5,0,95.57,barcelona,la_liga,7700000,A. Christensen,15
+876214,Eric García,D,25.0,Spain,1,2.96,2,74,2,92.17,barcelona,la_liga,39000000,E. García,24
+1094827,Gerard Martín,D,24.0,Spain,0,0.2,6,40,0,91.42,barcelona,la_liga,32000000,G. Martín,18
+1402908,Hector Fort,D,19.0,Spain,2,0.62,8,12,2,83.33,barcelona,la_liga,11600000,H. Fort,32
+1546073,Xavi Espart,D,19.0,Spain,0,0.02,3,4,0,89.23,barcelona,la_liga,5300000,X. Espart,42
+1464652,Álvaro Cortés,D,21.0,Spain,0,0.0,1,1,0,94.57,barcelona,la_liga,3600000,Á. Cortés,36
+930267,Joan García,G,25.0,Spain,0,0.0,1,6,0,89.72,barcelona,la_liga,46000000,J. García,13
+88625,Marc-André Ter Stegen,G,34.0,Germany,0,0.0,0,0,0,92.0,barcelona,la_liga,3100000,M. ter Stegen,1
+50490,Wojciech Szczęsny,G,36.0,Poland,0,0.0,0,0,0,83.83,barcelona,la_liga,730000,W. Szczęsny,25
+785989,Borja Iglesias,F,33.0,Spain,14,10.45,12,8,2,73.03,celta_vigo,la_liga,2900000,B. Iglesias,7
+19356,Iago Aspas,F,38.0,Spain,5,4.48,12,15,3,78.58,celta_vigo,la_liga,1500000,I. Aspas,10
+949962,Ferran Jutglà,F,27.0,Spain,9,6.73,21,12,3,77.88,celta_vigo,la_liga,10700000,F. Jutglà,9
+1173575,Jones El-Abdellaoui,F,20.0,Morocco,2,2.59,11,6,0,83.22,celta_vigo,la_liga,8400000,J. El-Abdellaoui,39
+1398524,Pablo Durán,F,25.0,Spain,2,4.26,7,16,2,72.1,celta_vigo,la_liga,4099999,P. Durán,18
+962890,Ilaix Moriba,M,23.0,Guinea,2,1.39,13,87,3,88.42,celta_vigo,la_liga,13700000,I. Moriba,6
+1126779,Williot Swedberg,M,22.0,Sweden,5,4.25,10,28,5,77.55,celta_vigo,la_liga,18700000,W. Swedberg,19
+158615,Matías Vecino,M,34.0,Uruguay,0,0.33,0,10,1,88.62,celta_vigo,la_liga,1100000,M. Vecino,15
+158615,Matías Vecino,M,34.0,Uruguay,0,0.08,1,8,0,84.04,celta_vigo,la_liga,1100000,M. Vecino,15
+286167,Aleix Febas,M,30.0,Spain,2,2.21,52,77,2,89.53,celta_vigo,la_liga,5200000,A. Febas,14
+1154935,Hugo Álvarez,M,23.0,Spain,4,2.74,16,15,2,85.57,celta_vigo,la_liga,7800000,H. Álvarez,23
+1120669,Hugo Sotelo,M,22.0,Spain,0,0.09,2,30,2,92.26,celta_vigo,la_liga,4800000,H. Sotelo,22
+1002764,Sergio Carreira,M,25.0,Spain,2,1.58,26,32,1,85.36,celta_vigo,la_liga,11500000,S. Carreira,5
+1008259,Javier Rueda,M,24.0,Spain,2,1.3,21,20,6,76.5,celta_vigo,la_liga,6200000,J. Rueda,17
+1398526,Miguel Román,M,23.0,Spain,1,0.91,3,27,0,87.7,celta_vigo,la_liga,14400000,M. Román,16
+1216080,Damián Rodríguez,M,23.0,Spain,0,0.06,0,0,0,92.98,celta_vigo,la_liga,1900000,D. Rodríguez,14
+69408,Marcos Alonso,D,35.0,Spain,1,2.2,17,41,0,90.2,celta_vigo,la_liga,1300000,M. Alonso,20
+825133,Javi Galán,D,31.0,Spain,0,0.21,38,48,1,83.89,celta_vigo,la_liga,1700000,J. Galán,20
+360718,Carl Starfelt,D,31.0,Sweden,0,0.55,1,23,0,95.86,celta_vigo,la_liga,4099999,C. Starfelt,2
+892521,Unai Núñez,D,29.0,Spain,0,0.45,9,24,0,78.08,celta_vigo,la_liga,3300000,U. Núñez,4
+892521,Unai Núñez,D,29.0,Spain,0,0.42,0,25,0,85.06,celta_vigo,la_liga,3300000,U. Núñez,4
+984789,Manuel Sánchez,D,25.0,Spain,1,0.77,12,81,2,81.5,celta_vigo,la_liga,6400000,M. Sánchez,23
+1526627,Javi Rodríguez,D,23.0,Spain,0,0.68,8,38,1,90.34,celta_vigo,la_liga,17500000,J. Rodríguez,32
+1012410,Alvaro Núñez,D,26.0,Spain,0,0.29,15,29,2,91.41,celta_vigo,la_liga,3900000,A. Núñez,14
+1145100,Yoel Lago,D,22.0,Spain,0,0.03,2,19,0,91.67,celta_vigo,la_liga,3700000,Y. Lago,29
+1069703,Carlos Domínguez,D,25.0,Spain,0,0.52,0,13,0,91.4,celta_vigo,la_liga,1900000,C. Domínguez,24
+1630975,Manu Fernández,D,25.0,Spain,0,0.05,1,13,0,90.08,celta_vigo,la_liga,1400000,M. Fernández,12
+815202,Ionuț Radu,G,29.0,Romania,0,0.0,1,0,0,68.6,celta_vigo,la_liga,8700000,I. Radu,13
+1392592,Roberto Fernández,F,24.0,Spain,7,9.31,9,12,3,69.78,espanyol,la_liga,10300000,R. Fernández,9
+84972,Kike García,F,36.0,Spain,8,8.8,9,12,1,64.78,espanyol,la_liga,725000,K. García,19
+891511,Javi Puado,M,28.0,Spain,2,3.47,5,4,0,83.92,espanyol,la_liga,7000000,J. Puado,7
+877262,Edu Expósito,M,29.0,Spain,1,2.35,34,53,6,76.28,espanyol,la_liga,4500000,E. Expósito,8
+1063015,Tyrhys Dolan,M,24.0,England,2,2.54,35,57,5,83.42,espanyol,la_liga,10800000,T. Dolan,24
+175185,Pere Milla,M,33.0,Spain,7,7.07,11,37,1,71.54,espanyol,la_liga,965000,P. Milla,11
+826010,Pol Lozano,M,26.0,Spain,2,0.78,3,38,1,86.89,espanyol,la_liga,5800000,P. Lozano,10
+1064009,Urko González,M,25.0,Spain,0,0.73,14,55,1,80.94,espanyol,la_liga,11600000,U. González,4
+1019236,Jofre Carreras,M,25.0,Spain,1,2.34,16,9,0,74.77,espanyol,la_liga,2800000,J. Carreras,17
+1099344,Antoniu Roca,M,23.0,Spain,0,0.22,10,7,0,69.64,espanyol,la_liga,1600000,A. Roca,20
+1064026,Omar El Hilali,D,22.0,Morocco,0,0.01,7,73,2,80.55,espanyol,la_liga,15900000,O. E. Hilali,23
+1392044,Quilindschy Hartman,D,24.0,Netherlands,0,0.34,5,52,5,75.68,espanyol,la_liga,15500000,Q. Hartman,3
+81992,Leandro Cabrera,D,35.0,Uruguay,3,2.78,6,36,0,80.41,espanyol,la_liga,930000,L. Cabrera,6
+1129360,Clemens Riedel,D,22.0,Germany,0,0.13,1,28,1,88.3,espanyol,la_liga,3900000,C. Riedel,38
+1068891,Jose Salinas,D,25.0,Spain,0,0.16,3,2,0,83.93,espanyol,la_liga,1800000,J. Salinas,12
+934351,Miguel Rubio,D,28.0,Spain,1,0.72,1,4,0,76.71,espanyol,la_liga,1400000,M. Rubio,15
+94527,Marko Dmitrović,G,34.0,Serbia,0,0.0,0,3,0,54.05,espanyol,la_liga,650000,M. Dmitrović,13
+1082734,Angel Fortuno,G,25.0,Spain,0,0.0,0,0,0,91.3,espanyol,la_liga,290000,A. Fortuno,1
+1884145,Christantus Uche,F,23.0,Nigeria,0,0.49,0,1,0,59.32,getafe,la_liga,13200000,C. Uche,12
+1884145,Christantus Uche,F,23.0,Nigeria,1,1.42,6,2,1,62.79,getafe,la_liga,13200000,C. Uche,12
+973536,Martín Satriano,F,25.0,Uruguay,6,4.34,25,23,1,64.67,getafe,la_liga,10600000,M. Satriano,10
+973536,Martín Satriano,F,25.0,Uruguay,2,1.79,5,5,1,83.44,getafe,la_liga,10600000,M. Satriano,10
+604954,Borja Mayoral,F,29.0,Spain,4,3.05,6,5,1,81.06,getafe,la_liga,6300000,B. Mayoral,9
+96369,Juanmi,F,33.0,Spain,1,0.15,1,2,0,66.67,getafe,la_liga,910000,Juanmi,7
+1398518,Álex Sancris,F,29.0,Spain,0,0.39,5,10,1,69.07,getafe,la_liga,1400000,Á. Sancris,18
+1154549,Mario Martín,M,22.0,Spain,2,2.63,14,56,1,73.11,getafe,la_liga,10700000,M. Martín,6
+869931,Yvan Neyou,M,29.0,Cameroon,0,0.0,0,0,0,83.33,getafe,la_liga,1900000,Y. Neyou,4
+1088565,Ramón Terrats,M,25.0,Spain,1,1.5,9,22,2,76.95,getafe,la_liga,3200000,R. Terrats,20
+1392054,Coba Da Costa,M,23.0,Guinea-Bissau,0,0.31,10,10,0,68.18,getafe,la_liga,1500000,C. Da Costa,20
+353154,Javier Muñoz,M,31.0,Spain,0,0.36,4,8,0,68.98,getafe,la_liga,1100000,J. Muñoz,14
+1101232,Abdel Abqar,D,27.0,Morocco,0,0.3,2,38,2,72.34,getafe,la_liga,3300000,A. Abqar,3
+307702,Djené,D,34.0,Togo,0,0.13,9,36,0,78.67,getafe,la_liga,1500000,Djené,2
+1392092,Sebastián Boselli,D,22.0,Uruguay,0,0.36,2,17,0,54.12,getafe,la_liga,1500000,S. Boselli,15
+1108450,Zaid Romero,D,26.0,Argentina,1,0.9,16,31,0,69.18,getafe,la_liga,2400000,Z. Romero,2
+1457536,Andrés García,D,23.0,Spain,0,0.0,0,5,0,100.0,getafe,la_liga,6500000,A. García,16
+1895964,Ismael Bekhoucha,D,21.0,Morocco,0,0.02,2,6,1,63.16,getafe,la_liga,290000,I. Bekhoucha,31
+1918369,Davinchi,D,18.0,Spain,0,0.24,10,26,0,58.02,getafe,la_liga,910000,Davinchi,26
+53739,Kiko Femenía,D,35.0,Spain,1,0.69,7,39,1,77.37,getafe,la_liga,740000,K. Femenía,17
+604258,David Soria,G,33.0,Spain,0,0.0,0,0,0,44.92,getafe,la_liga,2700000,D. Soria,13
+976374,Vladyslav Vanat,F,24.0,Ukraine,9,8.52,9,5,1,78.02,girona,la_liga,13900000,V. Vanat,19
+826013,Abel Ruíz,F,26.0,Spain,0,0.25,1,1,0,77.78,girona,la_liga,1900000,A. Ruíz,9
+218616,Portu,F,34.0,Spain,0,1.36,0,4,0,71.79,girona,la_liga,1300000,Portu,8
+1151851,Dawda Camara,F,23.0,Mauritania,0,0.12,0,1,0,70.0,girona,la_liga,1100000,D. Camara,14
+991421,Azzedine Ounahi,M,26.0,Morocco,5,3.4,69,23,2,85.78,girona,la_liga,10300000,A. Ounahi,18
+1092769,Yáser Asprilla,M,22.0,Colombia,0,0.58,13,8,0,85.43,girona,la_liga,15000000,Y. Asprilla,10
+361790,Donny van de Beek,M,29.0,Netherlands,0,0.09,0,0,0,92.31,girona,la_liga,1900000,D. van de Beek,6
+319735,Viktor Tsygankov,M,28.0,Ukraine,6,6.83,27,31,5,82.44,girona,la_liga,15700000,V. Tsygankov,15
+910026,Bryan Gil,M,25.0,Spain,0,2.9,33,31,3,83.78,girona,la_liga,8199999,B. Gil,21
+973699,Iván Martín,M,27.0,Spain,0,0.87,30,61,1,89.37,girona,la_liga,4600000,I. Martín,23
+835484,Fran Beltrán,M,27.0,Spain,1,0.73,7,34,0,91.47,girona,la_liga,4200000,F. Beltrán,8
+1391616,Joel Roca,M,21.0,Spain,3,3.7,37,23,1,83.25,girona,la_liga,6300000,J. Roca,3
+1084081,Arnau Martínez,D,23.0,Spain,2,1.62,13,66,3,85.22,girona,la_liga,10800000,A. Martínez,4
+294593,Álex Moreno,D,33.0,Spain,0,1.49,35,43,3,83.68,girona,la_liga,3100000,Á. Moreno,24
+1002347,Alejandro Francés,D,23.0,Spain,0,0.82,7,25,2,83.17,girona,la_liga,2800000,A. Francés,16
+164343,Paulo Gazzaniga,G,34.0,Argentina,0,0.0,0,1,0,67.4,girona,la_liga,1900000,P. Gazzaniga,13
+1521733,Vladyslav Krapyvtsov,G,21.0,Ukraine,0,0.0,0,0,0,64.1,girona,la_liga,330000,V. Krapyvtsov,25
+1000150,Zito Luvumbo,F,24.0,Angola,0,1.1,3,2,0,76.92,las_palmas,la_liga,3100000,Z. Luvumbo,77
+1000150,Zito Luvumbo,F,24.0,Angola,0,0.62,9,1,2,70.69,las_palmas,la_liga,3100000,Z. Luvumbo,77
+146852,Abdón Prats,F,33.0,Spain,0,0.88,1,0,0,65.38,las_palmas,la_liga,860000,A. Prats,9
+1914318,Marc Domenech,F,20.0,Spain,0,0.11,1,3,1,59.38,las_palmas,la_liga,1100000,M. Domenech,27
+1082981,Pablo Torre,M,23.0,Spain,4,1.73,16,22,4,85.06,las_palmas,la_liga,4900000,P. Torre,20
+1939173,Jan Virgili,M,19.0,Spain,2,2.33,49,15,4,75.68,las_palmas,la_liga,13800000,J. Virgili,17
+988351,Samú Costa,M,25.0,Portugal,7,3.98,14,65,2,79.89,las_palmas,la_liga,14600000,S. Costa,12
+110783,Sergi Darder,M,32.0,Spain,1,2.04,34,28,5,84.56,las_palmas,la_liga,2800000,S. Darder,10
+255999,Omar Mascarell,M,33.0,Equatorial Guinea,2,0.28,6,48,2,85.95,las_palmas,la_liga,730000,O. Mascarell,5
+826004,Manu Morlanes,M,27.0,Spain,3,2.0,8,56,0,89.33,las_palmas,la_liga,2200000,M. Morlanes,8
+1484974,Justin-Noel Kalumba,M,21.0,France,0,0.09,1,1,0,74.07,las_palmas,la_liga,775000,J. Kalumba,30
+1484974,Justin-Noel Kalumba,M,21.0,France,0,0.02,4,6,0,76.0,las_palmas,la_liga,775000,J. Kalumba,30
+949722,Antonio Sánchez,M,29.0,Spain,0,0.4,5,21,0,78.78,las_palmas,la_liga,Non renseigné,A. Sánchez,6
+1905699,Jan Salas,M,20.0,Spain,0,0.0,1,0,0,60.0,las_palmas,la_liga,485000,J. Salas,28
+344847,Johan Mojica,D,33.0,Colombia,0,0.54,15,51,4,79.09,las_palmas,la_liga,1400000,J. Mojica,22
+300522,Martin Valjent,D,30.0,Slovakia,0,0.81,4,50,0,87.16,las_palmas,la_liga,3200000,M. Valjent,24
+807116,Antonio Raíllo,D,34.0,Spain,0,0.54,0,25,1,88.43,las_palmas,la_liga,1100000,A. Raíllo,21
+879543,Mateu Morey,D,26.0,Spain,1,0.3,4,19,0,76.35,las_palmas,la_liga,1400000,M. Morey,2
+828239,Toni Lato,D,28.0,Spain,0,0.0,7,10,1,81.82,las_palmas,la_liga,1300000,T. Lato,3
+1605225,Aboubaka Soumahoro,D,21.0,France,0,0.0,0,1,0,90.0,las_palmas,la_liga,1300000,A. Soumahoro,22
+1513896,David López,D,23.0,Spain,0,0.31,2,11,0,83.22,las_palmas,la_liga,1300000,D. López,27
+1513896,David López,D,23.0,Spain,0,0.57,1,4,0,87.61,las_palmas,la_liga,1300000,D. López,27
+996903,Lucas Bergström,G,23.0,Finland,0,0.0,0,0,0,53.79,las_palmas,la_liga,1500000,L. Bergström,13
+1000442,Yassine Kechta,M,24.0,Morocco,2,1.69,7,32,1,79.67,leganes,la_liga,3900000,Y. Kechta,-
+936234,Juan Cruz,M,26.0,Spain,0,0.39,2,4,0,88.19,leganes,la_liga,1700000,J. Cruz,10
+349526,Dani Rodríguez,M,38.0,Spain,0,0.02,1,2,0,66.67,leganes,la_liga,105000,D. Rodríguez,9
+37318,Ante Budimir,F,34.0,Croatia,17,17.13,3,21,0,60.05,osasuna,la_liga,2600000,A. Budimir,17
+997280,Raúl García de Haro,F,25.0,Spain,7,6.45,15,15,1,67.09,osasuna,la_liga,3100000,R. García,9
+591132,Kike Barja,F,29.0,Spain,2,0.93,6,5,2,73.98,osasuna,la_liga,1500000,K. Barja,11
+1086346,Iker Benito,F,23.0,Spain,1,0.6,1,1,0,81.33,osasuna,la_liga,1500000,I. Benito,2
+980383,Raúl Moro,M,23.0,Spain,0,0.23,12,2,2,76.36,osasuna,la_liga,3300000,R. Moro,18
+985329,Aimar Oroz,M,24.0,Spain,0,1.68,30,37,2,79.74,osasuna,la_liga,6900000,A. Oroz,10
+260031,Rubén García,M,33.0,Spain,2,2.43,18,50,5,79.47,osasuna,la_liga,1700000,R. García,14
+976141,Jon Moncayola,M,28.0,Spain,0,2.0,13,55,4,80.12,osasuna,la_liga,7300000,J. Moncayola,7
+187313,Lucas Torró,M,31.0,Spain,0,1.6,9,39,1,74.6,osasuna,la_liga,2700000,L. Torró,6
+149370,Moi Gómez,M,32.0,Spain,0,0.39,12,20,2,88.84,osasuna,la_liga,1600000,M. Gómez,16
+1119586,Iker Muñoz,M,23.0,Spain,0,0.35,4,12,0,84.86,osasuna,la_liga,1800000,I. Muñoz,8
+1067582,Enzo Boyomo,D,24.0,Cameroon,1,1.03,3,58,2,86.38,osasuna,la_liga,14600000,E. Boyomo,22
+900792,Alejandro Catena,D,31.0,Spain,3,2.67,6,41,2,85.61,osasuna,la_liga,2700000,A. Catena,24
+842419,Valentin Rosier,D,29.0,France,1,0.67,28,48,1,81.33,osasuna,la_liga,3100000,V. Rosier,19
+1010165,Abel Bretones,D,25.0,Spain,1,0.63,13,33,2,77.14,osasuna,la_liga,3400000,A. Bretones,23
+944225,Jorge Herrando,D,25.0,Spain,0,0.29,3,32,1,86.04,osasuna,la_liga,3200000,J. Herrando,5
+1399702,Asier Osambela,D,21.0,Spain,1,0.39,0,6,0,70.3,osasuna,la_liga,1000000,A. Osambela,29
+1495856,Iñigo Arguibide,D,21.0,Spain,0,0.0,0,3,0,63.16,osasuna,la_liga,850000,I. Arguibide,41
+294377,Sergio Herrera,G,33.0,Spain,0,0.0,0,0,0,69.39,osasuna,la_liga,2600000,S. Herrera,1
+99516,Aitor Fernández,G,35.0,Spain,0,0.0,1,0,0,60.78,osasuna,la_liga,465000,A. Fernández,13
+981604,Alemão,F,28.0,Brazil,4,3.66,7,5,0,68.65,rayo_vallecano,la_liga,4400000,Alemão,9
+900003,Jorge de Frutos,F,29.0,Spain,10,10.63,28,31,1,76.07,rayo_vallecano,la_liga,10900000,J. de Frutos,19
+910024,Sergio Camello,F,25.0,Spain,5,3.06,17,11,1,81.65,rayo_vallecano,la_liga,3300000,S. Camello,10
+932764,Randy Nteka,F,28.0,Angola,3,2.47,4,4,0,79.12,rayo_vallecano,la_liga,1000000,R. Nteka,11
+913679,Pathé Ismaël Ciss,M,32.0,Senegal,2,3.31,9,54,1,89.18,rayo_vallecano,la_liga,1600000,P. I. Ciss,6
+899982,Isi Palazón,M,31.0,Spain,3,5.3,23,29,3,82.45,rayo_vallecano,la_liga,3000000,I. Palazón,7
+345111,Álvaro García,M,33.0,Spain,4,6.5,4,27,5,68.33,rayo_vallecano,la_liga,1500000,Á. García,18
+900669,Pedro Díaz,M,28.0,Spain,0,1.73,15,38,1,84.9,rayo_vallecano,la_liga,2900000,P. Díaz,4
+588566,Unai López,M,30.0,Spain,0,0.89,13,31,4,86.65,rayo_vallecano,la_liga,2600000,U. López,17
+900008,Óscar Valentín,M,31.0,Spain,1,1.01,5,72,0,88.64,rayo_vallecano,la_liga,1900000,Ó. Valentín,23
+966637,Fran Pérez,M,23.0,Spain,2,2.24,14,15,1,82.24,rayo_vallecano,la_liga,2300000,F. Pérez,21
+965031,Andrei Rațiu,D,28.0,Romania,0,2.25,63,70,4,82.2,rayo_vallecano,la_liga,16700000,A. Rațiu,2
+1458073,Nobel Mendy,D,21.0,Senegal,2,1.58,3,27,0,85.77,rayo_vallecano,la_liga,7700000,N. Mendy,32
+88528,Florian Lejeune,D,35.0,France,2,2.29,8,66,1,87.27,rayo_vallecano,la_liga,1700000,F. Lejeune,24
+850035,Luiz Felipe,D,29.0,Italy,0,0.38,0,12,0,90.94,rayo_vallecano,la_liga,2100000,L. Felipe,-
+1010421,Pep Chavarría,D,28.0,Spain,1,0.61,17,54,2,84.59,rayo_vallecano,la_liga,9700000,J. Chavarría,3
+152446,Iván Balliu,D,34.0,Albania,0,0.35,7,15,0,82.26,rayo_vallecano,la_liga,1100000,I. Balliu,20
+1120947,Jozhua Vertrouwd,D,21.0,Netherlands,0,0.05,0,7,0,90.91,rayo_vallecano,la_liga,2100000,J. Vertrouwd,33
+1139724,Pelayo Fernández,D,23.0,Spain,0,0.04,0,1,0,85.71,rayo_vallecano,la_liga,520000,P. Fernández,27
+358910,Augusto Batalla,G,30.0,Argentina,0,0.0,5,1,0,63.91,rayo_vallecano,la_liga,5800000,A. Batalla,13
+965832,Dani Cárdenas,G,29.0,Spain,0,0.0,0,1,0,69.11,rayo_vallecano,la_liga,1700000,D. Cárdenas,1
+887055,Cucho Hernández,F,27.0,Colombia,11,11.08,28,28,3,71.8,real_betis,la_liga,16500000,C. Hernández,19
+958380,Antony,M,26.0,Brazil,8,8.79,27,39,6,81.94,real_betis,la_liga,37000000,Antony,7
+1011375,Abdessamad Ezzalzouli,M,24.0,Morocco,10,9.2,39,53,8,79.32,real_betis,la_liga,43000000,A. Ezzalzouli,10
+103417,Isco,M,34.0,Spain,1,1.0,1,3,1,91.72,real_betis,la_liga,3600000,Isco,22
+798835,Giovani Lo Celso,M,30.0,Argentina,2,2.47,16,19,3,87.98,real_betis,la_liga,7800000,G. Lo Celso,20
+838629,Álvaro Fidalgo,M,29.0,Mexico,1,0.51,3,12,0,92.97,real_betis,la_liga,6500000,Á. Fidalgo,15
+1129401,Nelson Deossa,M,26.0,Colombia,0,0.46,29,14,0,83.44,real_betis,la_liga,9800000,N. Deossa,18
+989113,Rodrigo Riquelme,M,26.0,Spain,1,2.16,11,16,1,83.17,real_betis,la_liga,4300000,R. Riquelme,17
+816763,Pablo Fornals,M,30.0,Spain,9,3.92,25,39,6,86.71,real_betis,la_liga,8400000,P. Fornals,8
+1893910,Pablo García,M,20.0,Spain,0,1.37,5,10,0,81.25,real_betis,la_liga,8199999,P. García,52
+847128,Marc Roca,M,29.0,Spain,1,1.36,11,38,1,88.08,real_betis,la_liga,4200000,M. Roca,21
+992331,Iker Losada,M,24.0,Spain,3,1.73,6,13,1,71.37,real_betis,la_liga,2000000,I. Losada,14
+851271,Fran García,D,26.0,Spain,1,0.83,3,19,1,88.96,real_betis,la_liga,9200000,F. Garcia,20
+188365,Héctor Bellerín,D,31.0,Spain,2,0.42,7,31,3,88.23,real_betis,la_liga,2500000,H. Bellerín,2
+1015287,Natan,D,25.0,Brazil,0,0.5,3,32,0,88.27,real_betis,la_liga,26000000,Natan,4
+914835,Junior Firpo,D,29.0,Dominican Republic,0,0.46,4,24,1,84.6,real_betis,la_liga,3400000,J. Firpo,23
+1186010,Valentín Gómez,D,23.0,Argentina,1,0.8,13,46,0,85.91,real_betis,la_liga,11200000,V. Gómez,16
+99519,Marc Bartra,D,35.0,Spain,1,0.78,6,45,0,86.52,real_betis,la_liga,930000,M. Bartra,5
+305278,Diego Llorente,D,32.0,Spain,1,0.94,1,27,0,90.41,real_betis,la_liga,2600000,D. Llorente,3
+893062,Aitor Ruibal,D,30.0,Spain,4,3.85,15,45,2,82.66,real_betis,la_liga,3900000,A. Ruibal,24
+1152139,Angel Ortiz,D,21.0,Spain,0,0.04,7,27,0,83.2,real_betis,la_liga,4400000,Á. Ortiz,40
+548848,Pau López,G,31.0,Spain,0,0.0,0,1,0,76.64,real_betis,la_liga,2700000,P. López,25
+964983,Álvaro Valles,G,28.0,Spain,0,0.0,1,0,0,71.83,real_betis,la_liga,6500000,Á. Valles,1
+826643,Kylian Mbappé,F,27.0,France,25,23.95,78,4,5,86.47,real_madrid,la_liga,191000000,K. Mbappé,10
+868812,Vinícius Júnior,F,26.0,Brazil,16,13.65,87,29,5,83.17,real_madrid,la_liga,146000000,Vinícius Jr.,7
+910536,Rodrygo,F,25.0,Brazil,1,2.58,18,13,3,90.74,real_madrid,la_liga,48000000,Rodrygo,11
+1174937,Endrick,F,19.0,Brazil,0,0.0,1,0,0,0.0,real_madrid,la_liga,42000000,Endrick,9
+1174937,Endrick,F,19.0,Brazil,5,6.56,36,13,7,74.83,real_madrid,la_liga,42000000,Endrick,9
+1403559,Franco Mastantuono,F,18.0,Argentina,1,3.09,25,20,0,90.04,real_madrid,la_liga,44000000,F. Mastantuono,30
+1402716,Gonzalo García,F,22.0,Spain,6,5.37,3,11,1,85.06,real_madrid,la_liga,31000000,G. García,16
+991011,Jude Bellingham,M,23.0,England,6,7.26,37,51,4,89.21,real_madrid,la_liga,123000000,J. Bellingham,5
+831808,Federico Valverde,M,27.0,Uruguay,5,2.89,23,41,8,90.13,real_madrid,la_liga,87000000,F. Valverde,8
+1091116,Arda Güler,M,21.0,Türkiye,4,4.57,27,46,9,90.71,real_madrid,la_liga,87000000,A. Güler,15
+835485,Brahim Díaz,M,26.0,Morocco,1,1.84,25,15,6,90.58,real_madrid,la_liga,37000000,B. Díaz,21
+973887,Eduardo Camavinga,M,23.0,France,1,1.18,13,65,0,91.8,real_madrid,la_liga,48000000,E. Camavinga,6
+859025,Aurélien Tchouaméni,M,26.0,France,1,2.66,3,68,0,91.53,real_madrid,la_liga,73000000,A. Tchouaméni,14
+331209,Bernardo Silva,M,31.0,Portugal,2,2.56,21,54,4,90.2,real_madrid,la_liga,21000000,B. Silva,20
+2237795,Thiago Pitarch,M,18.0,Spain,0,0.41,7,12,2,90.17,real_madrid,la_liga,18200000,T. Pitarch,8
+759520,Denzel Dumfries,M,30.0,Netherlands,3,3.44,6,16,1,80.11,real_madrid,la_liga,26000000,D. Dumfries,2
+1142683,Manuel Ángel Morán,M,22.0,Spain,0,0.05,1,4,0,89.86,real_madrid,la_liga,4600000,M. Á. Morán,37
+1402688,César Palacios,M,21.0,Spain,0,0.17,2,3,0,90.57,real_madrid,la_liga,6800000,C. Palacios,38
+795064,Trent Alexander-Arnold,D,27.0,England,0,0.32,5,14,4,85.26,real_madrid,la_liga,62000000,T. Alexander-Arnold,12
+142622,Antonio Rüdiger,D,33.0,Germany,1,0.92,0,14,0,93.09,real_madrid,la_liga,6200000,A. Rüdiger,22
+1176744,Dean Huijsen,D,21.0,Spain,2,2.26,2,31,2,89.83,real_madrid,la_liga,66000000,D. Huijsen,24
+822519,Éder Militão,D,28.0,Brazil,2,1.78,3,23,1,90.87,real_madrid,la_liga,21000000,É. Militão,3
+1156645,Raúl Asencio,D,23.0,Spain,2,1.24,1,17,0,94.01,real_madrid,la_liga,18100000,R. Asencio,17
+1085081,Álvaro Carreras,D,23.0,Spain,2,0.46,19,41,3,90.6,real_madrid,la_liga,53000000,Á. Carreras,18
+792073,Ferland Mendy,D,31.0,France,0,0.0,2,1,0,92.41,real_madrid,la_liga,4200000,F. Mendy,23
+794939,Marc Cucurella,D,27.0,Spain,1,2.35,1,55,4,87.75,real_madrid,la_liga,52000000,M. Cucurella,3
+826215,Ibrahima Konaté,D,27.0,France,1,1.21,5,53,0,89.62,real_madrid,la_liga,46000000,I. Konaté,5
+1142689,David Jiménez,D,22.0,Spain,0,0.11,0,1,0,97.14,real_madrid,la_liga,5200000,D. Jiménez,35
+70988,Thibaut Courtois,G,34.0,Belgium,0,0.0,0,1,0,80.18,real_madrid,la_liga,14500000,T. Courtois,1
+857574,Andriy Lunin,G,27.0,Ukraine,0,0.0,0,1,0,87.56,real_madrid,la_liga,11300000,A. Lunin,13
+823622,Mikel Oyarzabal,F,29.0,Spain,15,15.24,36,29,4,76.83,real_sociedad,la_liga,27000000,M. Oyarzabal,10
+1026015,Orri Óskarsson,F,21.0,Iceland,9,6.1,3,7,0,62.9,real_sociedad,la_liga,21000000,O. S. Óskarsson,9
+1099175,Jon Karrikaburu,F,23.0,Spain,0,0.91,0,2,0,58.82,real_sociedad,la_liga,1600000,J. Karrikaburu,19
+880218,Takefusa Kubo,M,25.0,Japan,2,2.39,37,29,4,79.35,real_sociedad,la_liga,21000000,T. Kubo,14
+949156,Luka Sučić,M,23.0,Croatia,3,1.98,14,19,1,79.48,real_sociedad,la_liga,10900000,L. Sučić,24
+280979,Gonçalo Guedes,M,29.0,Portugal,8,3.86,18,25,4,74.69,real_sociedad,la_liga,5700000,G. Guedes,11
+1066045,Arsen Zakharyan,M,23.0,Russia,0,1.02,1,10,0,79.63,real_sociedad,la_liga,8700000,A. Zakharyan,21
+839585,Yangel Herrera,M,28.0,Venezuela,0,0.4,5,12,0,78.93,real_sociedad,la_liga,5600000,Y. Herrera,12
+832427,Carlos Soler,M,29.0,Spain,4,2.72,13,38,3,86.44,real_sociedad,la_liga,6600000,C. Soler,18
+966862,Ander Barrenetxea,M,24.0,Spain,3,2.62,55,30,5,80.3,real_sociedad,la_liga,17200000,A. Barrenetxea,7
+980410,Beñat Turrientes,M,24.0,Spain,0,0.79,20,40,3,86.37,real_sociedad,la_liga,10600000,B. Turrientes,8
+1216309,Jon Gorrotxategi,M,24.0,Spain,1,0.79,10,45,3,86.94,real_sociedad,la_liga,27000000,J. Gorrotxategi,4
+1139409,Pablo Marín,M,23.0,Spain,0,1.25,17,19,1,79.14,real_sociedad,la_liga,7400000,P. Marín,15
+1136702,Mikel Goti,M,24.0,Spain,0,0.35,2,0,0,48.28,real_sociedad,la_liga,955000,M. Goti,22
+1116388,Jon Aramburu,D,23.0,Venezuela,1,1.91,11,105,0,80.92,real_sociedad,la_liga,13900000,J. Aramburu,2
+855835,Sergio Gómez,D,25.0,Spain,0,1.09,13,88,6,86.62,real_sociedad,la_liga,14600000,S. Gómez,17
+353250,Álvaro Odriozola,D,30.0,Spain,1,0.52,0,5,0,85.71,real_sociedad,la_liga,825000,Á. Odriozola,20
+1466116,Jon Martin,D,20.0,Spain,2,1.99,8,31,0,91.22,real_sociedad,la_liga,24000000,J. Martin,31
+838159,Igor Zubeldia,D,29.0,Spain,0,0.26,1,38,1,88.12,real_sociedad,la_liga,6300000,I. Zubeldia,5
+934383,Jon Pacheco,D,25.0,Spain,0,0.3,3,36,0,86.47,real_sociedad,la_liga,5200000,J. Pacheco,20
+966441,Aihen Muñoz,D,28.0,Spain,1,0.48,4,28,0,83.77,real_sociedad,la_liga,2600000,A. Muñoz,3
+945404,Javi López,D,24.0,Spain,0,0.48,18,43,1,79.65,real_sociedad,la_liga,5400000,J. López,12
+1657024,Iñaki Rupérez,D,23.0,Spain,0,0.0,0,0,0,100.0,real_sociedad,la_liga,205000,I. Rupérez,33
+791773,Álex Remiro,G,31.0,Spain,0,0.0,1,1,0,71.47,real_sociedad,la_liga,9600000,Á. Remiro,1
+1094782,Unai Marrero,G,24.0,Spain,0,0.0,0,0,0,55.26,real_sociedad,la_liga,1100000,U. Marrero,13
+1171626,Dani Pérez,M,20.0,Spain,0,0.0,1,0,0,100.0,real_valladolid,la_liga,320000,D. Pérez,-
+1090681,Ramón Martínez,D,23.0,Spain,0,0.0,0,0,0,89.06,real_valladolid,la_liga,1000000,R. Martínez,5
+946381,Akor Adams,F,26.0,Nigeria,10,10.0,16,8,3,63.87,sevilla,la_liga,14600000,A. Adams,9
+875890,Chidera Ejuke,F,28.0,Nigeria,1,1.59,57,19,1,83.89,sevilla,la_liga,3700000,C. Ejuke,21
+825754,Rafa Mir,F,29.0,Spain,8,8.08,5,16,0,80.0,sevilla,la_liga,4099999,R. Mir,9
+1018190,Isaac Romero,F,26.0,Spain,4,5.26,10,16,0,72.32,sevilla,la_liga,5200000,I. Romero,7
+1468090,Alfon González,F,27.0,Spain,2,1.75,6,3,0,81.82,sevilla,la_liga,3300000,A. González,17
+872919,Rubén Vargas,M,27.0,Switzerland,3,3.17,21,19,6,73.08,sevilla,la_liga,11100000,R. Vargas,11
+799054,Djibril Sow,M,29.0,Switzerland,5,1.8,7,45,4,89.05,sevilla,la_liga,7100000,D. Sow,20
+960006,Lucien Agoumé,M,24.0,France,1,0.89,11,70,3,81.04,sevilla,la_liga,15500000,L. Agoumé,18
+1010655,Juanlu Sánchez,M,22.0,Spain,0,0.81,27,63,3,83.25,sevilla,la_liga,9700000,J. Sánchez,16
+997033,Peque Fernández,M,23.0,Spain,2,1.0,18,13,1,81.32,sevilla,la_liga,3300000,P. Fernández,14
+591750,Joan Jordán,M,32.0,Spain,0,0.0,0,0,0,77.78,sevilla,la_liga,970000,J. Jordán,8
+1534422,Oso,M,23.0,Spain,2,1.3,17,27,3,75.51,sevilla,la_liga,10500000,Oso,36
+788141,Jon Guridi,M,31.0,Spain,0,1.76,9,28,0,82.21,sevilla,la_liga,1700000,J. Guridi,18
+1142094,Manu Bueno,M,21.0,Spain,0,0.05,1,3,0,85.19,sevilla,la_liga,1500000,M. Bueno,28
+818986,Gabriel Suazo,D,28.0,Chile,0,0.47,15,86,1,83.33,sevilla,la_liga,6600000,G. Suazo,12
+1003007,Tanguy Nianzou,D,24.0,France,0,0.48,2,14,0,88.4,sevilla,la_liga,1200000,T. Nianzou,5
+840951,Marcão,D,30.0,Brazil,0,0.71,1,13,0,87.34,sevilla,la_liga,2600000,Marcão,23
+1015240,José Ángel Carmona,D,24.0,Spain,1,0.77,19,65,3,81.27,sevilla,la_liga,11100000,J. Á. Carmona,2
+1097719,Kike Salas,D,24.0,Spain,2,1.55,8,59,0,80.2,sevilla,la_liga,15400000,K. Salas,4
+1035988,Arouna Sangante,D,24.0,Senegal,1,0.43,4,41,1,85.67,sevilla,la_liga,7700000,A. Sangante,93
+928672,Adrià Pedrosa,D,28.0,Spain,1,0.56,5,34,1,83.85,sevilla,la_liga,2700000,A. Pedrosa,3
+949707,Juan Iglesias,D,28.0,Spain,1,1.06,30,112,2,64.35,sevilla,la_liga,4800000,J. Iglesias,21
+941464,Federico Gattoni,D,27.0,Argentina,0,0.0,0,0,0,100.0,sevilla,la_liga,720000,F. Gattoni,22
+252815,Fábio Cardoso,D,32.0,Portugal,0,0.0,0,5,0,92.91,sevilla,la_liga,1400000,F. Cardoso,15
+1428699,Andres Castrin,D,23.0,Spain,1,0.43,9,26,0,86.25,sevilla,la_liga,6500000,A. Castrin,32
+138149,Odysseas Vlachodimos,G,32.0,Greece,0,0.0,1,0,0,63.74,sevilla,la_liga,3200000,O. Vlachodimos,19
+827064,Arnaut Danjuma,F,29.0,Netherlands,3,4.66,27,13,2,77.55,valencia,la_liga,2800000,A. Danjuma,7
+754710,Umar Sadiq,F,29.0,Nigeria,4,3.48,15,8,2,68.16,valencia,la_liga,3900000,U. Sadiq,6
+909119,Hugo Duro,F,26.0,Spain,10,8.84,3,16,0,70.41,valencia,la_liga,11600000,H. Duro,9
+873947,Dani Raba,F,30.0,Spain,0,0.41,3,7,1,80.33,valencia,la_liga,1200000,D. Raba,19
+609752,Guido Rodríguez,M,32.0,Argentina,0,0.03,0,1,0,89.47,valencia,la_liga,4200000,G. Rodríguez,2
+609752,Guido Rodríguez,M,32.0,Argentina,4,1.0,10,41,0,86.99,valencia,la_liga,4200000,G. Rodríguez,2
+1122610,Javier Guerra,M,23.0,Spain,4,3.35,26,29,6,81.53,valencia,la_liga,26000000,J. Guerra,8
+826948,Pepelu,M,27.0,Spain,2,3.57,8,60,0,86.17,valencia,la_liga,7300000,Pepelu,18
+998950,Diego López,M,24.0,Spain,4,2.72,13,22,1,76.61,valencia,la_liga,9600000,D. López,16
+845693,André Almeida,M,26.0,Portugal,0,0.59,15,23,2,89.96,valencia,la_liga,6200000,A. Almeida,10
+900433,Luis Rioja,M,32.0,Spain,3,2.29,36,36,6,78.61,valencia,la_liga,1900000,L. Rioja,11
+857482,Filip Ugrinić,M,27.0,Switzerland,0,0.96,18,25,3,83.82,valencia,la_liga,5700000,F. Ugrinić,23
+797306,Mouctar Diakhaby,D,29.0,Guinea,1,0.53,1,8,0,87.5,valencia,la_liga,1500000,M. Diakhaby,4
+227922,José Luis Gayà,D,31.0,Spain,1,0.81,11,69,2,83.87,valencia,la_liga,4300000,J. L. Gayà,14
+996928,César Tárrega,D,24.0,Spain,0,0.61,10,42,0,86.3,valencia,la_liga,9300000,C. Tárrega,5
+953097,Cenk Özkaçar,D,25.0,Türkiye,0,0.97,6,33,0,86.76,valencia,la_liga,4099999,C. Özkaçar,5
+151138,Dimitri Foulquier,D,33.0,Guadeloupe,0,0.57,10,15,0,84.75,valencia,la_liga,980000,D. Foulquier,20
+996929,Jesús Vázquez,D,23.0,Spain,0,0.3,21,24,0,84.07,valencia,la_liga,4200000,J. Vázquez,21
+913695,José Copete,D,26.0,Spain,0,1.54,7,26,0,85.56,valencia,la_liga,4500000,J. Copete,3
+97951,Stole Dimitrievski,G,32.0,North Macedonia,0,0.0,0,1,0,60.76,valencia,la_liga,2100000,S. Dimitrievski,1
+593526,Nicolas Pépé,F,31.0,Côte d'Ivoire,8,8.26,59,31,8,82.41,villarreal,la_liga,6600000,N. Pépé,19
+1009372,Georges Mikautadze,F,25.0,Georgia,13,11.42,32,6,6,75.5,villarreal,la_liga,32000000,G. Mikautadze,9
+1009372,Georges Mikautadze,F,25.0,Georgia,1,1.06,5,0,0,84.38,villarreal,la_liga,32000000,G. Mikautadze,9
+146866,Gerard Moreno,F,34.0,Spain,10,6.3,17,15,0,79.23,villarreal,la_liga,2400000,G. Moreno,7
+345195,Ayoze Pérez,F,32.0,Spain,5,5.38,13,22,4,75.78,villarreal,la_liga,5400000,A. Pérez,22
+1172477,Tani Oluwaseyi,F,26.0,Canada,2,3.38,9,7,2,63.39,villarreal,la_liga,7500000,T. Oluwaseyi,21
+1086128,Álex Forés,F,25.0,Spain,0,1.21,3,2,1,68.25,villarreal,la_liga,630000,Á. Forés,19
+879694,Pape Gueye,M,27.0,Senegal,5,3.96,15,40,2,80.54,villarreal,la_liga,39000000,P. Gueye,18
+1089108,Ilias Akhomach,M,22.0,Morocco,0,1.94,14,24,1,84.11,villarreal,la_liga,11100000,I. Akhomach,11
+973290,Tajon Buchanan,M,27.0,Canada,7,2.06,21,28,1,81.33,villarreal,la_liga,13000000,T. Buchanan,17
+1012444,Alberto Moleiro,M,22.0,Spain,10,5.77,33,30,5,79.12,villarreal,la_liga,54000000,A. Moleiro,20
+1201412,Thiago Fernández,M,22.0,Argentina,0,0.54,20,13,4,80.71,villarreal,la_liga,4700000,T. Fernández,15
+843678,Santi Comesaña,M,29.0,Spain,3,4.17,11,45,6,83.21,villarreal,la_liga,8400000,S. Comesaña,14
+1087359,Renato Veiga,D,22.0,Portugal,0,0.28,0,19,0,88.41,villarreal,la_liga,24000000,R. Veiga,12
+873189,Juan Foyth,D,28.0,Argentina,0,0.12,3,20,0,89.73,villarreal,la_liga,8600000,J. Foyth,8
+1468046,Santiago Mouriño,D,24.0,Uruguay,1,1.08,14,102,2,84.06,villarreal,la_liga,19400000,S. Mouriño,15
+1136721,Willy Kambwala,D,21.0,DR Congo,0,0.0,0,0,0,88.37,villarreal,la_liga,3100000,W. Kambwala,5
+1184541,Alexander Freeman,D,21.0,USA,0,0.02,3,13,0,90.6,villarreal,la_liga,3200000,A. Freeman,3
+1396048,Carlos Romero,D,24.0,Spain,6,2.8,49,97,3,79.33,villarreal,la_liga,24000000,C. Romero,37
+986245,Sergi Cardona,D,27.0,Spain,1,1.01,4,47,4,81.6,villarreal,la_liga,8600000,S. Cardona,23
+911853,Logan Costa,D,25.0,Cape Verde,0,0.0,0,1,0,96.15,villarreal,la_liga,14600000,L. Costa,2
+1525863,Pau Navarro,D,21.0,Spain,0,0.07,7,65,0,88.39,villarreal,la_liga,14600000,P. Navarro,6
+908714,Arnau Tenas,G,25.0,Spain,0,0.0,0,1,0,63.03,villarreal,la_liga,4400000,A. Tenas,25
+1066603,Luiz Júnior,G,25.0,Brazil,0,0.0,0,0,0,69.4,villarreal,la_liga,12400000,L. Júnior,1
+804508,Viktor Gyökeres,F,28.0,Sweden,14,12.4,7,7,1,62.38,arsenal,premier_league,61000000,V. Gyökeres,14
+934235,Bukayo Saka,F,24.0,England,7,7.55,50,41,5,76.71,arsenal,premier_league,115000000,B. Saka,7
+836705,Kai Havertz,F,27.0,Germany,2,3.31,3,8,3,74.1,arsenal,premier_league,53000000,K. Havertz,29
+922573,Gabriel Martinelli,F,25.0,Brazil,1,3.99,22,12,4,72.41,arsenal,premier_league,42000000,G. Martinelli,11
+794839,Gabriel Jesus,F,29.0,Brazil,3,2.69,8,4,0,76.85,arsenal,premier_league,17600000,G. Jesus,9
+966547,Noni Madueke,F,24.0,England,3,1.22,29,21,1,76.16,arsenal,premier_league,54000000,N. Madueke,20
+547410,Martin Ødegaard,M,27.0,Norway,1,1.23,9,19,6,84.66,arsenal,premier_league,71000000,M. Ødegaard,8
+856714,Declan Rice,M,27.0,England,4,3.17,14,70,5,87.31,arsenal,premier_league,114000000,D. Rice,41
+864921,Eberechi Eze,M,28.0,England,7,5.05,29,19,2,84.83,arsenal,premier_league,69000000,E. Eze,10
+592010,Mikel Merino,M,30.0,Spain,4,3.38,5,26,3,75.95,arsenal,premier_league,26000000,M. Merino,23
+1917626,Max Dowman,M,16.0,England,1,1.18,6,2,0,88.46,arsenal,premier_league,31000000,M. Dowman,56
+966837,Martín Zubimendi,M,27.0,Spain,5,2.85,7,68,1,87.34,arsenal,premier_league,77000000,M. Zubimendi,36
+1401702,Ethan Nwaneri,M,19.0,England,0,0.23,3,1,0,90.8,arsenal,premier_league,34000000,E. Nwaneri,22
+1401702,Ethan Nwaneri,M,19.0,England,2,0.71,5,3,1,87.79,arsenal,premier_league,34000000,E. Nwaneri,22
+135256,Christian Nørgaard,M,32.0,Denmark,0,0.08,0,3,0,83.61,arsenal,premier_league,4800000,C. Nørgaard,16
+904835,Fábio Vieira,M,26.0,Portugal,7,4.65,32,20,5,83.02,arsenal,premier_league,16600000,F. Vieira,21
+826139,Reiss Nelson,M,26.0,England,0,0.71,5,4,1,91.89,arsenal,premier_league,8800000,R. Nelson,24
+869792,Gabriel Magalhães,D,28.0,Brazil,3,2.93,1,38,4,88.17,arsenal,premier_league,70000000,G. Magalhães,6
+941168,William Saliba,D,25.0,France,1,0.86,7,35,0,92.87,arsenal,premier_league,94000000,W. Saliba,2
+1002837,Piero Hincapié,D,24.0,Ecuador,1,0.36,7,48,2,88.89,arsenal,premier_league,46000000,P. Hincapié,5
+1002837,Piero Hincapié,D,24.0,Ecuador,0,0.38,0,0,0,85.56,arsenal,premier_league,46000000,P. Hincapié,5
+958959,Jurriën Timber,D,25.0,Netherlands,3,4.77,13,66,5,85.25,arsenal,premier_league,73000000,J. Timber,12
+957602,Riccardo Calafiori,D,24.0,Italy,1,3.34,16,32,2,85.58,arsenal,premier_league,53000000,R. Calafiori,33
+1144630,Cristhian Mosquera,D,22.0,Spain,0,0.1,1,32,0,91.31,arsenal,premier_league,38000000,C. Mosquera,3
+1423711,Myles Lewis-Skelly,D,19.0,England,0,0.11,8,8,0,91.62,arsenal,premier_league,48000000,M. Lewis-Skelly,49
+846036,Ben White,D,28.0,England,0,0.46,3,15,1,81.64,arsenal,premier_league,27000000,B. White,4
+581310,David Raya,G,30.0,Spain,0,0.0,1,1,0,64.8,arsenal,premier_league,33000000,D. Raya,1
+232422,Kepa Arrizabalaga,G,31.0,Spain,0,0.0,0,0,0,75.0,arsenal,premier_league,5300000,K. Arrizabalaga,13
+555386,Ollie Watkins,F,30.0,England,16,15.14,26,22,3,72.69,aston_villa,premier_league,26000000,O. Watkins,11
+610766,Tammy Abraham,F,28.0,England,2,2.04,1,4,0,56.82,aston_villa,premier_league,16500000,T. Abraham,18
+808590,Leon Bailey,F,28.0,Jamaica,0,0.49,5,10,1,76.98,aston_villa,premier_league,13100000,L. Bailey,31
+808590,Leon Bailey,F,28.0,Jamaica,0,0.17,2,2,0,83.05,aston_villa,premier_league,13100000,L. Bailey,31
+930245,Evann Guessand,F,25.0,Côte d'Ivoire,1,1.56,14,24,2,82.35,aston_villa,premier_league,24000000,E. Guessand,29
+996919,Samuel Iling Junior,F,22.0,England,0,0.0,0,2,0,56.67,aston_villa,premier_league,6300000,S. I. Junior,19
+948261,Morgan Rogers,M,23.0,England,10,6.78,42,42,6,74.63,aston_villa,premier_league,86000000,M. Rogers,27
+783126,Emiliano Buendía,M,29.0,Argentina,6,3.42,9,49,2,81.46,aston_villa,premier_league,14600000,E. Buendía,10
+923973,Amadou Onana,M,24.0,Belgium,2,1.71,7,48,0,87.4,aston_villa,premier_league,41000000,A. Onana,24
+250223,John McGinn,M,31.0,Scotland,5,2.96,19,29,4,82.36,aston_villa,premier_league,12600000,J. McGinn,7
+826204,Boubacar Kamara,M,26.0,France,1,0.49,14,37,3,88.26,aston_villa,premier_league,39000000,B. Kamara,44
+98435,Ross Barkley,M,32.0,England,3,1.51,13,14,1,87.71,aston_villa,premier_league,3600000,R. Barkley,6
+1631879,Alysson,M,20.0,Brazil,0,0.05,2,0,0,82.35,aston_villa,premier_league,10800000,Alysson,47
+1089388,Lamare Bogarde,M,22.0,Netherlands,0,0.0,2,26,0,89.7,aston_villa,premier_league,17500000,L. Bogarde,26
+833956,Matty Cash,D,28.0,Poland,3,1.19,11,66,3,85.5,aston_villa,premier_league,19800000,M. Cash,2
+143334,Victor Lindelöf,D,31.0,Sweden,0,0.28,0,7,1,94.21,aston_villa,premier_league,4800000,V. Lindelöf,3
+96538,Lucas Digne,D,32.0,France,0,0.72,4,36,6,80.85,aston_villa,premier_league,5500000,L. Digne,12
+976263,Ian Maatsen,D,24.0,Netherlands,0,1.3,21,43,1,86.01,aston_villa,premier_league,28000000,I. Maatsen,22
+827679,Ezri Konsa,D,28.0,England,0,1.25,8,22,0,95.47,aston_villa,premier_league,42000000,E. Konsa,4
+864169,Pau Torres,D,29.0,Spain,0,1.27,7,22,0,89.04,aston_villa,premier_league,21000000,P. Torres,14
+1152923,Kosta Nedeljković,D,20.0,Serbia,0,0.0,0,1,0,87.1,aston_villa,premier_league,6600000,K. Nedeljković,20
+303638,Tyrone Mings,D,33.0,England,0,1.37,2,5,0,89.96,aston_villa,premier_league,3200000,T. Mings,5
+158263,Emiliano Martínez,G,33.0,Argentina,0,0.0,0,0,1,73.74,aston_villa,premier_league,11500000,E. Martínez,23
+100390,Marco Bizot,G,35.0,Netherlands,0,0.0,0,0,0,76.35,aston_villa,premier_league,1400000,M. Bizot,40
+991478,Amine Adli,F,26.0,Morocco,3,2.6,8,36,1,77.24,bournemouth,premier_league,18100000,A. Adli,21
+1426228,Eli Junior Kroupi,F,20.0,France,13,8.35,15,9,0,76.02,bournemouth,premier_league,72000000,E. J. Kroupi,22
+1154587,Álvaro Rodriguez,F,22.0,Uruguay,7,8.85,39,24,5,64.43,bournemouth,premier_league,9100000,Á. Rodriguez,20
+998490,Evanilson,F,26.0,Brazil,6,10.59,16,13,1,76.56,bournemouth,premier_league,33000000,Evanilson,9
+336655,Enes Ünal,F,29.0,Türkiye,1,2.0,1,1,0,67.86,bournemouth,premier_league,6800000,E. Ünal,26
+1464966,Rayan,M,19.0,Brazil,5,2.91,13,11,2,78.3,bournemouth,premier_league,58000000,Rayan,37
+851596,Justin Kluivert,M,27.0,Netherlands,2,2.32,11,10,0,81.16,bournemouth,premier_league,24000000,J. Kluivert,19
+1154861,Ben Gannon-Doak,M,20.0,Scotland,0,0.26,2,6,1,77.08,bournemouth,premier_league,14600000,B. Doak,11
+1476524,Alex Tóth,M,20.0,Hungary,0,0.11,1,1,0,87.69,bournemouth,premier_league,13100000,A. Tóth,27
+1104986,Alex Scott,M,22.0,England,3,3.81,29,60,1,84.85,bournemouth,premier_league,53000000,A. Scott,8
+800419,Tyler Adams,M,27.0,USA,2,0.6,6,53,2,87.13,bournemouth,premier_league,26000000,T. Adams,12
+895576,Marcus Tavernier,M,27.0,England,7,9.06,39,40,4,83.6,bournemouth,premier_league,23000000,M. Tavernier,16
+322391,Ryan Christie,M,31.0,Scotland,2,1.92,19,27,0,78.24,bournemouth,premier_league,8600000,R. Christie,10
+855731,David Brooks,M,29.0,Wales,1,5.83,17,19,3,77.08,bournemouth,premier_league,11000000,D. Brooks,7
+548188,Lewis Cook,M,29.0,England,0,0.08,3,25,1,86.14,bournemouth,premier_league,11600000,L. Cook,4
+2007889,Ben Winterburn,M,21.0,England,0,0.0,0,0,0,0.0,bournemouth,premier_league,320000,B. Winterburn,47
+1201520,Julio Soler,D,21.0,Argentina,0,0.0,0,1,0,86.96,bournemouth,premier_league,8300000,J. Soler,6
+1406130,Veljko Milosavljević,D,19.0,Serbia,0,0.15,1,5,0,84.21,bournemouth,premier_league,18600000,V. Milosavljević,44
+962408,Bafodé Diakité,D,25.0,France,0,0.02,0,20,0,87.98,bournemouth,premier_league,23000000,B. Diakité,18
+999028,Adrien Truffert,D,24.0,France,1,1.36,33,103,5,83.46,bournemouth,premier_league,28000000,A. Truffert,3
+1156586,James Hill,D,24.0,England,0,0.89,2,39,3,77.72,bournemouth,premier_league,24000000,J. Hill,23
+44566,Adam Smith,D,35.0,England,0,0.0,1,15,2,77.96,bournemouth,premier_league,310000,A. Smith,15
+882604,Đorđe Petrović,G,26.0,Serbia,0,0.0,0,0,0,64.37,bournemouth,premier_league,29000000,Đ. Petrović,1
+1016907,Igor Thiago,F,25.0,Brazil,22,20.57,29,38,1,69.21,brentford,premier_league,68000000,I. Thiago,9
+991604,Fabio Carvalho,F,23.0,Portugal,1,0.7,1,3,0,80.0,brentford,premier_league,7800000,F. Carvalho,14
+113956,Callum Wilson,F,34.0,England,7,7.66,13,4,1,64.74,brentford,premier_league,4300000,C. Wilson,9
+1403098,Kaye Furo,F,19.0,Belgium,0,0.0,0,0,0,0.0,brentford,premier_league,7600000,K. I. Furo,47
+1106451,Dango Ouattara,M,24.0,Burkina Faso,7,7.72,23,24,3,63.09,brentford,premier_league,36000000,D. Ouattara,19
+42694,Jordan Henderson,M,36.0,England,1,0.33,3,27,3,77.89,brentford,premier_league,1300000,J. Henderson,6
+907072,Mikkel Damsgaard,M,26.0,Denmark,4,2.62,18,57,4,76.34,brentford,premier_league,29000000,M. Damsgaard,24
+1006387,Kevin Schade,M,24.0,Germany,8,12.18,20,41,3,67.74,brentford,premier_league,36000000,K. Schade,7
+1031258,Yehor Yarmoliuk,M,22.0,Ukraine,1,1.2,15,70,2,84.34,brentford,premier_league,30000000,Y. Yarmoliuk,18
+1126692,Antoni Milambo,M,21.0,Netherlands,0,0.0,0,3,0,72.73,brentford,premier_league,15500000,A. Milambo,17
+1020680,Jaidon Anthony,M,26.0,England,8,5.13,36,42,2,79.93,brentford,premier_league,19400000,J. Anthony,11
+799251,Mathias Jensen,M,30.0,Denmark,3,2.27,19,41,1,80.84,brentford,premier_league,10400000,M. Jensen,8
+814873,Vitaly Janelt,M,28.0,Germany,1,0.91,5,27,4,87.3,brentford,premier_league,16600000,V. Janelt,27
+856260,Josh Dasilva,M,27.0,England,0,0.08,0,0,0,80.0,brentford,premier_league,1500000,J. Dasilva,10
+1137431,Michael Kayode,D,22.0,Italy,1,1.18,55,67,1,85.01,brentford,premier_league,39000000,M. Kayode,33
+576384,Kristoffer Ajer,D,28.0,Norway,0,0.78,3,37,1,80.03,brentford,premier_league,19500000,K. Ajer,20
+924378,Sepp van den Berg,D,24.0,Netherlands,0,3.13,1,23,2,88.54,brentford,premier_league,33000000,S. van den Berg,4
+958916,Nathan Collins,D,25.0,Ireland,1,2.28,7,31,2,83.11,brentford,premier_league,29000000,N. Collins,22
+855864,Ethan Pinnock,D,33.0,Jamaica,0,0.01,1,5,0,82.71,brentford,premier_league,2800000,E. Pinnock,5
+972421,Keane Lewis-Potter,D,25.0,England,3,3.04,16,23,3,77.64,brentford,premier_league,24000000,K. Lewis-Potter,23
+966869,Aaron Hickey,D,24.0,Scotland,0,0.46,0,15,0,83.57,brentford,premier_league,16500000,A. Hickey,2
+599128,Rico Henry,D,29.0,Jamaica,0,0.18,15,15,1,76.92,brentford,premier_league,13800000,R. Henry,3
+827362,Caoimhin Kelleher,G,27.0,Ireland,0,0.0,3,1,0,65.25,brentford,premier_league,25000000,C. Kelleher,1
+1005959,Hákon Rafn Valdimarsson,G,24.0,Iceland,0,0.0,0,0,0,73.17,brentford,premier_league,2600000,H. R. Valdimarsson,12
+999231,Evan Ferguson,F,21.0,Ireland,3,2.62,8,7,2,76.97,brighton,premier_league,21000000,E. Ferguson,28
+1416535,Charalampos Kostoulas,F,19.0,Greece,2,2.14,11,11,1,74.8,brighton,premier_league,27000000,C. Kostoulas,19
+33902,Danny Welbeck,F,35.0,England,13,12.44,11,24,1,79.42,brighton,premier_league,3100000,D. Welbeck,18
+1155321,Stefanos Tzimas,F,20.0,Greece,1,0.46,1,3,1,70.83,brighton,premier_league,18500000,S. Tzimas,9
+1199043,Carlos Baleba,M,22.0,Cameroon,0,0.75,12,37,0,86.1,brighton,premier_league,53000000,C. Baleba,17
+936849,Kaoru Mitoma,M,29.0,Japan,3,4.06,28,18,1,82.4,brighton,premier_league,20000000,K. Mitoma,22
+1117025,Facundo Buonanotte,M,21.0,Argentina,0,0.06,0,1,0,77.78,brighton,premier_league,10900000,F. Buonanotte,40
+1065588,Diego Gómez,M,23.0,Paraguay,5,6.29,19,78,1,77.95,brighton,premier_league,27000000,D. Gómez,25
+1036269,Yasin Ayari,M,22.0,Sweden,3,2.71,18,47,3,86.09,brighton,premier_league,32000000,Y. Ayari,26
+1400106,Yankuba Minteh,M,21.0,Gambia,3,3.8,65,56,4,67.94,brighton,premier_league,42000000,Y. Minteh,11
+48480,Pascal Groß,M,35.0,Germany,1,1.45,7,29,3,85.93,brighton,premier_league,2300000,P. Groß,30
+48480,Pascal Groß,M,35.0,Germany,0,0.59,4,8,1,87.28,brighton,premier_league,2300000,P. Groß,30
+891829,Matt O'Riley,M,25.0,Denmark,1,1.2,0,5,0,87.14,brighton,premier_league,16500000,M. O'Riley,33
+891829,Matt O'Riley,M,25.0,Denmark,1,0.83,2,18,2,88.29,brighton,premier_league,16500000,M. O'Riley,33
+946695,Georginio Rutter,M,24.0,France,3,3.02,28,32,3,69.5,brighton,premier_league,31000000,G. Rutter,10
+1471095,Ibrahim Osman,M,21.0,Ghana,0,1.86,6,11,2,79.88,brighton,premier_league,7400000,I. Osman,17
+1142315,Jack Hinshelwood,M,21.0,England,4,4.92,3,19,3,82.59,brighton,premier_league,27000000,J. Hinshelwood,13
+1167066,Tom Watson,M,20.0,England,0,0.04,0,1,0,73.68,brighton,premier_league,7500000,T. Watson,14
+825844,Ferdi Kadıoğlu,D,26.0,Türkiye,1,2.03,12,57,0,85.59,brighton,premier_league,36000000,F. Kadıoğlu,24
+1405212,Luka Vušković,D,19.0,Croatia,6,4.22,8,22,0,83.05,brighton,premier_league,64000000,L. Vušković,16
+997152,Maxim De Cuyper,D,25.0,Belgium,2,1.82,7,23,3,84.25,brighton,premier_league,21000000,M. De Cuyper,29
+959628,Mats Wieffer,D,26.0,Netherlands,2,1.93,9,66,3,83.2,brighton,premier_league,24000000,M. Wieffer,27
+115365,Lewis Dunk,D,34.0,England,1,1.71,4,35,0,92.34,brighton,premier_league,3600000,L. Dunk,5
+836675,Pascal Struijk,D,26.0,Netherlands,0,3.02,4,39,1,88.47,brighton,premier_league,23000000,P. Struijk,5
+842513,Igor Júlio,D,28.0,Brazil,0,0.0,0,0,0,72.73,brighton,premier_league,9700000,I. Júlio,3
+788784,Olivier Boscagli,D,28.0,France,0,0.04,2,16,1,86.47,brighton,premier_league,13900000,O. Boscagli,21
+994363,Bart Verbruggen,G,23.0,Netherlands,0,0.0,1,1,0,76.05,brighton,premier_league,37000000,B. Verbruggen,1
+1135873,Alejandro Garnacho,F,22.0,Argentina,1,3.45,14,15,4,87.32,chelsea,premier_league,26000000,A. Garnacho,49
+975079,João Pedro,F,24.0,Brazil,15,14.96,40,27,5,75.32,chelsea,premier_league,74000000,J. Pedro,20
+1085381,Nicolas Jackson,F,25.0,Senegal,8,7.26,11,8,1,81.56,chelsea,premier_league,39000000,N. Jackson,15
+1414933,Marc Guiu,F,20.0,Spain,0,1.55,1,0,1,68.75,chelsea,premier_league,11200000,M. Guiu,38
+997087,Liam Delap,F,23.0,England,1,4.47,10,5,0,69.84,chelsea,premier_league,26000000,L. Delap,9
+1048333,Emmanuel Emegha,F,23.0,Netherlands,4,3.9,3,0,2,82.69,chelsea,premier_league,26000000,E. Emegha,10
+1090458,David Datro Fofana,F,23.0,Côte d'Ivoire,0,0.96,2,2,0,84.85,chelsea,premier_league,4099999,D. D. Fofana,99
+982780,Cole Palmer,M,24.0,England,10,10.56,22,25,1,85.73,chelsea,premier_league,92000000,C. Palmer,10
+1597265,Estêvão,M,19.0,Brazil,2,2.92,29,11,2,80.74,chelsea,premier_league,82000000,Estêvão,41
+974505,Enzo Fernández,M,25.0,Argentina,10,11.29,13,53,4,86.03,chelsea,premier_league,87000000,E. Fernández,8
+987650,Moisés Caicedo,M,24.0,Ecuador,3,1.44,15,87,1,91.72,chelsea,premier_league,104000000,M. Caicedo,25
+879349,Pedro Neto,M,26.0,Portugal,5,4.62,47,19,6,87.33,chelsea,premier_league,58000000,P. Neto,7
+1140599,Jamie Gittens,M,21.0,England,0,0.82,13,8,2,79.19,chelsea,premier_league,29000000,J. Gittens,11
+1069488,Roméo Lavia,M,22.0,Belgium,0,0.2,3,8,0,92.61,chelsea,premier_league,21000000,R. Lavia,45
+1110006,Dário Essugo,M,21.0,Portugal,0,0.0,2,6,0,84.0,chelsea,premier_league,13900000,D. Essugo,14
+1397736,Marco Palestra,M,21.0,Italy,1,1.71,70,55,4,85.12,chelsea,premier_league,36000000,M. Palestra,27
+885908,Reece James,D,26.0,England,2,1.04,11,48,4,88.97,chelsea,premier_league,63000000,R. James,24
+1154657,Mamadou Sarr,D,20.0,Senegal,0,0.44,0,1,0,88.46,chelsea,premier_league,24000000,M. Sarr,19
+1154657,Mamadou Sarr,D,20.0,Senegal,0,0.07,5,15,0,95.01,chelsea,premier_league,24000000,M. Sarr,19
+996958,Malo Gusto,D,23.0,France,2,1.56,13,53,3,86.79,chelsea,premier_league,36000000,M. Gusto,27
+996911,Levi Colwill,D,23.0,England,0,0.0,0,3,0,90.1,chelsea,premier_league,55000000,L. Colwill,6
+1153079,Jorrel Hato,D,20.0,Netherlands,0,0.31,7,36,0,91.98,chelsea,premier_league,41000000,J. Hato,21
+826134,Trevoh Chalobah,D,27.0,England,3,1.43,7,35,0,93.04,chelsea,premier_league,43000000,T. Chalobah,23
+923894,Wesley Fofana,D,25.0,France,0,0.72,10,19,1,92.1,chelsea,premier_league,29000000,W. Fofana,29
+1403050,Josh Acheampong,D,20.0,England,1,0.63,11,11,0,92.05,chelsea,premier_league,24000000,J. Acheampong,34
+1500263,Aarón Anselmino,D,21.0,Argentina,1,0.07,1,9,0,87.32,chelsea,premier_league,10600000,A. Anselmino,30
+1500263,Aarón Anselmino,D,21.0,Argentina,0,0.0,0,0,0,100.0,chelsea,premier_league,10600000,A. Anselmino,30
+352668,Tosin Adarabioyo,D,28.0,England,0,0.11,0,17,0,90.49,chelsea,premier_league,16500000,T. Adarabioyo,4
+904827,Benoît Badiashile,D,25.0,France,0,0.0,0,7,0,92.94,chelsea,premier_league,14500000,B. Badiashile,5
+827243,Axel Disasi,D,28.0,France,0,1.02,2,14,0,86.57,chelsea,premier_league,15500000,A. Disasi,2
+920546,Robert Sánchez,G,28.0,Spain,0,0.0,0,2,1,66.74,chelsea,premier_league,19900000,R. Sánchez,1
+962053,Filip Jørgensen,G,24.0,Denmark,0,0.0,1,0,0,76.02,chelsea,premier_league,14600000,F. Jørgensen,12
+1149148,Mike Penders,G,20.0,Belgium,0,0.0,0,0,0,86.07,chelsea,premier_league,24000000,M. Penders,1
+840217,Richarlison,F,29.0,Brazil,11,8.09,12,27,4,62.15,crystal_palace,premier_league,24000000,Richarlison,9
+1048888,Mathys Tel,F,21.0,France,4,2.44,39,19,1,77.44,crystal_palace,premier_league,23000000,M. Tel,11
+361420,Dominic Solanke,F,28.0,England,3,2.43,13,22,0,74.05,crystal_palace,premier_league,31000000,D. Solanke,19
+862223,Manor Solomon,F,26.0,Israel,2,0.85,25,13,1,89.52,crystal_palace,premier_league,7800000,M. Solomon,27
+862223,Manor Solomon,F,26.0,Israel,1,0.42,6,1,1,85.71,crystal_palace,premier_league,7800000,M. Solomon,27
+1142679,Wilson Odobert,F,21.0,France,0,1.9,24,10,2,84.92,crystal_palace,premier_league,18500000,W. Odobert,28
+998772,Dane Scarlett,F,22.0,England,0,0.0,0,0,0,50.0,crystal_palace,premier_league,1400000,D. Scarlett,44
+905163,Mohammed Kudus,M,25.0,Ghana,2,1.93,52,29,5,85.59,crystal_palace,premier_league,54000000,M. Kudus,20
+997183,Xavi Simons,M,23.0,Netherlands,2,3.08,28,34,5,82.92,crystal_palace,premier_league,43000000,X. Simons,7
+997183,Xavi Simons,M,23.0,Netherlands,0,0.0,2,0,0,89.19,crystal_palace,premier_league,43000000,X. Simons,7
+1002711,Pape Matar Sarr,M,23.0,Senegal,2,1.72,13,33,4,84.99,crystal_palace,premier_league,28000000,P. Sarr,29
+892673,Sandro Tonali,M,26.0,Italy,0,1.74,19,35,2,84.39,crystal_palace,premier_league,74000000,S. Tonali,8
+904970,Conor Gallagher,M,26.0,England,1,1.07,13,23,1,84.73,crystal_palace,premier_league,31000000,C. Gallagher,22
+904970,Conor Gallagher,M,26.0,England,2,1.11,3,17,0,90.25,crystal_palace,premier_league,31000000,C. Gallagher,22
+356398,James Maddison,M,29.0,England,0,0.21,0,1,0,94.59,crystal_palace,premier_league,19400000,J. Maddison,10
+1391251,Lucas Bergvall,M,20.0,Sweden,1,1.4,15,22,3,81.64,crystal_palace,premier_league,36000000,L. Bergvall,15
+791190,Rodrigo Bentancur,M,29.0,Uruguay,1,0.74,20,56,1,85.76,crystal_palace,premier_league,19300000,R. Bentancur,30
+1142562,Mateus Fernandes,M,22.0,Portugal,3,2.0,28,103,4,87.45,crystal_palace,premier_league,49000000,M. Fernandes,18
+1142335,Archie Gray,M,20.0,England,2,1.48,7,11,2,83.12,crystal_palace,premier_league,34000000,A. Gray,14
+829932,Cristian Romero,D,28.0,Argentina,4,1.31,8,58,1,87.32,crystal_palace,premier_league,42000000,C. Romero,17
+262911,Andy Robertson,D,32.0,Scotland,1,1.1,3,12,0,83.26,crystal_palace,premier_league,7500000,A. Robertson,26
+998247,Micky van de Ven,D,25.0,Netherlands,4,2.53,11,39,1,90.45,crystal_palace,premier_league,49000000,M. van de Ven,37
+913654,Pedro Porro,D,26.0,Spain,1,1.05,19,76,2,74.97,crystal_palace,premier_league,32000000,P. Porro,23
+830659,Marcos Senesi,D,29.0,Argentina,0,1.52,6,62,5,77.66,crystal_palace,premier_league,23000000,M. Senesi,5
+962012,Jan Paul van Hecke,D,26.0,Netherlands,3,3.3,3,53,3,87.19,crystal_palace,premier_league,49000000,J. P. van Hecke,6
+945798,Djed Spence,D,25.0,England,0,0.9,33,44,0,80.84,crystal_palace,premier_league,31000000,D. Spence,24
+983572,Destiny Udogie,D,23.0,Italy,0,0.19,6,31,1,85.47,crystal_palace,premier_league,28000000,D. Udogie,13
+794953,Kevin Danso,D,27.0,Austria,0,0.59,2,27,0,86.9,crystal_palace,premier_league,19400000,K. Danso,4
+1482340,Souza,D,20.0,Brazil,0,0.02,0,0,0,92.59,crystal_palace,premier_league,12400000,Souza,38
+1144143,Kota Takai,D,21.0,Japan,0,0.16,0,11,0,88.03,crystal_palace,premier_league,4600000,K. Takai,25
+94758,Ben Davies,D,33.0,Wales,1,0.49,0,5,0,86.15,crystal_palace,premier_league,2800000,B. Davies,33
+1031251,Antonín Kinský,G,23.0,Czechia,0,0.0,0,0,0,62.84,crystal_palace,premier_league,15700000,A. Kinský,31
+553606,Guglielmo Vicario,G,29.0,Italy,0,0.0,0,1,0,67.04,crystal_palace,premier_league,17300000,G. Vicario,1
+42209,Martin Dúbravka,G,37.0,Slovakia,0,0.0,0,1,0,58.22,crystal_palace,premier_league,485000,M. Dúbravka,1
+1403061,Tyrique George,F,20.0,England,0,0.63,7,7,0,80.18,everton,premier_league,21000000,T. George,32
+1395746,Thierno Barry,F,23.0,France,8,8.15,9,6,0,60.5,everton,premier_league,31000000,T. Barry,11
+987489,Beto,F,28.0,Guinea-Bissau,9,8.91,14,15,1,62.02,everton,premier_league,19300000,Beto,9
+914309,Iliman Ndiaye,M,26.0,Senegal,6,6.71,73,70,3,83.95,everton,premier_league,53000000,I. Ndiaye,10
+861970,Kiernan Dewsbury-Hall,M,27.0,England,8,4.31,27,52,4,82.46,everton,premier_league,38000000,K. Dewsbury-Hall,22
+1017392,Carlos Alcaraz,M,23.0,Argentina,0,1.24,7,14,1,81.76,everton,premier_league,14600000,C. Alcaraz,24
+927361,James Garner,M,25.0,England,2,2.03,18,120,7,87.23,everton,premier_league,48000000,J. Garner,37
+1174472,Tyler Dibling,M,20.0,England,0,0.2,13,7,0,86.27,everton,premier_league,15700000,T. Dibling,20
+935543,Dwight McNeil,M,26.0,England,0,1.39,7,23,1,81.48,everton,premier_league,18800000,D. McNeil,7
+1064082,Merlin Röhl,M,24.0,Germany,1,0.78,3,25,0,77.51,everton,premier_league,14700000,M. Röhl,34
+1064082,Merlin Röhl,M,24.0,Germany,0,0.0,0,1,0,89.29,everton,premier_league,14700000,M. Röhl,34
+1085950,Tim Iroegbunam,M,23.0,England,0,0.6,15,68,2,81.43,everton,premier_league,18500000,T. Iroegbunam,42
+1627560,Harrison Armstrong,M,19.0,England,0,0.79,1,13,0,80.58,everton,premier_league,12400000,H. Armstrong,45
+876643,Vitaliy Mykolenko,D,27.0,Ukraine,0,0.29,10,51,1,79.8,everton,premier_league,26000000,V. Mykolenko,16
+979563,Jarrad Branthwaite,D,24.0,England,1,0.35,0,13,0,83.76,everton,premier_league,41000000,J. Branthwaite,32
+145188,James Tarkowski,D,33.0,England,2,2.75,4,51,3,80.63,everton,premier_league,5200000,J. Tarkowski,6
+998253,Jake O'Brien,D,25.0,Ireland,1,1.74,6,57,1,73.96,everton,premier_league,16500000,J. O'Brien,15
+110846,Michael Keane,D,33.0,England,3,2.33,6,36,1,85.48,everton,premier_league,2800000,M. Keane,5
+1020141,Nathan Patterson,D,24.0,Scotland,0,0.03,1,10,0,76.19,everton,premier_league,16300000,N. Patterson,2
+138530,Jordan Pickford,G,32.0,England,0,0.0,0,2,0,61.57,everton,premier_league,13900000,J. Pickford,1
+1015256,Rodrigo Muniz,F,25.0,Brazil,1,3.34,5,8,1,42.42,fulham,premier_league,22000000,R. Muniz,9
+1503757,Jonah Kusi-Asare,F,19.0,Sweden,0,0.0,0,1,0,68.75,fulham,premier_league,3300000,J. Kusi-Asare,18
+1503757,Jonah Kusi-Asare,F,19.0,Sweden,0,0.0,0,0,0,0.0,fulham,premier_league,3300000,J. Kusi-Asare,18
+1065216,Oscar Bobb,M,23.0,Norway,0,1.48,27,21,1,85.79,fulham,premier_league,27000000,O. Bobb,14
+352770,Alex Iwobi,M,30.0,Nigeria,4,1.92,19,27,3,85.13,fulham,premier_league,21000000,A. Iwobi,17
+867445,Emile Smith Rowe,M,25.0,England,3,4.77,14,35,0,91.09,fulham,premier_league,18300000,E. Smith Rowe,32
+1112879,Kevin,M,23.0,Brazil,1,1.2,44,21,1,76.4,fulham,premier_league,26000000,Kevin,22
+793167,Sander Berge,M,28.0,Norway,0,1.54,9,57,1,89.82,fulham,premier_league,26000000,S. Berge,16
+371222,Saša Lukić,M,29.0,Serbia,1,2.26,6,49,2,85.62,fulham,premier_league,9400000,S. Lukić,20
+1546231,Joshua King,M,19.0,England,1,2.47,16,27,2,79.89,fulham,premier_league,26000000,J. King,24
+82566,Tom Cairney,M,35.0,Scotland,2,1.21,4,7,0,92.63,fulham,premier_league,530000,T. Cairney,10
+365802,Harrison Reed,M,31.0,England,1,0.13,0,0,0,93.02,fulham,premier_league,2100000,H. Reed,6
+825719,Issa Diop,D,29.0,Morocco,1,0.8,1,6,0,87.65,fulham,premier_league,8199999,I. Diop,31
+861972,Calvin Bassey,D,26.0,Nigeria,1,1.72,10,62,0,87.75,fulham,premier_league,29000000,C. Bassey,3
+803174,Antonee Robinson,D,28.0,USA,1,1.07,12,48,0,80.0,fulham,premier_league,24000000,A. Robinson,33
+329417,Timothy Castagne,D,30.0,Belgium,0,1.42,3,40,0,86.31,fulham,premier_league,7600000,T. Castagne,21
+362682,Joachim Andersen,D,30.0,Denmark,0,1.48,6,45,1,86.07,fulham,premier_league,21000000,J. Andersen,5
+836698,Ryan Sessegnon,D,26.0,England,3,1.61,9,48,1,76.44,fulham,premier_league,21000000,R. Sessegnon,30
+190877,Kenny Tete,D,30.0,Netherlands,1,0.96,8,65,0,84.42,fulham,premier_league,8700000,K. Tete,2
+868715,Jorge Cuenca,D,26.0,Spain,0,0.05,2,16,0,88.34,fulham,premier_league,8600000,J. Cuenca,15
+103335,Bernd Leno,G,34.0,Germany,0,0.0,0,4,0,77.33,fulham,premier_league,5500000,B. Leno,1
+1004505,Loum Tchaouna,F,22.0,France,2,1.25,7,18,1,75.15,ipswich_town,premier_league,13800000,L. Tchaouna,17
+885864,Frank Onyeka,M,28.0,Nigeria,0,0.0,2,2,1,77.78,ipswich_town,premier_league,7700000,F. Onyeka,16
+999276,Aurèle Amenda,D,22.0,Switzerland,0,0.77,2,15,0,87.73,ipswich_town,premier_league,10300000,A. Amenda,5
+981619,Igor Jesus,F,25.0,Brazil,6,6.64,11,24,4,72.71,leicester_city,premier_league,26000000,I. Jesus,19
+50480,Chris Wood,F,34.0,New Zealand,3,4.25,1,1,0,69.38,leicester_city,premier_league,5200000,C. Wood,11
+359664,Taiwo Awoniyi,F,28.0,Nigeria,4,3.58,2,2,1,80.0,leicester_city,premier_league,7600000,T. Awoniyi,9
+954061,Arnaud Kalimuendo,F,24.0,France,0,0.44,0,1,0,82.76,leicester_city,premier_league,24000000,A. Kalimuendo,15
+954061,Arnaud Kalimuendo,F,24.0,France,6,4.04,21,11,1,85.71,leicester_city,premier_league,24000000,A. Kalimuendo,15
+843754,Ibrahim Sangaré,M,28.0,Côte d'Ivoire,2,1.15,11,59,2,86.82,leicester_city,premier_league,21000000,I. Sangaré,6
+1003334,James McAtee,M,23.0,England,0,0.17,3,7,1,84.3,leicester_city,premier_league,16200000,J. McAtee,24
+867442,Callum Hudson Odoi,M,25.0,England,3,2.8,30,14,4,89.19,leicester_city,premier_league,32000000,C. Hudson Odoi,7
+865912,Morgan Gibbs-White,M,26.0,England,15,10.84,30,20,4,81.13,leicester_city,premier_league,67000000,M. Gibbs-White,10
+944327,Dan Ndoye,M,25.0,Switzerland,1,1.06,13,23,1,78.37,leicester_city,premier_league,31000000,D. Ndoye,14
+1090963,Omari Hutchinson,M,22.0,England,1,1.94,41,22,5,83.09,leicester_city,premier_league,28000000,O. Hutchinson,21
+871765,Nicolás Domínguez,M,28.0,Argentina,1,1.47,6,56,1,85.23,leicester_city,premier_league,13800000,N. Domínguez,16
+963298,Dilane Bakwa,M,23.0,France,0,0.55,8,4,2,79.08,leicester_city,premier_league,26000000,D. Bakwa,29
+963298,Dilane Bakwa,M,23.0,France,1,0.15,5,1,2,88.1,leicester_city,premier_league,26000000,D. Bakwa,29
+846252,Ryan Yates,M,28.0,England,0,0.5,1,16,2,78.08,leicester_city,premier_league,7200000,R. Yates,22
+1199282,Murillo,D,24.0,Brazil,1,0.74,9,35,0,83.57,leicester_city,premier_league,49000000,Murillo,5
+836168,Nikola Milenković,D,28.0,Serbia,0,0.84,3,31,0,86.61,leicester_city,premier_league,26000000,N. Milenković,31
+800417,Ola Aina,D,29.0,Nigeria,0,0.4,15,31,0,84.74,leicester_city,premier_league,16399999,O. Aina,34
+927356,Neco Williams,D,25.0,Wales,2,1.97,31,96,3,81.81,leicester_city,premier_league,26000000,N. Williams,3
+1170722,Jair,D,21.0,Brazil,0,0.29,2,9,0,80.09,leicester_city,premier_league,15500000,Jair,23
+1010220,Nicolò Savona,D,23.0,Italy,2,1.34,2,20,0,78.7,leicester_city,premier_league,14600000,N. Savona,37
+985086,Morato,D,25.0,Brazil,1,1.32,5,30,0,85.34,leicester_city,premier_league,13600000,Morato,4
+979144,Luca Netz,D,23.0,Germany,0,0.0,2,12,0,83.0,leicester_city,premier_league,7700000,L. Netz,25
+979144,Luca Netz,D,23.0,Germany,0,0.05,9,16,2,76.84,leicester_city,premier_league,7700000,L. Netz,25
+1390490,Zach Abbott,D,20.0,England,0,0.0,1,4,0,70.97,leicester_city,premier_league,3900000,Z. Abbott,44
+840103,John Victor,G,30.0,Brazil,0,0.0,0,0,0,63.85,leicester_city,premier_league,4900000,J. Victor,13
+78152,Matz Sels,G,34.0,Belgium,0,0.0,0,1,0,57.14,leicester_city,premier_league,3700000,M. Sels,26
+823941,Alexander Isak,F,26.0,Sweden,3,2.65,1,7,1,62.5,liverpool,premier_league,88000000,A. Isak,9
+1048422,Hugo Ekitiké,F,24.0,France,11,9.87,38,11,4,76.75,liverpool,premier_league,77000000,H. Ekitiké,22
+845386,Federico Chiesa,F,28.0,Italy,2,1.5,2,8,1,71.68,liverpool,premier_league,11900000,F. Chiesa,14
+1881902,Rio Ngumoha,F,17.0,England,2,1.31,30,4,1,86.98,liverpool,premier_league,29000000,R. Ngumoha,73
+1145642,Víctor Muñoz,F,23.0,Spain,6,5.86,75,22,2,80.74,liverpool,premier_league,29000000,V. Muñoz,21
+1019322,Florian Wirtz,M,23.0,Germany,5,7.03,39,34,3,84.52,liverpool,premier_league,95000000,F. Wirtz,7
+869856,Dominik Szoboszlai,M,25.0,Hungary,6,4.85,26,56,7,87.75,liverpool,premier_league,91000000,D. Szoboszlai,8
+895324,Alexis Mac Allister,M,27.0,Argentina,2,3.89,11,53,4,86.58,liverpool,premier_league,77000000,A. Mac Allister,10
+862967,Cody Gakpo,M,27.0,Netherlands,7,8.46,34,28,5,78.53,liverpool,premier_league,58000000,C. Gakpo,18
+904897,Ryan Gravenberch,M,24.0,Netherlands,5,1.9,32,59,3,88.87,liverpool,premier_league,87000000,R. Gravenberch,38
+955245,Harvey Elliott,M,23.0,England,0,0.29,0,0,0,84.15,liverpool,premier_league,21000000,H. Elliott,19
+143040,Wataru Endo,M,33.0,Japan,0,0.04,0,7,1,85.11,liverpool,premier_league,3700000,W. Endo,3
+927353,Curtis Jones,M,25.0,England,1,2.77,22,40,2,91.62,liverpool,premier_league,33000000,C. Jones,17
+1445945,Trey Nyoni,M,19.0,England,0,0.37,0,1,0,90.91,liverpool,premier_league,8500000,T. Nyoni,42
+151545,Virgil van Dijk,D,35.0,Netherlands,6,3.77,2,22,0,89.0,liverpool,premier_league,15500000,V. van Dijk,4
+970361,Jeremie Frimpong,D,25.0,Netherlands,0,0.51,18,11,1,84.58,liverpool,premier_league,36000000,J. Frimpong,30
+1097425,Miloš Kerkez,D,22.0,Hungary,2,1.59,12,41,1,85.33,liverpool,premier_league,36000000,M. Kerkez,6
+1008402,Conor Bradley,D,23.0,Northern Ireland,0,0.24,7,19,1,83.94,liverpool,premier_league,27000000,C. Bradley,12
+786259,Kostas Tsimikas,D,30.0,Greece,0,0.41,6,11,0,80.0,liverpool,premier_league,4400000,K. Tsimikas,21
+318927,Joe Gomez,D,29.0,England,0,0.27,3,10,2,79.69,liverpool,premier_league,12600000,J. Gomez,2
+1445625,Jérémy Jacquet,D,21.0,France,0,1.04,4,27,0,90.43,liverpool,premier_league,57000000,J. Jacquet,97
+243609,Alisson,G,33.0,Brazil,0,0.0,0,0,0,79.02,liverpool,premier_league,16500000,Alisson,1
+930997,Giorgi Mamardashvili,G,25.0,Georgia,0,0.0,0,1,0,70.38,liverpool,premier_league,29000000,G. Mamardashvili,25
+284417,Freddie Woodman,G,29.0,England,0,0.0,0,0,0,56.96,liverpool,premier_league,3100000,F. Woodman,28
+839956,Erling Haaland,F,25.0,Norway,27,25.43,17,15,8,65.63,manchester_city,premier_league,218000000,E. Haaland,9
+873554,Omar Marmoush,F,27.0,Egypt,3,2.71,10,13,3,87.04,manchester_city,premier_league,55000000,O. Marmoush,7
+859765,Phil Foden,M,26.0,England,7,6.42,25,34,5,88.18,manchester_city,premier_league,66000000,P. Foden,47
+934354,Antoine Semenyo,M,26.0,Ghana,17,11.09,59,45,4,80.02,manchester_city,premier_league,85000000,A. Semenyo,42
+979128,Rayan Cherki,M,22.0,France,4,4.13,51,26,12,86.45,manchester_city,premier_league,98000000,R. Cherki,10
+827606,Rodri,M,30.0,Spain,1,1.13,7,41,0,90.11,manchester_city,premier_league,45000000,Rodri,16
+934386,Jérémy Doku,M,24.0,Belgium,5,2.75,84,23,5,82.9,manchester_city,premier_league,70000000,J. Doku,11
+189061,Jack Grealish,M,30.0,England,2,2.15,23,21,6,84.12,manchester_city,premier_league,21000000,J. Grealish,10
+1046795,Savinho,M,22.0,Brazil,1,2.33,17,9,1,82.84,manchester_city,premier_league,37000000,Savinho,26
+893549,Tijjani Reijnders,M,27.0,Netherlands,5,4.45,20,10,2,89.1,manchester_city,premier_league,48000000,T. Reijnders,4
+1482424,Claudio Echeverri,M,20.0,Argentina,1,2.16,16,6,1,86.28,manchester_city,premier_league,14300000,C. Echeverri,30
+1482424,Claudio Echeverri,M,20.0,Argentina,0,0.1,1,1,0,93.15,manchester_city,premier_league,14300000,C. Echeverri,30
+136710,Mateo Kovačić,M,32.0,Croatia,0,0.16,2,2,1,91.22,manchester_city,premier_league,9700000,M. Kovačić,8
+994546,Elliot Anderson,M,23.0,England,4,2.9,50,104,4,85.52,manchester_city,premier_league,68000000,E. Anderson,8
+954056,Nico González,M,24.0,Spain,1,0.7,12,42,0,90.35,manchester_city,premier_league,43000000,N. González,14
+1194333,Abdukodir Khusanov,D,22.0,Uzbekistan,0,0.68,7,27,0,91.76,manchester_city,premier_league,47000000,A. Khusanov,45
+964994,Joško Gvardiol,D,24.0,Croatia,2,2.4,2,18,2,89.4,manchester_city,premier_league,64000000,J. Gvardiol,24
+931278,Rayan Aït-Nouri,D,25.0,Algeria,0,0.59,22,35,2,90.34,manchester_city,premier_league,39000000,R. Aït-Nouri,21
+318941,Rúben Dias,D,29.0,Portugal,2,0.56,3,13,0,92.98,manchester_city,premier_league,60000000,R. Dias,3
+1142703,Nico O'Reilly,D,21.0,England,5,6.03,24,68,3,86.19,manchester_city,premier_league,76000000,N. O’Reilly,33
+877994,Marc Guéhi,D,26.0,England,3,4.12,7,46,3,89.65,manchester_city,premier_league,66000000,M. Guéhi,15
+945122,Matheus Nunes,D,27.0,Portugal,1,0.35,28,57,5,89.11,manchester_city,premier_league,48000000,M. Nunes,27
+1136731,Rico Lewis,D,21.0,England,0,0.19,2,5,1,84.56,manchester_city,premier_league,26000000,R. Lewis,82
+1485300,Vitor Reis,D,20.0,Brazil,1,1.58,8,50,1,90.96,manchester_city,premier_league,31000000,V. Reis,22
+1168513,Max Alleyne,D,20.0,England,0,0.26,3,3,0,93.75,manchester_city,premier_league,7800000,M. Alleyne,68
+1606792,Abdulay Juma Bah,D,20.0,Sierra Leone,0,0.95,9,35,0,91.54,manchester_city,premier_league,10400000,A. J. Bah,28
+824509,Gianluigi Donnarumma,G,27.0,Italy,0,0.0,2,0,0,80.32,manchester_city,premier_league,46000000,G. Donnarumma,25
+980643,James Trafford,G,23.0,England,0,0.0,1,2,0,73.73,manchester_city,premier_league,27000000,J. Trafford,1
+814590,Marcus Rashford,F,28.0,England,8,7.51,30,8,7,84.73,manchester_united,premier_league,38000000,M. Rashford,10
+927083,Bryan Mbeumo,F,26.0,Cameroon,11,12.19,18,25,3,79.02,manchester_united,premier_league,73000000,B. Mbeumo,19
+986397,Benjamin Šeško,F,23.0,Slovenia,11,9.2,10,5,1,68.95,manchester_united,premier_league,78000000,B. Šeško,30
+886363,Matheus Cunha,F,27.0,Brazil,10,7.06,44,39,2,80.45,manchester_united,premier_league,79000000,M. Cunha,10
+836694,Mason Mount,F,27.0,England,3,1.5,7,24,0,81.59,manchester_united,premier_league,23000000,M. Mount,7
+917007,Joshua Zirkzee,F,25.0,Netherlands,2,2.95,5,9,1,74.29,manchester_united,premier_league,21000000,J. Zirkzee,11
+288205,Bruno Fernandes,M,31.0,Portugal,9,10.83,15,54,21,82.2,manchester_united,premier_league,32000000,B. Fernandes,8
+971037,Amad Diallo,M,24.0,Côte d'Ivoire,2,5.57,39,38,3,87.94,manchester_united,premier_league,44000000,A. Diallo,16
+1142175,Kobbie Mainoo,M,21.0,England,1,0.48,19,36,2,89.21,manchester_united,premier_league,72000000,K. Mainoo,37
+1105779,Andrey Santos,M,22.0,Brazil,1,2.0,2,37,0,90.09,manchester_united,premier_league,39000000,A. Santos,17
+1397168,Patrick Dorgu,M,21.0,Denmark,4,2.35,11,48,4,76.04,manchester_united,premier_league,33000000,P. Dorgu,13
+846425,Manuel Ugarte,M,25.0,Uruguay,0,0.71,7,46,0,85.06,manchester_united,premier_league,24000000,M. Ugarte,25
+331737,Youri Tielemans,M,29.0,Belgium,0,1.17,9,58,4,84.94,manchester_united,premier_league,33000000,Y. Tielemans,18
+1402726,Jack Fletcher,M,19.0,England,0,0.03,0,5,0,82.22,manchester_united,premier_league,1600000,J. Fletcher,38
+1402850,Tyler Fletcher,M,19.0,Scotland,0,0.0,0,0,0,94.74,manchester_united,premier_league,1600000,T. Fletcher,39
+847030,Noussair Mazraoui,D,28.0,Morocco,0,0.19,8,28,0,87.29,manchester_united,premier_league,17500000,N. Mazraoui,3
+859999,Lisandro Martínez,D,28.0,Argentina,0,0.15,14,19,0,89.88,manchester_united,premier_league,42000000,L. Martínez,6
+803031,Matthijs de Ligt,D,26.0,Netherlands,1,1.46,1,19,0,87.75,manchester_united,premier_league,32000000,M. de Ligt,4
+149380,Harry Maguire,D,33.0,England,1,1.11,1,22,2,86.13,manchester_united,premier_league,8600000,H. Maguire,5
+843200,Diogo Dalot,D,27.0,Portugal,1,2.0,18,53,3,84.98,manchester_united,premier_league,28000000,D. Dalot,2
+1153315,Leny Yoro,D,20.0,France,0,1.39,2,32,0,88.45,manchester_united,premier_league,46000000,L. Yoro,15
+190839,Luke Shaw,D,31.0,England,1,0.71,10,74,1,86.8,manchester_united,premier_league,7500000,L. Shaw,23
+1445799,Ayden Heaven,D,19.0,England,0,0.35,6,22,1,90.49,manchester_united,premier_league,32000000,A. Heaven,26
+1142182,Tyler Fredricson,D,21.0,England,0,0.0,0,0,0,0.0,manchester_united,premier_league,2800000,T. Fredricson,33
+964753,Senne Lammens,G,24.0,Belgium,0,0.0,0,1,0,59.09,manchester_united,premier_league,38000000,S. Lammens,31
+815890,Altay Bayındır,G,28.0,Türkiye,0,0.0,1,0,0,60.45,manchester_united,premier_league,4900000,A. Bayındır,1
+123689,Karl Darlow,G,35.0,Wales,0,0.0,1,1,0,58.16,manchester_united,premier_league,210000,K. Darlow,12
+805123,Yoane Wissa,F,29.0,DR Congo,1,3.12,1,5,1,69.89,newcastle_united,premier_league,23000000,Y. Wissa,9
+980623,Nick Woltemade,F,24.0,Germany,8,6.59,13,24,3,76.3,newcastle_united,premier_league,59000000,N. Woltemade,27
+980623,Nick Woltemade,F,24.0,Germany,0,0.0,1,1,0,55.56,newcastle_united,premier_league,59000000,N. Woltemade,27
+979232,Anthony Elanga,F,24.0,Sweden,0,1.67,13,14,1,80.75,newcastle_united,premier_league,31000000,A. Elanga,20
+1122603,William Osula,F,22.0,Denmark,7,4.29,8,6,0,80.25,newcastle_united,premier_league,26000000,W. Osula,18
+855647,Harvey Barnes,F,28.0,England,7,7.07,13,13,1,80.68,newcastle_united,premier_league,35000000,H. Barnes,11
+372336,Jacob Murphy,F,31.0,England,3,3.15,20,16,2,73.35,newcastle_united,premier_league,11000000,J. Murphy,23
+866469,Bruno Guimarães,M,28.0,Brazil,9,5.6,18,62,5,86.15,newcastle_united,premier_league,72000000,B. Guimarães,39
+560128,Joelinton,M,29.0,Brazil,2,2.39,16,43,1,82.72,newcastle_united,premier_league,27000000,Joelinton,7
+1568123,Bazoumana Touré,M,20.0,Côte d'Ivoire,5,4.16,48,34,9,76.1,newcastle_united,premier_league,39000000,B. Touré,29
+1400650,Lewis Miley,M,20.0,England,1,1.34,12,29,4,89.76,newcastle_united,premier_league,27000000,L. Miley,67
+975937,Jacob Ramsey,M,25.0,England,2,1.19,15,41,3,89.82,newcastle_united,premier_league,36000000,J. Ramsey,41
+888550,Joe Willock,M,26.0,England,0,1.26,7,20,2,84.12,newcastle_united,premier_league,14500000,J. Willock,28
+1014286,Malick Thiaw,D,24.0,Germany,4,4.72,8,44,0,89.62,newcastle_united,premier_league,41000000,M. Thiaw,12
+980634,Tino Livramento,D,23.0,England,0,0.14,14,22,1,88.82,newcastle_united,premier_league,44000000,T. Livramento,21
+99090,Dan Burn,D,34.0,England,1,1.06,2,40,2,79.32,newcastle_united,premier_league,4099999,D. Burn,33
+1136730,Lewis Hall,D,21.0,England,1,1.01,37,54,1,85.25,newcastle_united,premier_league,38000000,L. Hall,3
+910046,Sven Botman,D,26.0,Netherlands,1,1.74,4,22,1,87.14,newcastle_united,premier_league,33000000,S. Botman,4
+101882,Fabian Schär,D,34.0,Switzerland,0,0.98,0,14,0,84.42,newcastle_united,premier_league,3900000,F. Schär,5
+1125214,Alex Murphy,D,22.0,Ireland,0,0.0,0,0,0,100.0,newcastle_united,premier_league,1600000,A. Murphy,37
+162653,Nick Pope,G,34.0,England,0,0.16,0,1,0,60.33,newcastle_united,premier_league,4800000,N. Pope,1
+1586020,Romelle Donovan,F,19.0,England,0,0.1,5,0,0,56.25,nottingham_forest,premier_league,3700000,R. Donovan,45
+1435226,Nils Zätterström,D,21.0,Sweden,0,0.0,1,2,0,85.22,nottingham_forest,premier_league,3400000,N. Zätterström,21
+1146091,Damion Downs,F,22.0,USA,0,0.59,2,6,0,78.57,southampton,premier_league,3900000,D. Downs,19
+1386651,Leo Scienza,M,27.0,Brazil,1,0.13,3,2,0,75.68,southampton,premier_league,11500000,L. Scienza,13
+905347,Yukinari Sugawara,D,26.0,Japan,0,1.85,11,36,6,79.87,southampton,premier_league,5000000,Y. Sugawara,3
+839410,Aaron Ramsdale,G,28.0,England,0,0.0,0,0,0,66.75,southampton,premier_league,12600000,A. Ramsdale,32
+840217,Richarlison,F,29.0,Brazil,11,8.09,12,27,4,62.15,tottenham_hotspur,premier_league,24000000,Richarlison,9
+1048888,Mathys Tel,F,21.0,France,4,2.44,39,19,1,77.44,tottenham_hotspur,premier_league,23000000,M. Tel,11
+361420,Dominic Solanke,F,28.0,England,3,2.43,13,22,0,74.05,tottenham_hotspur,premier_league,31000000,D. Solanke,19
+862223,Manor Solomon,F,26.0,Israel,2,0.85,25,13,1,89.52,tottenham_hotspur,premier_league,7800000,M. Solomon,27
+862223,Manor Solomon,F,26.0,Israel,1,0.42,6,1,1,85.71,tottenham_hotspur,premier_league,7800000,M. Solomon,27
+1142679,Wilson Odobert,F,21.0,France,0,1.9,24,10,2,84.92,tottenham_hotspur,premier_league,18500000,W. Odobert,28
+998772,Dane Scarlett,F,22.0,England,0,0.0,0,0,0,50.0,tottenham_hotspur,premier_league,1400000,D. Scarlett,44
+905163,Mohammed Kudus,M,25.0,Ghana,2,1.93,52,29,5,85.59,tottenham_hotspur,premier_league,54000000,M. Kudus,20
+997183,Xavi Simons,M,23.0,Netherlands,2,3.08,28,34,5,82.92,tottenham_hotspur,premier_league,43000000,X. Simons,7
+997183,Xavi Simons,M,23.0,Netherlands,0,0.0,2,0,0,89.19,tottenham_hotspur,premier_league,43000000,X. Simons,7
+1002711,Pape Matar Sarr,M,23.0,Senegal,2,1.72,13,33,4,84.99,tottenham_hotspur,premier_league,28000000,P. Sarr,29
+892673,Sandro Tonali,M,26.0,Italy,0,1.74,19,35,2,84.39,tottenham_hotspur,premier_league,74000000,S. Tonali,8
+904970,Conor Gallagher,M,26.0,England,1,1.07,13,23,1,84.73,tottenham_hotspur,premier_league,31000000,C. Gallagher,22
+904970,Conor Gallagher,M,26.0,England,2,1.11,3,17,0,90.25,tottenham_hotspur,premier_league,31000000,C. Gallagher,22
+356398,James Maddison,M,29.0,England,0,0.21,0,1,0,94.59,tottenham_hotspur,premier_league,19400000,J. Maddison,10
+1391251,Lucas Bergvall,M,20.0,Sweden,1,1.4,15,22,3,81.64,tottenham_hotspur,premier_league,36000000,L. Bergvall,15
+791190,Rodrigo Bentancur,M,29.0,Uruguay,1,0.74,20,56,1,85.76,tottenham_hotspur,premier_league,19300000,R. Bentancur,30
+1142562,Mateus Fernandes,M,22.0,Portugal,3,2.0,28,103,4,87.45,tottenham_hotspur,premier_league,49000000,M. Fernandes,18
+1142335,Archie Gray,M,20.0,England,2,1.48,7,11,2,83.12,tottenham_hotspur,premier_league,34000000,A. Gray,14
+829932,Cristian Romero,D,28.0,Argentina,4,1.31,8,58,1,87.32,tottenham_hotspur,premier_league,42000000,C. Romero,17
+262911,Andy Robertson,D,32.0,Scotland,1,1.1,3,12,0,83.26,tottenham_hotspur,premier_league,7500000,A. Robertson,26
+998247,Micky van de Ven,D,25.0,Netherlands,4,2.53,11,39,1,90.45,tottenham_hotspur,premier_league,49000000,M. van de Ven,37
+913654,Pedro Porro,D,26.0,Spain,1,1.05,19,76,2,74.97,tottenham_hotspur,premier_league,32000000,P. Porro,23
+830659,Marcos Senesi,D,29.0,Argentina,0,1.52,6,62,5,77.66,tottenham_hotspur,premier_league,23000000,M. Senesi,5
+962012,Jan Paul van Hecke,D,26.0,Netherlands,3,3.3,3,53,3,87.19,tottenham_hotspur,premier_league,49000000,J. P. van Hecke,6
+945798,Djed Spence,D,25.0,England,0,0.9,33,44,0,80.84,tottenham_hotspur,premier_league,31000000,D. Spence,24
+983572,Destiny Udogie,D,23.0,Italy,0,0.19,6,31,1,85.47,tottenham_hotspur,premier_league,28000000,D. Udogie,13
+794953,Kevin Danso,D,27.0,Austria,0,0.59,2,27,0,86.9,tottenham_hotspur,premier_league,19400000,K. Danso,4
+1482340,Souza,D,20.0,Brazil,0,0.02,0,0,0,92.59,tottenham_hotspur,premier_league,12400000,Souza,38
+1144143,Kota Takai,D,21.0,Japan,0,0.16,0,11,0,88.03,tottenham_hotspur,premier_league,4600000,K. Takai,25
+94758,Ben Davies,D,33.0,Wales,1,0.49,0,5,0,86.15,tottenham_hotspur,premier_league,2800000,B. Davies,33
+1031251,Antonín Kinský,G,23.0,Czechia,0,0.0,0,0,0,62.84,tottenham_hotspur,premier_league,15700000,A. Kinský,31
+553606,Guglielmo Vicario,G,29.0,Italy,0,0.0,0,1,0,67.04,tottenham_hotspur,premier_league,17300000,G. Vicario,1
+42209,Martin Dúbravka,G,37.0,Slovakia,0,0.0,0,1,0,58.22,tottenham_hotspur,premier_league,485000,M. Dúbravka,1
+877013,Valentín Castellanos,F,27.0,Argentina,6,5.8,2,11,0,64.4,west_ham_united,premier_league,29000000,T. Castellanos,11
+877013,Valentín Castellanos,F,27.0,Argentina,2,2.02,8,7,3,68.15,west_ham_united,premier_league,29000000,T. Castellanos,11
+132645,Niclas Füllkrug,F,33.0,Germany,0,0.92,0,2,0,61.29,west_ham_united,premier_league,3700000,N. Füllkrug,11
+132645,Niclas Füllkrug,F,33.0,Germany,1,3.9,3,1,0,71.82,west_ham_united,premier_league,3700000,N. Füllkrug,11
+1101174,Pablo Felipe,F,22.0,Brazil,0,1.05,9,26,1,73.63,west_ham_united,premier_league,18500000,P. Felipe,19
+280439,Maxwel Cornet,F,29.0,Côte d'Ivoire,0,1.54,0,6,0,77.5,west_ham_united,premier_league,1800000,M. Cornet,22
+1394099,Callum Marshall,F,21.0,Northern Ireland,0,0.13,1,0,0,50.0,west_ham_united,premier_league,2100000,C. Marshall,50
+917005,Crysencio Summerville,M,24.0,Netherlands,5,5.17,51,45,2,82.79,west_ham_united,premier_league,38000000,C. Summerville,7
+552884,Jarrod Bowen,M,29.0,England,9,7.26,53,50,11,73.77,west_ham_united,premier_league,29000000,J. Bowen,20
+161717,James Ward-Prowse,M,31.0,England,0,0.22,2,16,1,88.76,west_ham_united,premier_league,4500000,J. Ward-Prowse,8
+799041,Tomáš Souček,M,31.0,Czechia,5,5.68,4,43,0,77.73,west_ham_united,premier_league,9700000,T. Souček,28
+1170560,Soungoutou Magassa,M,22.0,France,1,0.44,5,40,0,80.74,west_ham_united,premier_league,18400000,S. Magassa,27
+1523623,Mohamadou Kanté,M,20.0,France,0,0.09,1,6,0,70.97,west_ham_united,premier_league,905000,M. Kanté,55
+1089582,Freddie Potts,M,22.0,England,0,0.21,2,29,1,83.65,west_ham_united,premier_league,10400000,F. Potts,32
+1212165,George Earthy,M,21.0,England,0,0.0,0,0,0,100.0,west_ham_united,premier_league,1900000,G. Earthy,40
+863653,Aaron Wan-Bissaka,D,28.0,DR Congo,0,0.0,16,33,2,76.69,west_ham_united,premier_league,14100000,A. Wan-Bissaka,29
+1471764,El Hadji Malick Diouf,D,21.0,Senegal,0,0.57,23,44,5,74.37,west_ham_united,premier_league,29000000,E. H. M. Diouf,12
+829022,Konstantinos Mavropanos,D,28.0,Greece,3,2.55,2,40,0,82.24,west_ham_united,premier_league,19500000,K. Mavropanos,15
+945217,Jean-Clair Todibo,D,26.0,France,0,0.24,4,38,1,87.34,west_ham_united,premier_league,24000000,J. Todibo,25
+823085,Kyle Walker-Peters,D,29.0,England,1,1.13,16,44,0,85.57,west_ham_united,premier_league,11200000,K. Walker-Peters,2
+894474,Max Kilman,D,29.0,England,0,0.57,4,16,0,87.92,west_ham_united,premier_league,12600000,M. Kilman,3
+1150952,Oliver Scarles,D,20.0,England,0,0.18,2,30,0,80.36,west_ham_united,premier_league,9100000,O. Scarles,30
+1652590,Ezra Mayers,D,19.0,England,0,0.12,1,0,0,83.95,west_ham_united,premier_league,1800000,E. Mayers,63
+96531,Alphonse Aréola,G,33.0,France,0,0.0,0,0,1,46.67,west_ham_united,premier_league,3700000,A. Aréola,23
+856640,Mads Hermansen,G,26.0,Denmark,0,0.0,0,0,1,58.18,west_ham_united,premier_league,15500000,M. Hermansen,1
+192442,Raúl Jiménez,F,35.0,Mexico,9,11.5,10,35,3,63.51,wolverhampton_wanderers,premier_league,3200000,R. Jiménez,7
+786186,Hwang Hee-chan,F,30.0,South Korea,2,2.39,9,10,2,75.4,wolverhampton_wanderers,premier_league,5500000,H. Hee-chan,11
+987734,Tolu Arokodare,F,25.0,Nigeria,3,5.46,18,7,1,60.37,wolverhampton_wanderers,premier_league,18200000,T. Arokodare,14
+1899647,Mateus Mané,F,18.0,Portugal,3,2.01,31,28,1,76.27,wolverhampton_wanderers,premier_league,18500000,M. Mané,36
+870038,Saša Kalajdžić,F,29.0,Austria,0,0.0,0,0,0,80.0,wolverhampton_wanderers,premier_league,3700000,S. Kalajdžić,18
+361352,Adam Armstrong,F,29.0,England,2,2.74,10,8,2,68.42,wolverhampton_wanderers,premier_league,6500000,A. Armstrong,9
+845273,Jean-Ricner Bellegarde,M,28.0,Haiti,1,0.99,18,28,1,79.44,wolverhampton_wanderers,premier_league,17600000,J. Bellegarde,27
+1015267,João Gomes,M,25.0,Brazil,1,1.28,43,107,1,85.57,wolverhampton_wanderers,premier_league,36000000,J. Gomes,8
+1035996,André,M,25.0,Brazil,1,0.52,19,82,0,91.38,wolverhampton_wanderers,premier_league,26000000,André,7
+1096210,Jackson Tchatchoua,M,24.0,Cameroon,0,0.33,5,29,1,76.2,wolverhampton_wanderers,premier_league,13200000,J. Tchatchoua,38
+894733,Marshall Munetsi,M,30.0,Zimbabwe,1,1.61,5,21,1,63.31,wolverhampton_wanderers,premier_league,15500000,M. Munetsi,5
+894733,Marshall Munetsi,M,30.0,Zimbabwe,4,3.66,5,13,1,71.43,wolverhampton_wanderers,premier_league,15500000,M. Munetsi,5
+1006073,Rodrigo Gomes,M,23.0,Portugal,3,2.15,8,23,0,72.24,wolverhampton_wanderers,premier_league,14600000,R. Gomes,21
+1526628,Fer López,M,22.0,Spain,0,0.16,3,1,1,72.82,wolverhampton_wanderers,premier_league,17500000,F. López,28
+1526628,Fer López,M,22.0,Spain,1,1.57,22,20,1,86.15,wolverhampton_wanderers,premier_league,17500000,F. López,28
+1013928,Hugo Bueno,M,23.0,Spain,1,0.86,31,67,2,80.54,wolverhampton_wanderers,premier_league,13000000,H. Bueno,3
+982613,Boubacar Traoré,M,24.0,Mali,1,0.99,18,47,0,86.66,wolverhampton_wanderers,premier_league,3900000,B. Traoré,6
+1005725,Tawanda Chirewa,M,22.0,Zimbabwe,0,0.0,0,3,0,100.0,wolverhampton_wanderers,premier_league,440000,T. Chirewa,23
+69256,Kieran Trippier,D,35.0,England,0,0.08,4,26,1,81.15,wolverhampton_wanderers,premier_league,1400000,K. Trippier,2
+856250,Ladislav Krejčí,D,27.0,Czechia,2,2.22,2,32,1,82.54,wolverhampton_wanderers,premier_league,21000000,L. Krejčí,37
+856250,Ladislav Krejčí,D,27.0,Czechia,0,0.12,0,2,0,88.46,wolverhampton_wanderers,premier_league,21000000,L. Krejčí,37
+1597270,Pedro Lima,D,20.0,Brazil,0,0.34,1,8,0,63.64,wolverhampton_wanderers,premier_league,3900000,P. Lima,17
+1014835,Yerson Mosquera,D,25.0,Colombia,0,2.52,9,62,0,80.53,wolverhampton_wanderers,premier_league,13000000,Y. Mosquera,15
+1031283,David Møller Wolfe,D,24.0,Norway,0,0.12,5,10,2,74.23,wolverhampton_wanderers,premier_league,7300000,D. M. Wolfe,6
+846308,Santiago Bueno,D,27.0,Uruguay,3,2.28,0,50,1,86.45,wolverhampton_wanderers,premier_league,9200000,S. Bueno,4
+973418,Toti Gomes,D,27.0,Portugal,0,0.53,10,23,0,85.91,wolverhampton_wanderers,premier_league,18700000,T. Gomes,24
+954044,Ki-Jana Hoever,D,24.0,Netherlands,0,0.02,5,13,0,68.83,wolverhampton_wanderers,premier_league,3300000,K. Hoever,26
+252669,José Sá,G,33.0,Portugal,0,0.0,0,1,0,59.94,wolverhampton_wanderers,premier_league,3300000,J. Sá,1
+98427,Sam Johnstone,G,33.0,England,0,0.0,0,2,0,55.94,wolverhampton_wanderers,premier_league,2100000,S. Johnstone,31
+101367,Daniel Bentley,G,33.0,England,0,0.0,0,0,0,50.0,wolverhampton_wanderers,premier_league,730000,D. Bentley,25
+851284,Rafael Leão,F,27.0,Portugal,9,9.88,26,6,3,83.68,ac_milan,serie_a,48000000,R. Leão,10
+769333,Christopher Nkunku,F,28.0,France,7,9.48,9,5,3,88.3,ac_milan,serie_a,26000000,C. Nkunku,18
+817957,Christian Pulišić,F,27.0,USA,8,8.07,32,15,4,85.95,ac_milan,serie_a,43000000,C. Pulišić,11
+892141,Santiago Giménez,F,25.0,Mexico,0,3.38,3,8,1,80.6,ac_milan,serie_a,18600000,S. Giménez,7
+934510,Gonçalo Ramos,F,25.0,Portugal,6,9.0,17,13,1,83.24,ac_milan,serie_a,28000000,G. Ramos,9
+822470,Samuel Chukwueze,F,27.0,Nigeria,3,2.07,18,6,4,73.85,ac_milan,serie_a,18500000,S. Chukwueze,21
+822470,Samuel Chukwueze,F,27.0,Nigeria,0,0.0,1,0,0,84.62,ac_milan,serie_a,18500000,S. Chukwueze,21
+1520771,Francesco Camarda,F,18.0,Italy,1,1.86,3,3,0,71.03,ac_milan,serie_a,15500000,F. Camarda,22
+805465,Pervis Estupiñán,M,28.0,Ecuador,1,0.39,2,15,1,86.72,ac_milan,serie_a,11100000,P. Estupiñán,2
+250737,Adrien Rabiot,M,31.0,France,6,4.28,20,57,4,85.58,ac_milan,serie_a,17300000,A. Rabiot,12
+250737,Adrien Rabiot,M,31.0,France,0,0.04,0,0,0,95.12,ac_milan,serie_a,17300000,A. Rabiot,12
+901891,Alexis Saelemaekers,M,27.0,Belgium,3,3.31,50,73,3,83.86,ac_milan,serie_a,21000000,A. Saelemaekers,56
+284441,Ruben Loftus-Cheek,M,30.0,England,3,3.16,12,14,1,84.48,ac_milan,serie_a,9000000,R. Loftus-Cheek,8
+945062,Youssouf Fofana,M,27.0,France,2,3.68,13,41,3,82.69,ac_milan,serie_a,25000000,Y. Fofana,19
+1390489,Davide Bartesaghi,M,20.0,Italy,2,1.11,12,49,0,85.79,ac_milan,serie_a,20000000,D. Bartesaghi,33
+1034082,Ardon Jashari,M,23.0,Switzerland,0,0.22,6,14,1,91.03,ac_milan,serie_a,24000000,A. Jashari,30
+930189,Samuele Ricci,M,24.0,Italy,1,1.53,5,16,4,90.11,ac_milan,serie_a,20000000,S. Ricci,4
+983815,Yunus Musah,M,23.0,USA,1,0.62,14,10,0,88.01,ac_milan,serie_a,14500000,Y. Musah,80
+1000366,Warren Bondo,M,22.0,France,0,0.25,15,31,0,89.82,ac_milan,serie_a,5700000,W. Bondo,38
+965893,Strahinja Pavlović,D,25.0,Serbia,5,3.53,17,54,1,90.8,ac_milan,serie_a,38000000,S. Pavlović,31
+788255,Fikayo Tomori,D,28.0,England,0,0.59,3,65,2,90.2,ac_milan,serie_a,15700000,F. Tomori,23
+1001828,Koni De Winter,D,24.0,Belgium,1,0.69,3,29,1,91.37,ac_milan,serie_a,22000000,K. De Winter,5
+826195,Matteo Gabbia,D,26.0,Italy,0,1.39,0,21,0,91.93,ac_milan,serie_a,17500000,M. Gabbia,46
+965828,Mario Gila,D,25.0,Spain,0,1.43,6,46,0,90.66,ac_milan,serie_a,31000000,M. Gila,34
+1409700,Zachary Athekame,D,21.0,Switzerland,2,0.4,5,15,2,80.45,ac_milan,serie_a,15500000,Z. Athekame,24
+1034303,Filippo Terracciano,D,23.0,Italy,2,1.88,5,33,0,86.19,ac_milan,serie_a,4600000,F. Terracciano,24
+1424191,David Odogu,D,20.0,Germany,0,0.0,0,0,0,50.0,ac_milan,serie_a,4600000,D. Odogu,27
+191210,Mike Maignan,G,31.0,France,0,0.0,3,0,0,77.63,ac_milan,serie_a,22000000,M. Maignan,16
+136856,Pietro Terracciano,G,36.0,Italy,0,0.0,0,0,0,93.55,ac_milan,serie_a,960000,P. Terracciano,1
+1116577,Santiago Castro,F,21.0,Argentina,7,7.23,16,10,2,76.8,atalanta,serie_a,29000000,S. Castro,9
+294597,Federico Bernardeschi,F,32.0,Italy,4,3.02,24,7,2,87.22,atalanta,serie_a,3600000,F. Bernardeschi,10
+1065261,Jonathan Rowe,F,23.0,England,3,3.99,49,21,2,80.93,atalanta,serie_a,29000000,J. Rowe,11
+1065261,Jonathan Rowe,F,23.0,England,0,0.24,0,0,0,79.17,atalanta,serie_a,29000000,J. Rowe,11
+905381,Thijs Dallinga,F,25.0,Netherlands,2,2.94,2,7,2,71.24,atalanta,serie_a,9800000,T. Dallinga,24
+971005,Nicolò Cambiaghi,F,25.0,Italy,3,2.13,15,30,4,83.38,atalanta,serie_a,12600000,N. Cambiaghi,28
+1127191,Oussama El Azzouzi,M,25.0,Morocco,1,0.52,6,19,0,90.67,atalanta,serie_a,1900000,O. E. Azzouzi,17
+793645,Riccardo Orsolini,M,29.0,Italy,10,9.68,32,21,1,70.41,atalanta,serie_a,15800000,R. Orsolini,7
+907152,Lewis Ferguson,M,26.0,Scotland,1,0.67,3,26,0,87.7,atalanta,serie_a,13000000,L. Ferguson,19
+1162611,Benjamín Domínguez,M,22.0,Argentina,0,0.67,9,9,3,80.17,atalanta,serie_a,9400000,B. Domínguez,30
+814882,Nikola Moro,M,28.0,Croatia,2,0.93,13,32,0,84.98,atalanta,serie_a,7200000,N. Moro,6
+826064,Jens Odgaard,M,27.0,Denmark,5,2.46,7,21,1,73.01,atalanta,serie_a,11400000,J. Odgaard,21
+928796,Tommaso Pobega,M,27.0,Italy,3,1.69,7,37,1,77.25,atalanta,serie_a,8199999,T. Pobega,4
+818481,Jhon Lucumí,D,28.0,Colombia,1,0.96,5,41,0,89.57,atalanta,serie_a,23000000,J. Lucumí,26
+855829,Juan Miranda,D,26.0,Spain,1,0.61,8,49,3,83.24,atalanta,serie_a,15700000,J. Miranda,33
+965264,Emil Holm,D,26.0,Sweden,1,1.28,7,30,4,78.34,atalanta,serie_a,9000000,E. Holm,2
+933264,Torbjørn Heggem,D,27.0,Norway,0,1.14,8,32,0,91.72,atalanta,serie_a,12200000,T. Heggem,14
+1085913,Martin Vitík,D,23.0,Czechia,0,0.36,2,36,0,87.96,atalanta,serie_a,13400000,M. Vitík,41
+928104,Nadir Zortea,D,27.0,Italy,0,0.43,20,26,2,79.92,atalanta,serie_a,6600000,N. Zortea,20
+1486808,Eivind Helland,D,21.0,Norway,0,0.07,0,7,0,87.76,atalanta,serie_a,7400000,E. Helland,5
+862697,Nicolò Casale,D,28.0,Italy,0,0.74,0,7,0,86.27,atalanta,serie_a,4099999,N. Casale,16
+14718,Lorenzo De Silvestri,D,38.0,Italy,0,0.0,1,2,0,85.79,atalanta,serie_a,540000,L. De Silvestri,-
+44906,Łukasz Skorupski,G,35.0,Poland,0,0.0,0,0,0,73.37,atalanta,serie_a,1900000,Ł. Skorupski,1
+850952,Federico Ravaglia,G,26.0,Italy,0,0.0,1,3,0,74.44,atalanta,serie_a,1600000,F. Ravaglia,13
+1530540,Massimo Pessina,G,18.0,Italy,0,0.0,0,0,0,66.18,atalanta,serie_a,3800000,M. Pessina,25
+798002,Toma Bašić,M,29.0,Croatia,2,1.41,1,21,3,87.43,bologna,serie_a,3100000,T. Bašić,26
+886628,Þórir Jóhann Helgason,M,25.0,Iceland,0,0.21,6,2,0,71.74,bologna,serie_a,1700000,T. Helgason,-
+976025,Armel Bella-Kotchap,D,24.0,Germany,0,0.11,1,20,0,84.28,bologna,serie_a,6700000,A. Bella-Kotchap,37
+851282,Thierry Correia,D,27.0,Portugal,0,0.35,8,31,2,81.64,bologna,serie_a,2600000,T. Correia,12
+965008,Sebastiano Esposito,F,24.0,Italy,7,4.98,17,56,5,75.52,cagliari,serie_a,13700000,S. Esposito,70
+2049928,Paul Mendy,F,19.0,Senegal,2,1.88,2,0,0,70.27,cagliari,serie_a,6700000,P. Mendy,31
+1012179,Jacopo Fazzini,F,23.0,Italy,0,1.06,9,18,0,74.47,cagliari,serie_a,8199999,J. Fazzini,22
+979479,Gennaro Borrelli,F,26.0,Italy,5,3.18,6,15,1,70.04,cagliari,serie_a,2900000,G. Borrelli,29
+975811,Mattia Felici,F,25.0,Italy,2,0.62,7,11,1,67.62,cagliari,serie_a,2600000,M. Felici,17
+1615784,Yael Trepy,F,20.0,France,1,0.61,2,2,0,60.0,cagliari,serie_a,1900000,Y. Trepy,37
+1111640,Matteo Prati,M,22.0,Italy,1,1.57,7,39,1,79.76,cagliari,serie_a,5000000,M. Prati,16
+928777,Michel Adopo,M,25.0,France,1,2.51,14,57,2,82.29,cagliari,serie_a,6800000,M. N. Adopo,8
+1910527,Joseph Liteta,M,20.0,Zambia,0,0.0,2,5,0,84.73,cagliari,serie_a,3800000,J. Liteta,27
+1417034,Alessandro Romano,M,20.0,Switzerland,0,0.0,1,0,0,85.71,cagliari,serie_a,1900000,A. Romano,60
+328109,Alessandro Deiola,M,30.0,Italy,0,1.53,3,35,2,81.34,cagliari,serie_a,1400000,A. Deiola,14
+1464187,Agustín Albarracín,M,20.0,Uruguay,0,0.0,0,0,0,87.5,cagliari,serie_a,2400000,A. Albarracín,20
+1013041,Nicolò Cavuoti,M,23.0,Italy,0,0.0,1,0,0,85.71,cagliari,serie_a,360000,N. Cavuoti,21
+360396,Yerry Mina,D,31.0,Colombia,2,1.58,2,32,0,91.51,cagliari,serie_a,2300000,Y. Mina,26
+1485391,Juan Rodríguez,D,21.0,Uruguay,1,0.75,1,37,0,88.67,cagliari,serie_a,9400000,J. Rodríguez,15
+964153,Adam Obert,D,23.0,Slovakia,0,1.43,16,68,3,81.72,cagliari,serie_a,6400000,A. Obert,33
+945448,Zé Pedro,D,29.0,Portugal,0,0.79,5,31,1,86.99,cagliari,serie_a,3200000,Z. Pedro,32
+927304,Gabriele Zappa,D,26.0,Italy,0,0.9,5,28,3,84.37,cagliari,serie_a,2900000,G. Zappa,28
+1123175,Riyad Idrissi,D,21.0,Italy,2,0.53,8,21,0,79.79,cagliari,serie_a,4099999,R. Idrissi,3
+1469998,Othniël Raterink,D,20.0,Netherlands,0,0.0,0,0,0,83.33,cagliari,serie_a,1000000,O. Raterink,18
+947954,Elia Caprile,G,24.0,Italy,0,0.0,0,0,0,63.79,cagliari,serie_a,14100000,E. Caprile,1
+835601,Moise Kean,F,26.0,Italy,8,15.06,25,6,1,72.3,fiorentina,serie_a,33000000,M. Kean,20
+804909,Albert Guðmundsson,F,29.0,Iceland,5,5.58,20,8,4,86.77,fiorentina,serie_a,10900000,A. Guðmundsson,10
+788061,M'bala Nzola,F,29.0,Angola,4,7.32,19,8,1,78.79,fiorentina,serie_a,3900000,M. Nzola,18
+958982,Roberto Piccoli,F,25.0,Italy,4,6.48,9,8,1,65.79,fiorentina,serie_a,13300000,R. Piccoli,91
+893640,Riccardo Sottil,F,27.0,Italy,1,0.67,13,4,2,82.4,fiorentina,serie_a,3100000,R. Sottil,7
+1526932,Riccardo Braschi,F,19.0,Italy,0,0.14,2,2,0,61.11,fiorentina,serie_a,2100000,R. Braschi,61
+1121333,Amir Richardson,M,24.0,Morocco,0,0.02,1,1,0,68.97,fiorentina,serie_a,3900000,A. Richardson,24
+901850,Nicolò Fagioli,M,25.0,Italy,2,2.53,19,46,3,89.95,fiorentina,serie_a,14700000,N. Fagioli,44
+822518,Dodô,M,27.0,Brazil,1,2.18,46,29,2,83.57,fiorentina,serie_a,17400000,Dodô,2
+1114422,Cher Ndour,M,21.0,Italy,3,2.61,7,35,0,82.8,fiorentina,serie_a,18900000,C. Ndour,27
+1444690,Arthur Atta,M,23.0,France,5,4.03,63,27,3,83.16,fiorentina,serie_a,27000000,A. Atta,14
+548178,Rolando Mandragora,M,29.0,Italy,7,4.7,6,45,3,84.44,fiorentina,serie_a,8600000,R. Mandragora,8
+1067204,Giovanni Fabbian,M,23.0,Italy,2,2.44,6,12,0,79.73,fiorentina,serie_a,9300000,G. Fabbian,80
+928800,Marco Brescianini,M,26.0,Italy,2,1.81,8,13,1,83.16,fiorentina,serie_a,8300000,M. Brescianini,4
+909991,Simon Sohm,M,25.0,Switzerland,0,0.79,11,20,1,85.46,fiorentina,serie_a,7800000,S. Sohm,7
+997103,Radu Drăguşin,D,24.0,Romania,0,0.32,1,5,0,77.82,fiorentina,serie_a,14800000,R. Drăguşin,3
+1184308,Álex Jiménez,D,21.0,Spain,1,1.13,39,69,0,80.18,fiorentina,serie_a,19900000,A. Jiménez,20
+1184308,Álex Jiménez,D,21.0,Spain,0,0.0,4,0,0,95.0,fiorentina,serie_a,19900000,A. Jiménez,20
+377118,Robin Gosens,D,32.0,Germany,3,2.86,0,31,1,79.51,fiorentina,serie_a,4099999,R. Gosens,21
+847467,Marin Pongračić,D,28.0,Croatia,0,0.7,16,31,0,91.64,fiorentina,serie_a,5900000,M. Pongračić,5
+1210848,Pietro Comuzzo,D,21.0,Italy,1,1.03,1,32,0,90.32,fiorentina,serie_a,18500000,P. Comuzzo,15
+1496360,Matias Moreno,D,22.0,Argentina,0,0.96,4,33,0,85.83,fiorentina,serie_a,5800000,M. Moreno,22
+1116570,Nicolás Valentini,D,25.0,Argentina,0,0.92,5,31,0,71.73,fiorentina,serie_a,3100000,N. Valentini,14
+893998,Luca Ranieri,D,27.0,Italy,1,1.89,6,34,0,85.83,fiorentina,serie_a,6200000,L. Ranieri,6
+972886,Fabiano Parisi,D,25.0,Italy,1,1.28,31,21,1,84.98,fiorentina,serie_a,5500000,F. Parisi,65
+1499054,Luís Balbo,D,20.0,Venezuela,0,0.0,0,6,0,66.67,fiorentina,serie_a,3100000,L. Balbo,62
+1526934,Niccolò Fortini,D,20.0,Italy,0,0.25,8,22,0,87.62,fiorentina,serie_a,10900000,N. Fortini,29
+69378,David De Gea,G,35.0,Spain,0,0.0,0,0,0,66.26,fiorentina,serie_a,3300000,D. De Gea,43
+860306,Oliver Christensen,G,27.0,Denmark,0,0.0,0,0,0,73.17,fiorentina,serie_a,1400000,O. Christensen,53
+139272,Luca Lezzerini,G,31.0,Italy,0,0.0,0,0,0,60.0,fiorentina,serie_a,365000,L. Lezzerini,1
+930191,Lorenzo Colombo,F,24.0,Italy,7,8.33,19,20,1,70.44,genoa,serie_a,10900000,L. Colombo,29
+1093695,Vitinha,F,26.0,Portugal,5,6.21,36,39,1,66.92,genoa,serie_a,8400000,Vitinha,9
+1093695,Vitinha,F,26.0,Portugal,1,1.06,13,24,7,93.77,genoa,serie_a,8400000,Vitinha,9
+888219,Junior Messias,F,35.0,Brazil,3,1.86,20,20,1,76.15,genoa,serie_a,1100000,J. Messias,10
+1618563,Lorenzo Venturino,F,20.0,Italy,0,0.17,4,0,0,80.41,genoa,serie_a,4600000,L. Venturino,76
+1605324,Joi Xheto Nuredini,F,18.0,Albania,0,0.0,0,0,0,0.0,genoa,serie_a,1100000,J. Nuredini,86
+1012172,Tommaso Baldanzi,M,23.0,Italy,1,2.01,5,16,2,87.9,genoa,serie_a,8000000,T. Baldanzi,35
+918440,Morten Frendrup,M,25.0,Denmark,1,0.4,8,99,0,87.84,genoa,serie_a,14400000,M. Frendrup,32
+797286,Aarón Martín,M,29.0,Spain,1,1.32,13,43,5,78.83,genoa,serie_a,4900000,A. Martín,3
+1511706,Alexsandro Amorim,M,21.0,Brazil,0,0.16,7,16,0,85.46,genoa,serie_a,8800000,Amorim,4
+933203,Mikael Ellertsson,M,24.0,Iceland,1,2.27,11,44,1,75.55,genoa,serie_a,5600000,M. Ellertsson,77
+970998,Patrizio Masini,M,25.0,Italy,0,1.87,2,68,1,74.34,genoa,serie_a,4400000,P. Masini,73
+184421,Stefano Sabelli,M,33.0,Italy,0,0.52,1,22,0,69.28,genoa,serie_a,1300000,S. Sabelli,20
+1643838,Jacopo Grossi,M,19.0,Italy,0,0.06,0,0,0,92.86,genoa,serie_a,520000,J. Grossi,80
+889785,Johan Vásquez,D,27.0,Mexico,1,1.29,8,59,0,85.56,genoa,serie_a,11300000,J. Vásquez,22
+879746,Leo Østigård,D,26.0,Norway,5,3.39,1,36,1,88.95,genoa,serie_a,14300000,L. Østigård,5
+1177401,Alan Matturro,D,21.0,Uruguay,1,0.62,0,21,1,82.49,genoa,serie_a,4099999,A. Matturro,33
+1087514,Brooke Norton-Cuffy,D,22.0,England,2,1.6,32,43,1,81.11,genoa,serie_a,15500000,B. Norton-Cuffy,15
+1404639,Sebastian Otoa,D,22.0,Denmark,0,0.09,3,11,0,90.61,genoa,serie_a,2700000,S. Otoa,34
+1068885,Alessandro Marcandalli,D,23.0,Italy,0,0.34,4,33,2,82.95,genoa,serie_a,14800000,A. Marcandalli,27
+1526308,Mamedi Doucoure,D,19.0,France,0,0.0,0,0,0,100.0,genoa,serie_a,390000,M. Doucouré,74
+556696,Justin Bijlow,G,28.0,Netherlands,0,0.0,0,0,0,75.08,genoa,serie_a,4099999,J. Bijlow,16
+964154,Tomáš Suslov,F,24.0,Slovakia,0,0.56,4,8,0,83.33,hellas_verona,serie_a,3900000,T. Suslov,10
+1018179,Daniel Mosquera,F,26.0,Colombia,0,0.71,7,5,2,73.68,hellas_verona,serie_a,1700000,D. Mosquera,25
+1022204,Amin Sarr,F,25.0,Sweden,0,1.27,10,15,1,75.26,hellas_verona,serie_a,2600000,A. Sarr,9
+983601,Kieron Bowie,F,23.0,Scotland,4,4.25,5,9,0,70.0,hellas_verona,serie_a,7500000,K. Bowie,18
+1471239,Isaac,F,22.0,Brazil,0,0.0,1,0,0,90.91,hellas_verona,serie_a,765000,Isaac,41
+1152477,Ioan Vermesan,F,19.0,Romania,0,0.29,0,0,0,75.0,hellas_verona,serie_a,970000,I. Vermesan,90
+1103488,Rafik Belghali,M,24.0,Algeria,2,2.17,39,21,0,76.83,hellas_verona,serie_a,7200000,R. Belghali,7
+897594,Domagoj Bradarić,M,26.0,Croatia,0,0.62,7,30,1,75.89,hellas_verona,serie_a,1600000,D. Bradarić,12
+972523,Cheikh Niasse,M,26.0,Senegal,0,0.17,4,21,1,81.16,hellas_verona,serie_a,1800000,C. Niasse,36
+915812,Abdou Harroui,M,28.0,Morocco,1,1.2,11,27,0,81.72,hellas_verona,serie_a,1600000,A. Harroui,21
+800408,Suat Serdar,M,29.0,Germany,2,2.15,9,31,0,71.9,hellas_verona,serie_a,2600000,S. Serdar,8
+791566,Grigoris Kastanos,M,28.0,Cyprus,0,0.02,1,5,0,69.23,hellas_verona,serie_a,1400000,G. Kastanos,28
+837080,Antoine Bernede,M,27.0,France,1,1.36,17,70,2,77.42,hellas_verona,serie_a,3400000,A. Bernede,24
+1211005,Yellu Santiago,M,22.0,Spain,0,0.02,1,2,0,57.14,hellas_verona,serie_a,630000,J. Santiago,20
+998830,Daniel Oyegoke,M,23.0,England,0,0.07,7,16,0,75.14,hellas_verona,serie_a,925000,D. Oyegoke,2
+1133236,Tobias Slotsager,D,20.0,Denmark,0,0.14,0,14,0,77.53,hellas_verona,serie_a,3100000,T. Slotsager,19
+906963,Andrias Edmundsson,D,25.0,Faroe Islands,0,0.19,1,26,0,75.38,hellas_verona,serie_a,3100000,A. Edmundsson,5
+874812,Martin Frese,D,28.0,Denmark,2,1.73,0,84,0,75.07,hellas_verona,serie_a,2700000,M. Frese,3
+1945133,Fallou Cham,D,20.0,Gambia,0,0.35,1,14,0,60.38,hellas_verona,serie_a,920000,F. Cham,70
+98059,Nicola Leali,G,33.0,Italy,0,0.0,0,1,0,64.35,hellas_verona,serie_a,920000,N. Leali,-
+253391,Lorenzo Montipò,G,30.0,Italy,0,0.0,1,1,1,46.34,hellas_verona,serie_a,1200000,L. Montipò,1
+253369,Simone Perilli,G,31.0,Italy,0,0.0,0,0,0,47.44,hellas_verona,serie_a,375000,S. Perilli,-
+823984,Lautaro Martínez,F,28.0,Argentina,17,13.5,21,24,6,78.17,inter,serie_a,80000000,L. Martínez,10
+791702,Marcus Thuram,F,28.0,France,13,9.43,17,24,6,75.63,inter,serie_a,52000000,M. Thuram,9
+1086223,Ange-Yoan Bonny,F,22.0,Côte d'Ivoire,5,3.79,20,17,4,79.55,inter,serie_a,34000000,A. Bonny,14
+1156616,Francesco Pio Esposito,F,21.0,Italy,7,7.4,4,9,3,73.15,inter,serie_a,47000000,F. P. Esposito,94
+135700,Hakan Çalhanoğlu,M,32.0,Türkiye,9,5.65,5,34,4,90.65,inter,serie_a,16700000,H. Çalhanoğlu,20
+363856,Nicolò Barella,M,29.0,Italy,3,3.16,25,54,8,85.74,inter,serie_a,54000000,N. Barella,23
+138605,Piotr Zieliński,M,32.0,Poland,6,2.47,18,31,3,92.31,inter,serie_a,10300000,P. Zieliński,7
+284361,Federico Dimarco,M,28.0,Italy,7,5.22,7,50,17,83.25,inter,serie_a,48000000,F. Dimarco,32
+1091303,Petar Sučić,M,22.0,Croatia,2,1.66,15,46,2,89.34,inter,serie_a,44000000,P. Sučić,8
+37151,Henrikh Mkhitaryan,M,37.0,Armenia,4,4.92,12,33,1,88.06,inter,serie_a,2900000,H. Mkhitaryan,22
+977679,Luís Henrique,M,24.0,Brazil,1,0.88,13,20,2,86.85,inter,serie_a,24000000,L. Henrique,11
+996820,Kristjan Asllani,M,24.0,Albania,0,1.39,3,21,0,84.12,inter,serie_a,12400000,K. Asllani,21
+835600,Davide Frattesi,M,26.0,Italy,0,2.17,5,15,0,77.69,inter,serie_a,20000000,D. Frattesi,16
+1048889,Andy Diouf,M,23.0,France,1,0.6,12,12,0,85.47,inter,serie_a,22000000,A. Diouf,17
+1048889,Andy Diouf,M,23.0,France,0,0.22,3,1,0,82.5,inter,serie_a,22000000,A. Diouf,17
+1525367,Ebenezer Akinsanmiro,M,21.0,Nigeria,0,0.86,21,39,1,85.66,inter,serie_a,6700000,E. Akinsanmiro,41
+383560,Manuel Akanji,D,30.0,Switzerland,2,2.05,1,48,0,92.12,inter,serie_a,15500000,M. Akanji,25
+826188,Alessandro Bastoni,D,27.0,Italy,1,1.35,6,51,4,87.46,inter,serie_a,61000000,A. Bastoni,95
+787505,Benjamin Pavard,D,30.0,France,0,0.05,0,2,0,95.24,inter,serie_a,12700000,B. Pavard,5
+787505,Benjamin Pavard,D,30.0,France,1,0.82,0,28,2,91.2,inter,serie_a,12700000,B. Pavard,5
+929199,Carlos Augusto,D,27.0,Brazil,1,1.46,6,37,1,89.04,inter,serie_a,22000000,C. Augusto,30
+906275,Yann Bisseck,D,25.0,Germany,3,2.52,8,27,1,92.68,inter,serie_a,47000000,Y. Bisseck,31
+845291,Josep Martínez,G,28.0,Spain,0,0.0,0,0,0,86.96,inter,serie_a,10500000,J. Martínez,13
+308182,Ivan Provedel,G,32.0,Italy,0,0.0,1,0,0,75.29,inter,serie_a,2800000,I. Provedel,94
+301162,Raffaele Di Gennaro,G,32.0,Italy,0,0.0,0,0,0,57.14,inter,serie_a,325000,R. Di Gennaro,12
+1149011,Kenan Yıldız,F,21.0,Türkiye,10,8.17,78,26,6,84.14,juventus,serie_a,72000000,K. Yıldız,10
+935564,Jonathan David,F,26.0,Canada,6,8.81,6,17,4,78.82,juventus,serie_a,29000000,J. David,30
+979222,Francisco Conceição,F,23.0,Portugal,3,7.77,54,34,5,87.28,juventus,serie_a,28000000,F. Conceição,7
+835480,Loïs Openda,F,26.0,Belgium,1,3.57,4,6,0,72.85,juventus,serie_a,27000000,L. Openda,20
+835480,Loïs Openda,F,26.0,Belgium,0,0.12,1,0,0,86.67,juventus,serie_a,27000000,L. Openda,20
+161325,Arkadiusz Milik,F,32.0,Poland,0,0.09,1,0,0,81.82,juventus,serie_a,1600000,A. Milik,14
+887766,Edon Zhegrova,F,27.0,Kosovo,0,0.82,21,5,0,82.53,juventus,serie_a,9500000,E. Zhegrova,11
+367056,Jérémie Boga,F,29.0,Côte d'Ivoire,4,2.87,22,7,0,82.63,juventus,serie_a,7700000,J. Boga,13
+367056,Jérémie Boga,F,29.0,Côte d'Ivoire,2,1.57,13,4,2,83.33,juventus,serie_a,7700000,J. Boga,13
+1613917,Jeff Ekhator,F,19.0,Italy,3,2.89,12,12,0,58.66,juventus,serie_a,19200000,J. Ekhator,21
+901325,Nicolás González,M,28.0,Argentina,0,0.13,0,0,0,40.0,juventus,serie_a,23000000,N. González,11
+901325,Nicolás González,M,28.0,Argentina,5,4.21,24,24,0,76.03,juventus,serie_a,23000000,N. González,11
+904832,Khéphren Thuram,M,25.0,France,3,3.09,23,60,3,86.79,juventus,serie_a,36000000,K. Thuram,19
+867887,Douglas Luiz,M,28.0,Brazil,1,0.53,6,23,0,90.05,juventus,serie_a,19200000,D. Luiz,26
+363860,Manuel Locatelli,M,28.0,Italy,1,2.76,10,102,2,88.16,juventus,serie_a,24000000,M. Locatelli,5
+881931,Weston McKennie,M,27.0,USA,5,7.54,17,40,5,83.15,juventus,serie_a,31000000,W. McKennie,22
+794927,Arthur,M,29.0,Brazil,1,0.92,14,20,3,83.7,juventus,serie_a,4200000,Arthur,98
+803033,Teun Koopmeiners,M,28.0,Netherlands,0,1.5,5,33,0,90.7,juventus,serie_a,13200000,T. Koopmeiners,8
+917048,Andrea Cambiaso,M,26.0,Italy,3,2.95,9,61,4,88.03,juventus,serie_a,21000000,A. Cambiaso,27
+1149288,Vasilije Adžić,M,20.0,Montenegro,1,0.23,1,4,0,86.0,juventus,serie_a,8800000,V. Adžić,17
+1010223,Fabio Miretti,M,22.0,Italy,1,2.12,7,19,2,85.75,juventus,serie_a,14600000,F. Miretti,21
+885197,Bremer,D,29.0,Brazil,4,2.79,1,28,3,89.51,juventus,serie_a,33000000,Bremer,3
+965330,Pierre Kalulu,D,26.0,France,2,1.75,7,62,4,88.85,juventus,serie_a,31000000,P. Kalulu,15
+1128063,Federico Gatti,D,28.0,Italy,2,2.1,1,12,0,90.7,juventus,serie_a,13200000,F. Gatti,4
+988037,Juan Cabal,D,25.0,Colombia,2,0.79,1,9,0,80.6,juventus,serie_a,7200000,J. Cabal,32
+865167,Lloyd Kelly,D,27.0,England,1,1.09,18,48,1,88.93,juventus,serie_a,24000000,L. Kelly,6
+902031,João Mário,D,26.0,Portugal,1,0.28,15,14,0,78.46,juventus,serie_a,8600000,J. Mário,25
+139273,Daniele Rugani,D,31.0,Italy,0,0.1,0,8,0,91.64,juventus,serie_a,2100000,D. Rugani,24
+844609,Michele Di Gregorio,G,28.0,Italy,0,0.0,1,0,0,75.86,juventus,serie_a,9600000,M. Di Gregorio,16
+79645,Mattia Perin,G,33.0,Italy,0,0.0,0,0,0,85.09,juventus,serie_a,1900000,M. Perin,1
+960080,Boulaye Dia,F,29.0,Senegal,1,2.16,5,13,2,83.08,lazio,serie_a,4900000,B. Dia,19
+293581,Mattia Zaccagni,F,31.0,Italy,3,4.07,23,37,0,82.54,lazio,serie_a,6800000,M. Zaccagni,10
+976381,Gustav Isaksen,F,25.0,Denmark,5,5.01,27,16,1,80.74,lazio,serie_a,16399999,G. Isaksen,18
+1101942,Petar Ratkov,F,22.0,Serbia,0,0.59,0,3,0,60.0,lazio,serie_a,8400000,P. Ratkov,20
+1017649,Matteo Cancellieri,F,24.0,Italy,4,4.27,14,42,2,76.81,lazio,serie_a,7200000,M. Cancellieri,22
+1069244,Tijjani Noslin,F,27.0,Netherlands,4,4.84,17,7,2,81.18,lazio,serie_a,7200000,T. Noslin,14
+1389689,Reda Belahyane,M,22.0,Morocco,0,0.21,7,13,2,85.77,lazio,serie_a,6600000,R. Belahyane,21
+959806,Kenneth Taylor,M,24.0,Netherlands,3,2.04,8,21,2,88.71,lazio,serie_a,26000000,K. Taylor,24
+910121,Fisayo Dele-Bashiru,M,25.0,Nigeria,1,0.87,5,19,0,92.2,lazio,serie_a,6500000,F. Dele-Bashiru,7
+937324,Nicolò Rovella,M,24.0,Italy,0,0.03,6,11,1,92.68,lazio,serie_a,25000000,N. Rovella,6
+1100354,Romano Floriani Mussolini,M,23.0,Italy,0,0.41,6,27,1,70.13,lazio,serie_a,2600000,R. F. Mussolini,22
+1466806,Adrian Przyborek,M,19.0,Poland,0,0.02,0,0,0,87.5,lazio,serie_a,6200000,A. Przyborek,28
+317301,Danilo Cataldi,M,31.0,Italy,3,2.99,6,34,3,85.15,lazio,serie_a,3700000,D. Cataldi,32
+944973,Nuno Tavares,D,26.0,Portugal,0,0.65,23,30,0,86.37,lazio,serie_a,12600000,N. Tavares,17
+227864,Alessio Romagnoli,D,31.0,Italy,0,1.46,1,23,0,93.25,lazio,serie_a,6200000,A. Romagnoli,13
+826186,Luca Pellegrini,D,27.0,Italy,1,0.69,10,27,0,80.12,lazio,serie_a,4400000,L. Pellegrini,3
+267619,Adam Marušić,D,33.0,Montenegro,1,1.31,6,35,2,87.03,lazio,serie_a,2700000,A. Marušić,77
+830803,Danilho Doekhi,D,28.0,Netherlands,5,4.25,3,44,0,77.34,lazio,serie_a,13900000,D. Doekhi,-
+273405,Manuel Lazzari,D,32.0,Italy,0,0.15,10,13,0,85.64,lazio,serie_a,2200000,M. Lazzari,29
+1160559,Oliver Provstgaard,D,23.0,Denmark,0,0.33,1,12,0,92.37,lazio,serie_a,16500000,O. Provstgaard,25
+797290,Alfonso Pedraza,D,30.0,Spain,1,1.13,20,41,3,78.94,lazio,serie_a,2400000,A. Pedraza,24
+217784,Patric,D,33.0,Spain,0,0.29,2,2,0,91.42,lazio,serie_a,1400000,Patric,4
+1518983,Edoardo Motta,G,21.0,Italy,0,0.0,0,0,0,71.31,lazio,serie_a,8300000,E. Motta,40
+984095,Alessio Furlanetto,G,24.0,Italy,0,0.0,0,0,0,82.22,lazio,serie_a,365000,A. Furlanetto,55
+1029748,Nikola Štulić,F,24.0,Serbia,4,4.54,4,12,0,68.79,lecce,serie_a,3200000,N. Štulić,9
+984998,Santiago Pierotti,F,25.0,Argentina,1,3.3,39,83,2,75.31,lecce,serie_a,4200000,S. Pierotti,50
+978327,N'Dri Konan,F,25.0,Niger,2,1.03,10,11,0,69.7,lecce,serie_a,1500000,N. Konan,11
+911350,Lameck Banda,M,25.0,Zambia,5,2.77,34,27,4,80.12,lecce,serie_a,3400000,L. Banda,19
+804621,Lassana Coulibaly,M,30.0,Mali,3,2.79,24,48,1,81.95,lecce,serie_a,2300000,L. Coulibaly,29
+849274,Youssef Maleh,M,27.0,Morocco,1,1.0,7,38,0,78.4,lecce,serie_a,1600000,Y. Maleh,29
+1142149,Medon Berisha,M,22.0,Albania,2,1.22,3,21,3,81.32,lecce,serie_a,4900000,M. Berisha,10
+1175854,Oumar Ngom,M,22.0,Mauritania,0,0.23,6,24,0,82.38,lecce,serie_a,2700000,O. Ngom,79
+1019125,Omri Gandelman,M,26.0,Israel,2,1.4,2,9,1,63.79,lecce,serie_a,2800000,O. Gandelman,16
+1127590,Mohamed Kaba,M,24.0,Guinea,0,0.47,9,12,0,76.34,lecce,serie_a,2400000,M. Kaba,21
+1127590,Mohamed Kaba,M,24.0,Guinea,0,1.01,6,28,2,79.11,lecce,serie_a,2400000,M. Kaba,21
+1130662,Sadik Fofana,M,23.0,Togo,0,0.16,1,2,0,51.85,lecce,serie_a,760000,S. Fofana,8
+1157382,Alex Sala,M,25.0,Spain,0,0.25,0,4,1,86.67,lecce,serie_a,1000000,A. Sala,6
+1403088,Olaf Gorter,M,21.0,Netherlands,0,0.0,0,1,0,94.74,lecce,serie_a,190000,O. Gorter,28
+1651825,Tiago Gabriel,D,21.0,Portugal,2,3.6,1,63,0,87.42,lecce,serie_a,14600000,T. Gabriel,44
+1090374,Kialonda Gaspar,D,28.0,Angola,0,0.89,1,23,0,84.34,lecce,serie_a,2900000,K. Gaspar,4
+1801193,Matías Pérez,D,21.0,Chile,0,0.0,0,0,0,93.33,lecce,serie_a,470000,M. Pérez,13
+945616,Antonino Gallo,D,26.0,Italy,0,0.51,13,58,4,70.6,lecce,serie_a,3200000,A. Gallo,25
+1002045,Danilo Veiga,D,23.0,Portugal,0,0.24,19,97,1,70.66,lecce,serie_a,2400000,D. Veiga,17
+1014287,Jamil Siebert,D,24.0,Germany,1,0.41,4,27,0,77.2,lecce,serie_a,4300000,J. Siebert,5
+1910643,Christ-Owen Kouassi,D,23.0,Côte d'Ivoire,0,0.0,0,11,0,80.25,lecce,serie_a,1200000,O. Kouassi,22
+981470,Corrie Ndaba,D,26.0,Ireland,0,0.12,6,7,0,83.42,lecce,serie_a,955000,C. Ndaba,3
+1392819,Gaby Jean,D,26.0,France,0,0.0,0,3,0,80.77,lecce,serie_a,1400000,G. Jean,18
+256667,Wladimiro Falcone,G,31.0,Italy,0,0.0,0,2,0,45.71,lecce,serie_a,3600000,W. Falcone,30
+795044,Patrick Cutrone,F,28.0,Italy,1,2.62,4,6,0,65.71,monza,serie_a,3800000,P. Cutrone,10
+1526933,Eddy Kouadio,D,20.0,Italy,0,0.0,1,4,0,87.5,monza,serie_a,2700000,E. Kouadio,60
+1086417,Rasmus Højlund,F,23.0,Denmark,12,10.59,12,4,5,74.56,napoli,serie_a,66000000,R. Højlund,19
+78893,Romelu Lukaku,F,33.0,Belgium,1,0.26,0,0,0,68.75,napoli,serie_a,5800000,R. Lukaku,9
+875136,Noa Lang,F,27.0,Netherlands,1,0.79,8,12,2,78.81,napoli,serie_a,24000000,N. Lang,77
+850993,David Neres,F,29.0,Brazil,3,1.54,19,10,3,81.57,napoli,serie_a,22000000,D. Neres,7
+1122835,Alisson Santos,F,23.0,Brazil,4,1.43,34,20,0,82.17,napoli,serie_a,29000000,A. Santos,27
+1170773,Giovane,F,22.0,Brazil,3,3.69,36,15,5,69.06,napoli,serie_a,12600000,Giovane,23
+962364,Lorenzo Lucca,F,25.0,Italy,1,0.79,0,0,0,56.25,napoli,serie_a,22000000,L. Lucca,20
+962364,Lorenzo Lucca,F,25.0,Italy,1,1.26,6,0,0,78.79,napoli,serie_a,22000000,L. Lucca,20
+917485,Walid Cheddira,F,28.0,Morocco,4,3.59,14,6,1,67.79,napoli,serie_a,1900000,W. Cheddira,99
+1069560,Antonio Vergara,F,23.0,Italy,1,0.77,8,12,2,76.14,napoli,serie_a,13600000,A. Vergara,26
+877037,Cyril Ngonge,F,26.0,Belgium,1,1.85,19,11,1,69.8,napoli,serie_a,6800000,C. Ngonge,16
+877037,Cyril Ngonge,F,26.0,Belgium,0,0.47,5,7,2,74.59,napoli,serie_a,6800000,C. Ngonge,16
+1163083,Giuseppe Ambrosino,F,22.0,Italy,0,0.0,2,0,0,40.0,napoli,serie_a,2100000,G. Ambrosino,10
+70996,Kevin De Bruyne,M,35.0,Belgium,5,4.05,9,12,2,83.78,napoli,serie_a,8300000,K. De Bruyne,11
+879346,Scott McTominay,M,29.0,Scotland,10,11.01,26,28,3,88.94,napoli,serie_a,38000000,S. McTominay,8
+787941,Frank Anguissa,M,30.0,Cameroon,4,2.54,9,18,1,86.55,napoli,serie_a,14600000,F. Anguissa,99
+150383,Stanislav Lobotka,M,31.0,Slovakia,1,0.51,4,28,1,92.71,napoli,serie_a,10300000,S. Lobotka,68
+235672,Matteo Politano,M,32.0,Italy,2,2.45,33,15,5,82.02,napoli,serie_a,5300000,M. Politano,21
+907668,Billy Gilmour,M,25.0,Scotland,1,0.69,9,14,0,90.03,napoli,serie_a,18800000,B. Gilmour,6
+947929,Jesper Lindstrøm,M,26.0,Denmark,0,0.97,8,8,0,78.07,napoli,serie_a,4300000,J. Lindstrøm,19
+869795,Michael Folorunsho,M,28.0,Italy,2,3.37,22,24,0,66.46,napoli,serie_a,4600000,M. Folorunsho,90
+377512,Pasquale Mazzocchi,M,30.0,Italy,0,0.05,4,2,1,84.62,napoli,serie_a,1400000,P. Mazzocchi,30
+869888,Alessio Zerbin,M,27.0,Italy,0,1.61,8,40,3,72.15,napoli,serie_a,2200000,A. Zerbin,7
+153257,Giovanni Di Lorenzo,D,32.0,Italy,2,2.03,8,45,1,85.89,napoli,serie_a,6800000,G. Di Lorenzo,22
+908716,Miguel Gutiérrez,D,24.0,Spain,1,0.78,8,33,1,88.04,napoli,serie_a,24000000,M. Gutiérrez,3
+870263,Alessandro Buongiorno,D,27.0,Italy,0,1.43,1,33,1,90.97,napoli,serie_a,32000000,A. Buongiorno,4
+148899,Leonardo Spinazzola,D,33.0,Italy,3,1.16,16,24,3,80.73,napoli,serie_a,3400000,L. Spinazzola,37
+805078,Mathías Olivera,D,28.0,Uruguay,0,1.37,2,42,0,91.03,napoli,serie_a,14500000,M. Olivera,17
+332155,Amir Rrahmani,D,32.0,Kosovo,2,1.4,2,22,1,92.28,napoli,serie_a,10600000,A. Rrahmani,13
+984623,Rafa Marín,D,24.0,Spain,1,0.37,2,37,0,90.24,napoli,serie_a,11600000,R. Marín,4
+898815,Sam Beukema,D,27.0,Netherlands,2,1.7,2,19,0,91.4,napoli,serie_a,24000000,S. Beukema,31
+1165371,Luca Marianucci,D,21.0,Italy,0,0.03,2,16,1,83.98,napoli,serie_a,7500000,L. Marianucci,35
+356160,Vanja Milinković-Savić,G,29.0,Serbia,0,0.0,0,0,1,72.29,napoli,serie_a,18600000,V. Milinković-Savić,32
+592794,Alex Meret,G,29.0,Italy,0,0.0,0,0,1,84.0,napoli,serie_a,7200000,A. Meret,1
+352728,Nikita Contini,G,30.0,Italy,0,0.0,0,0,0,66.67,napoli,serie_a,390000,N. Contini,14
+256219,Paulo Dybala,F,32.0,Argentina,2,4.79,19,10,6,83.6,roma,serie_a,5200000,P. Dybala,21
+803039,Donyell Malen,F,27.0,Netherlands,4,4.07,8,4,1,77.66,roma,serie_a,48000000,D. Malen,14
+803039,Donyell Malen,F,27.0,Netherlands,14,14.18,16,5,2,77.27,roma,serie_a,48000000,D. Malen,14
+798820,Artem Dovbyk,F,29.0,Ukraine,3,2.52,2,3,1,71.26,roma,serie_a,13900000,A. Dovbyk,9
+1082406,Matías Soulé,F,23.0,Argentina,6,3.96,35,19,5,84.43,roma,serie_a,36000000,M. Soulé,18
+1514800,Robinio Vaz,F,19.0,France,1,0.51,0,0,0,65.71,roma,serie_a,18700000,R. Vaz,78
+1514800,Robinio Vaz,F,19.0,France,4,2.3,1,5,2,77.14,roma,serie_a,18700000,R. Vaz,78
+1134200,Wesley,M,22.0,Brazil,5,1.6,14,53,0,80.06,roma,serie_a,43000000,Wesley,43
+1134200,Wesley,M,22.0,Brazil,0,0.02,3,0,0,70.0,roma,serie_a,43000000,Wesley,43
+1128530,Neil El Aynaoui,M,25.0,Morocco,1,1.08,9,20,2,89.19,roma,serie_a,22000000,N. El Aynaoui,8
+974087,Manu Koné,M,25.0,France,2,2.11,29,49,3,90.44,roma,serie_a,47000000,M. Koné,17
+848355,Angeliño,M,29.0,Spain,0,0.18,0,9,0,78.47,roma,serie_a,4200000,Angeliño,3
+1175821,Niccolò Pisilli,M,21.0,Italy,2,1.69,8,27,4,86.08,roma,serie_a,31000000,N. Pisilli,61
+186855,Bryan Cristante,M,31.0,Italy,2,2.1,13,72,1,81.31,roma,serie_a,7700000,B. Cristante,4
+982778,Devyne Rensch,M,23.0,Netherlands,1,0.3,4,31,4,81.4,roma,serie_a,7900000,D. Rensch,2
+848287,Evan Ndicka,D,26.0,Côte d'Ivoire,3,1.95,4,24,0,90.58,roma,serie_a,34000000,E. Ndicka,5
+611210,Gianluca Mancini,D,30.0,Italy,4,2.46,4,52,2,86.9,roma,serie_a,14600000,G. Mancini,23
+1499991,Jan Ziółkowski,D,21.0,Poland,0,0.12,0,19,0,83.86,roma,serie_a,11600000,J. Ziółkowski,24
+353130,Mario Hermoso,D,31.0,Spain,3,1.83,4,36,2,86.98,roma,serie_a,6600000,M. Hermoso,22
+893642,Marash Kumbulla,D,26.0,Albania,0,0.1,1,3,0,78.5,roma,serie_a,2800000,M. Kumbulla,24
+1384847,Daniele Ghilardi,D,23.0,Italy,0,0.35,3,30,0,85.9,roma,serie_a,19700000,D. Ghilardi,87
+793986,Mile Svilar,G,26.0,Serbia,0,0.0,0,3,0,69.49,roma,serie_a,33000000,M. Svilar,99
+341143,Giovanni Simeone,F,31.0,Argentina,11,9.92,22,16,0,72.66,torino,serie_a,7200000,G. Simeone,18
+856737,Zakaria Aboukhlal,F,26.0,Morocco,0,0.34,6,22,0,74.1,torino,serie_a,6500000,Z. Aboukhlal,7
+38162,Duván Zapata,F,35.0,Colombia,3,3.86,6,4,1,73.06,torino,serie_a,2600000,D. Zapata,91
+773409,Che Adams,F,30.0,Scotland,6,5.74,13,14,2,75.14,torino,serie_a,4800000,C. Adams,19
+826026,Sandro Kulenović,F,26.0,Croatia,0,0.67,2,4,1,63.08,torino,serie_a,3400000,S. Kulenović,17
+1493157,Alieu Njie,F,21.0,Sweden,1,1.0,7,6,1,72.13,torino,serie_a,2900000,A. Njie,92
+1016788,Cesare Casadei,M,23.0,Italy,6,4.18,13,36,0,75.27,torino,serie_a,15600000,C. Casadei,22
+357596,Nikola Vlašić,M,28.0,Croatia,8,6.96,28,67,3,83.81,torino,serie_a,10300000,N. Vlašić,10
+877371,Ivan Ilić,M,25.0,Serbia,0,0.0,2,8,0,82.11,torino,serie_a,6800000,I. Ilić,8
+1030829,Gvidas Gineitis,M,22.0,Lithuania,0,1.03,17,45,1,76.44,torino,serie_a,5000000,G. Gineitis,66
+934409,Marcus Pedersen,M,26.0,Norway,1,1.74,9,23,2,77.17,torino,serie_a,3300000,M. Pedersen,16
+907667,Tino Anjorin,M,24.0,England,0,0.49,3,9,0,81.45,torino,serie_a,4099999,T. Anjorin,14
+1142612,Emirhan İlkhan,M,22.0,Türkiye,1,2.23,7,26,2,83.97,torino,serie_a,6300000,E. İlkhan,6
+965009,Gaetano Oristanio,M,23.0,Italy,1,2.01,15,9,0,82.05,torino,serie_a,4500000,G. Oristanio,11
+122848,Cristiano Biraghi,D,33.0,Italy,0,0.07,1,9,0,80.11,torino,serie_a,860000,C. Biraghi,34
+1089453,Saúl Coco,D,27.0,Equatorial Guinea,1,0.9,7,58,1,85.28,torino,serie_a,7700000,S. Coco,23
+840414,Ardian Ismajli,D,29.0,Albania,0,0.32,2,33,1,88.56,torino,serie_a,4700000,A. Ismajli,44
+1397347,Ali Dembélé,D,22.0,France,0,0.06,0,0,0,83.33,torino,serie_a,1300000,A. Dembélé,21
+1084846,Franco Israel,G,26.0,Uruguay,0,0.0,0,0,0,58.62,torino,serie_a,2400000,F. Israel,81
+259281,Alberto Paleari,G,33.0,Italy,0,0.0,0,0,0,66.16,torino,serie_a,1300000,A. Paleari,1
+864898,Nicolò Zaniolo,F,27.0,Italy,5,5.5,33,28,6,78.07,udinese,serie_a,14200000,N. Zaniolo,10
+1138856,Adam Buksa,F,30.0,Poland,3,2.11,2,10,0,60.77,udinese,serie_a,3400000,A. Buksa,18
+796455,Vakoun Issouf Bayo,F,29.0,Côte d'Ivoire,0,1.37,1,2,2,75.0,udinese,serie_a,2600000,V. Bayo,15
+1155571,Iker Bravo,F,21.0,Spain,1,0.24,1,1,0,81.82,udinese,serie_a,3300000,I. Bravo,49
+1536811,Idrissa Gueye,F,19.0,Senegal,1,1.72,2,6,0,67.61,udinese,serie_a,8800000,I. Gueye,7
+1536811,Idrissa Gueye,F,19.0,Senegal,0,0.1,0,2,0,50.0,udinese,serie_a,8800000,I. Gueye,7
+830858,Keinan Davis,F,28.0,England,10,10.07,30,11,4,77.78,udinese,serie_a,10300000,K. Davis,9
+825271,Jakub Piotrowski,M,28.0,Poland,1,2.69,13,45,1,82.1,udinese,serie_a,4400000,J. Piotrowski,24
+1154894,Lennon Miller,M,19.0,Scotland,0,0.38,10,21,2,77.6,udinese,serie_a,9300000,L. Miller,38
+1476922,Juan Arizala,M,20.0,Colombia,0,0.03,2,8,0,89.33,udinese,serie_a,3800000,J. Arizala,20
+904887,Jürgen Ekkelenkamp,M,26.0,Netherlands,5,4.89,16,47,3,79.0,udinese,serie_a,10300000,J. Ekkelenkamp,32
+351434,Hassane Kamara,M,32.0,Côte d'Ivoire,0,0.65,17,31,2,81.74,udinese,serie_a,3200000,H. Kamara,11
+922928,Alessandro Zanoli,M,25.0,Italy,1,0.1,14,25,2,80.46,udinese,serie_a,4900000,A. Zanoli,59
+227894,Jesper Karlström,M,31.0,Sweden,1,0.83,10,54,0,81.34,udinese,serie_a,4099999,J. Karlström,8
+1391375,Unai Gómez,M,23.0,Spain,1,2.14,6,13,1,75.68,udinese,serie_a,5200000,U. Gómez,20
+895592,Martín Payero,M,27.0,Argentina,1,1.8,22,19,0,75.55,udinese,serie_a,4800000,M. Payero,32
+575852,Sandi Lovrić,M,28.0,Slovenia,0,0.49,5,22,1,87.71,udinese,serie_a,3400000,S. Lovrić,4
+964119,Jordan Zemura,M,26.0,Zimbabwe,0,0.46,9,31,1,73.57,udinese,serie_a,4500000,J. Zemura,33
+1068286,Rui Modesto,M,26.0,Angola,0,0.02,0,6,1,72.73,udinese,serie_a,1700000,R. Modesto,18
+1961644,Abdoulaye Camara,M,17.0,France,0,0.0,0,0,0,100.0,udinese,serie_a,1500000,A. Camara,29
+1009661,Oier Zarraga,M,27.0,Spain,0,0.28,1,6,0,89.87,udinese,serie_a,1400000,O. Zarraga,6
+892979,Oumar Solet,D,26.0,France,3,2.79,41,75,1,89.25,udinese,serie_a,22000000,O. Solet,28
+1831525,Branimir Mlačić,D,19.0,Croatia,0,0.03,1,3,0,87.18,udinese,serie_a,5400000,B. Mlačić,22
+1126175,Saba Goglichidze,D,22.0,Georgia,0,0.2,0,11,0,81.52,udinese,serie_a,3400000,S. Goglichidze,3
+1063373,Thomas Kristensen,D,24.0,Denmark,3,1.02,6,26,0,85.59,udinese,serie_a,11600000,T. Kristensen,31
+1495719,Matteo Palma,D,18.0,Germany,0,0.0,0,2,0,75.47,udinese,serie_a,6800000,M. Palma,13
+848279,Enzo Ebosse,D,27.0,Cameroon,0,0.05,2,12,1,89.72,udinese,serie_a,2700000,E. Ebosse,77
+58351,Christian Kabasele,D,35.0,Belgium,3,1.29,5,18,0,88.35,udinese,serie_a,805000,C. Kabasele,27
+1136399,Nicolò Bertola,D,23.0,Italy,0,0.57,5,37,1,78.21,udinese,serie_a,7500000,N. Bertola,13
+891656,Maduka Okoye,G,26.0,Nigeria,0,0.0,0,0,0,64.71,udinese,serie_a,10800000,M. Okoye,40
+2899,Daniele Padelli,G,40.0,Italy,0,0.0,0,0,0,66.67,udinese,serie_a,165000,D. Padelli,93
+1133741,Luca Moro,G,22.0,Italy,0,0.62,1,5,0,77.27,venezia,serie_a,73000,L. Moro,12
