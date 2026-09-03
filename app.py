@@ -346,15 +346,15 @@ if page == "Bureau":
         top.columns = ["Joueur", "Club", "Ligue", "Poste", "Âge", "Buts", "Cote"]
         st.dataframe(top, hide_index=True, width="stretch")
         st.markdown(
-            '<p class="note">Classement calculé à partir du fichier nettoyé. '
-            "Ce sont les valeurs présentes dans les données, pas une prédiction du modèle.</p>",
+            '<p class="note">Ce n’est pas un site Transfermarkt. C’est la vitrine du pipeline : '
+            "CSV nettoyés → modèle → estimation.</p>",
             unsafe_allow_html=True,
         )
 
 elif page == "Scout":
     st.markdown('<div class="hero-kicker">Fiche joueur</div>', unsafe_allow_html=True)
     st.markdown('<h1 class="hero-title">Estimer une cote</h1>', unsafe_allow_html=True)
-    st.caption("Âge, poste, club et stats : les mêmes variables que pour l’entraînement du modèle.")
+    st.caption("Les champs correspondent aux features du notebook de modélisation.")
 
     leagues = sorted(players["league"].dropna().unique().tolist())
     clubs_by_league = {
@@ -464,8 +464,10 @@ else:
         st.markdown(f"**{title}**  \n{body}")
 
     st.markdown("---")
-    st.markdown("#### Pourquoi Streamlit ?")
+    st.markdown("#### Pourquoi Streamlit ici, et pas un site React ?")
     st.write(
-        "J’ai utilisé Streamlit pour tester le modèle dans le navigateur, sans construire un site complet. "
-        "Le gros du projet reste la collecte, le nettoyage des CSV et l’entraînement avec scikit-learn."
+        "Dans un master Data / IA, l’objet du projet est le pipeline et le modèle. "
+        "Streamlit (ou Gradio) sert à faire toucher le résultat sans recoder une appli web. "
+        "React + API serait pertinent pour un projet logiciel, pas comme brique obligatoire d’un mémoire data."
     )
+    st.code("streamlit run app.py", language="bash")
