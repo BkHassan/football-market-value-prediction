@@ -10,3 +10,6 @@ requests
 python-dotenv
 SQLAlchemy
 psycopg2-binary
+streamlit
+plotly
+joblib
