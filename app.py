@@ -345,11 +345,6 @@ if page == "Bureau":
         top["market_value_raw"] = top["market_value_raw"].map(money)
         top.columns = ["Joueur", "Club", "Ligue", "Poste", "Âge", "Buts", "Cote"]
         st.dataframe(top, hide_index=True, width="stretch")
-        st.markdown(
-            '<p class="note">Ce n’est pas un site Transfermarkt. C’est la vitrine du pipeline : '
-            "CSV nettoyés → modèle → estimation.</p>",
-            unsafe_allow_html=True,
-        )
 
 elif page == "Scout":
     st.markdown('<div class="hero-kicker">Fiche joueur</div>', unsafe_allow_html=True)
@@ -462,12 +457,3 @@ else:
     ]
     for title, body in steps:
         st.markdown(f"**{title}**  \n{body}")
-
-    st.markdown("---")
-    st.markdown("#### Pourquoi Streamlit ici, et pas un site React ?")
-    st.write(
-        "Dans un master Data / IA, l’objet du projet est le pipeline et le modèle. "
-        "Streamlit (ou Gradio) sert à faire toucher le résultat sans recoder une appli web. "
-        "React + API serait pertinent pour un projet logiciel, pas comme brique obligatoire d’un mémoire data."
-    )
-    st.code("streamlit run app.py", language="bash")
